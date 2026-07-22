@@ -1,0 +1,59 @@
+{% assign collection = site.projects %}
+{% assign item_id = project.id %}
+{% assign collection_name = "projects" %}
+{% assign item_type = "project" %}
+{% assign slug = project.id | split: '/' | last %}
+{% include base/optional-item-link-prep.html %}
+
+<a id="{{ project.id }}"></a>
+<div class="card project-card {{ include.hide }}"
+     data-categories="{% for category in project.categories %}{{ category | strip }}|{% endfor %}">
+  {% unless layout.suppress_project_image %}
+    <a href="{{ project.url | relative_url }}">
+      {% if project.card_image %}
+        <div class="card-img-top project-top"
+             style="background-image: url('{{ project.card_image | relative_url }}')">
+        </div>
+      {% else %}
+        <div class="card-img-top project-top projects-linear-gradient">
+          {% if project.card_title %}
+            {% assign card_title = project.card_title %}
+          {% else %}
+            {% assign card_title = project.title %}
+          {% endif %}
+          <h3 class="project-top-title">{{ card_title }}</h3>
+        </div>
+      {% endif %}
+    </a>
+  {% endunless %}
+
+  <div class="card-body position-relative">
+    {% capture link_html %}
+      <h5 class="card-title project-card-title">{{ project.title }}</h5>
+    {% endcapture %}
+    {% include base/optional-item-link.html link_html=link_html %}
+
+    <div class="card-text project-card-text">
+      {% if project.description %}
+        {{ project.description | markdownify | truncatewords: site.max_words_card_short }}
+      {% else %}
+        {{ project.excerpt | truncatewords: site.max_words_card_short }}
+      {% endif %}
+    </div>
+
+    {% assign collection_name = 'projects' %}
+    {% assign item_type = 'project' %}
+    {% assign slug = project.id | split: '/' | last %}
+    {% include base/recent-news-link.html %}
+  </div>
+
+  {% if project.categories and page.layout == "projects" %}
+    <div class="card-footer">
+      {% assign url = 'projects' | relative_url %}
+      {% for category in project.categories %}
+        <a class="badge badge-pill projects-badge"
+           href="{{ url }}?category={{ category | strip | url_encode }}">{{ category }}</a>
+      {% endfor %}
+    </div>
+  {% endif %}
+</div>

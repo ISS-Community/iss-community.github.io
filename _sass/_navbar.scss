@@ -1,0 +1,101 @@
+// Navbar override for modern corporate ISS Lab theme
+
+.navbar {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #e5e7eb;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+
+  .navbar-brand {
+    font-weight: 700;
+    color: #111827 !important;
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+    padding: 0;
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+    letter-spacing: -0.02em;
+    line-height: 1;
+    transition: all 0.2s ease;
+
+    img {
+      height: 62px;
+      max-height: 62px;
+      max-width: 250px;
+      width: auto;
+      object-fit: contain;
+      display: block;
+      filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.06));
+    }
+
+    &:hover,
+    &:focus {
+      color: #0066cc !important;
+      opacity: 0.9;
+    }
+  }
+
+  .navbar-toggler {
+    color: #1f2937;
+    border-color: rgba(31, 41, 55, 0.2);
+    transition: all 0.2s ease;
+
+    &:hover,
+    &:focus {
+      border-color: rgba(31, 41, 55, 0.4);
+    }
+  }
+
+  .navbar-toggler-icon {
+    filter: none;
+  }
+
+  .nav-link {
+    color: rgba(31, 41, 55, 0.75) !important;
+    font-weight: 500;
+    font-size: 0.95rem;
+    transition: all 0.2s ease;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
+  }
+
+  .nav-link:hover,
+  .nav-link:focus,
+  .nav-link.active {
+    color: #111827 !important;
+    opacity: 1;
+  }
+
+  .navbar-brand {
+    span {
+      display: inline-block;
+      font-size: 1.25rem;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+      transform: translateY(1px);
+      color: #111827;
+    }
+  }
+
+  .dropdown-menu {
+    border: 1px solid #e5e7eb;
+    background-color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+
+  .dropdown-item {
+    color: #1f2937;
+    font-weight: 500;
+    font-size: 0.95rem;
+  }
+
+  .dropdown-item:hover,
+  .dropdown-item:focus,
+  .dropdown-item.active {
+    color: #0066cc;
+    background-color: #f9fafb;
+  }
+}

@@ -1,0 +1,28 @@
+# Footer content is organized in columns, with the first one reserved for social icons (defined in _config.yml).
+# You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  - description:
+    links:
+    - text: Eskişehir Osmangazi Üniversitesi
+      href: https://www.ogu.edu.tr/
+      new_window: false
+    # add more departments as needed
+
+  - description: > # Contact Information
+      **Office**: Office 313, Department of Software Engineering
+      
+      **Address**: College of Engineering and Architecture, Eskişehir Osmangazi University, Eskişehir, Turkey 26040
+      
+      **Email**: ilkerozcelik@ogu.edu.tr
+    links:
+
+  - description: > # Research Focus
+      Intelligent Systems Security Lab conducts research in network security, AI system resilience, and distributed system architectures. We focus on AI for network security, security of AI systems, and blockchain-integrated solutions.
+    links:
+
+# Small print license statement to add at the bottom of the footer. Can be Markdown
+# Will be prefixed by "© {{ site.author }}" if defined in _config.yml
+license: >
+  

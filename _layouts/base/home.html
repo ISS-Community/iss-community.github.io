@@ -1,0 +1,36 @@
+---
+layout: base/base
+description: Template for homepage
+remark: See also page.layout == 'home' in head.html and jumbotron.html
+date: 2021-10-05
+---
+
+<div class="row">
+  <div class="col">
+    <div class="row">
+
+      <!-- from home.md (top left) -->
+      <div class="col home-content">
+        {{ content }}
+      </div>
+
+      <!-- news posts (to right, or in middle) -->
+      {% assign max_posts = site.max_posts_home %}
+      {% include lists/news-ticker.html %}
+    </div>
+
+    <!-- projects (at bottom) -->
+    {% if site.max_projects_home > 0 %}
+    <hr>
+    <h3>Active Projects</h3>
+    <div class="row cards mt-4">
+    {% assign sorted_projects = site.projects | where_exp: "item", "item.active" | sort: "order" %}
+    {% for project in sorted_projects limit:site.max_projects_home %}
+      <div class="col-md-6 col-lg-4">
+        {% include cards/project-card.html %}
+      </div>
+    {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</div>

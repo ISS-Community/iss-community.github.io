@@ -1,0 +1,19 @@
+#-------------------------------------------------------------------------------------
+# ISS Lab Research Publications
+#-------------------------------------------------------------------------------------
+
+- id: Cekis_2025
+  date: 2025-08-29
+  pmid: null
+  pmcid: null
+  authors:
+    - Çekiş İ K
+    - Ayrancı B
+    - Salman F N
+    - Özçelik İ
+  title: IP Spoofing Detection Using Deep Learning
+  journal: Applied Sciences
+  citation: 2025, 15(17), 9508
+  year: 2025
+  url: "https://www.mdpi.com/2076-3417/15/17/9508"
+  abstract: This study compares several deep learning models for IP spoofing detection and evaluates them with accuracy, precision, recall, F1 score, and inference time. The results highlight models that are effective for real-time network security, with an emphasis on practical deployment and platform independence.

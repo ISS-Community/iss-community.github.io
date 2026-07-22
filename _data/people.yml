@@ -1,0 +1,71 @@
+#-------------------------------------------------------------------------------------
+# ISSLab team roster
+#-------------------------------------------------------------------------------------
+- id: Ilker_Ozcelik
+  name: İlker Özçelik
+  role: Principal Investigator
+  description: Assistant Professor at Department of Software Engineering and Director of Intelligent Systems Security Lab (ISSLab) at Eskişehir Osmangazi University. Research interests include AI for network security, security of AI systems, network traffic analysis, software defined networking, and blockchain technology.
+  office: "Office 313, Department of Software Engineering, College of Engineering and Architecture, Eskişehir Osmangazi University, Eskişehir, Turkey 26040"
+  email: ilkerozcelik@ogu.edu.tr
+  linkedin: https://www.linkedin.com/in/ozcelikilker/
+  status: current
+
+- id: Bugra_Ayranci
+  name: Buğra Ayrancı
+  role: Lab Member
+  status: current
+
+- id: Salih_Eren
+  name: Salih Eren 
+  role: Lab Member
+  status: current
+
+- id: Utku_Bugra_Namkazan
+  name: Utku Buğra Namkazan
+  role: Lab Member
+  status: current
+
+- id: Beran_Cagli
+  name: Beran Çağlı
+  role: Lab Member
+  status: current
+
+- id: Ramazan_Kudret_Erkol
+  name: Ramazan Kudret Erkol
+  role: Lab Member
+  status: current
+
+- id: Elif_Fatma_Cebeci
+  name: Elif Fatma Cebeci
+  role: Lab Member
+  status: current
+
+- id: Gorkem_Goksel
+  name: Görkem Göksel
+  role: Community Member
+  status: community
+
+- id: Egemen_Ozer
+  name: Egemen Özer
+  role: Community Member
+  status: community
+
+- id: Yusuf_Can_Yildirim
+  name: Yusuf Can Yıldırım
+  role: Community Member
+  status: community
+
+- id: Vahit_Furkan_Bozdemir
+  name: Vahit Furkan Bozdemir
+  role: Community Member
+  status: community
+
+- id: Zeynep_Lal_Bayhun
+  name: Zeynep Lal Bayhun
+  role: Community Member
+  status: community
+
+- id: Buse_Konyali
+  name: Buse Konyalı
+  role: Community Member
+  status: community

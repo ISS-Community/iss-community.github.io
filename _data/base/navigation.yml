@@ -1,0 +1,20 @@
+# links listed below will be included in your site's navigation bar
+# you are free to rearrange the order, or omit things you don't want to use
+
+- text: Home # users can also reach the homepage by clicking the site's title in the navbar
+  href: /
+
+- text: Projects # extended project descriptions in _projects .md files
+  href: /projects/  
+
+- text: Publications # simpler data set set in publications.yml
+  href: /publications/ 
+
+- text: News & Blog # blog archive and news posts
+  href: /news-blog/
+
+- text: People # simpler data set set in people.yml
+  href: /people/ 
+
+- text: Contact # simple page unto itself, no connections to other data types
+  href: /contact/

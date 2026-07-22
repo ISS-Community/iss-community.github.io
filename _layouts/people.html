@@ -1,0 +1,107 @@
+---
+layout: base/base
+---
+
+{% assign all_people = site.data.people %}
+{% assign principal_people = all_people | where: "role", "Principal Investigator" %}
+{% assign current_members = all_people | where: "status", "current" | where_exp: "person", "person.role != 'Principal Investigator'" %}
+{% assign community_members = all_people | where: "status", "community" %}
+
+<div class="row">
+  <div class="col-md-10 mx-auto {{ item_class }} people-page">
+    {{ content }}
+
+    <section class="people-section">
+      <div class="people-section-title">Principal</div>
+      <div class="people-section-subtitle">Lab leadership</div>
+
+      <div class="people-principal">
+        {% for person in principal_people %}
+          <article class="person-card person-card--principal">
+            <div class="person-card__layout person-card__layout--principal">
+              <div class="person-photo person-photo--principal">
+                {% if person.image %}
+                  <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
+                {% else %}
+                  <span>Add photo</span>
+                {% endif %}
+              </div>
+              <div class="person-card__body">
+                <div class="person-badge">Principal Investigator</div>
+                <div class="person-name">{{ person.name }}</div>
+                {% if person.role %}
+                  <div class="person-role">{{ person.role }}</div>
+                {% endif %}
+                {% if person.description %}
+                  <div class="person-description">{{ person.description }}</div>
+                {% endif %}
+                <div class="person-links">
+                  {% if person.email %}
+                    <a class="person-link" href="mailto:{{ person.email }}">Email</a>
+                  {% endif %}
+                  {% if person.linkedin %}
+                    <a class="person-link" href="{{ person.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+          </article>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="people-section">
+      <div class="people-section-title">Active Members</div>
+      <div class="people-section-subtitle">Lab members</div>
+
+      <div class="people-grid">
+        {% for person in current_members %}
+          <article class="person-card">
+            <div class="person-photo">
+              {% if person.image %}
+                <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
+              {% else %}
+                <span>Photo</span>
+              {% endif %}
+            </div>
+            <div class="person-badge">Lab Member</div>
+            <div class="person-name">{{ person.name }}</div>
+            {% if person.role %}
+              <div class="person-role">{{ person.role }}</div>
+            {% endif %}
+            {% if person.description %}
+              <div class="person-description">{{ person.description }}</div>
+            {% endif %}
+          </article>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="people-section">
+      <div class="people-section-title">Community Members</div>
+      <div class="people-section-subtitle">External collaborators and associates</div>
+
+      <div class="people-grid">
+        {% for person in community_members %}
+          <article class="person-card">
+            <div class="person-photo">
+              {% if person.image %}
+                <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
+              {% else %}
+                <span>Photo</span>
+              {% endif %}
+            </div>
+            <div class="person-badge">Community Member</div>
+            <div class="person-name">{{ person.name }}</div>
+            {% if person.role %}
+              <div class="person-role">{{ person.role }}</div>
+            {% endif %}
+            {% if person.description %}
+              <div class="person-description">{{ person.description }}</div>
+            {% endif %}
+          </article>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+</div>

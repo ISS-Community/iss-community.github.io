@@ -1,0 +1,36 @@
+// Footer override for monochrome ISS Lab theme
+
+body > footer {
+  background-color: #f3efe7;
+  color: #1f2937;
+  font-size: 0.9rem;
+  padding: $grid-gutter-width / 2 0;
+
+  .container {
+    margin-top: 1rem;
+  }
+
+  a,
+  a:hover,
+  a:visited {
+    color: #1f2937;
+  }
+
+  .fa-inverse {
+    color: #ffffff;
+  }
+
+  .fa-ul {
+    margin-left: 1.5rem;
+  }
+
+  .small.mt-2 {
+    p {
+      display: inline;
+
+      & + p:before {
+        content: " — ";
+      }
+    }
+  }
+}

@@ -3,12 +3,21 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - description:
+  - description: >
+      **Quick Links**
     links:
     - text: Eskişehir Osmangazi Üniversitesi
       href: https://www.ogu.edu.tr/
-      new_window: false
-    # add more departments as needed
+      new_window: true
+    - text: ESOGÜ Yazılım Mühendisliği
+      href: https://yazilim.ogu.edu.tr/
+      new_window: true
+    - text: ISS-Community GitHub
+      href: https://github.com/ISS-Community
+      new_window: true
+    - text: ISSLab Blog
+      href: https://esoguisslab.wordpress.com/
+      new_window: true
 
   - description: > # Contact Information
       **Office**: Office 313, Department of Software Engineering
@@ -19,10 +28,9 @@ columns:
     links:
 
   - description: > # Research Focus
-      Intelligent Systems Security Lab conducts research in network security, AI system resilience, and distributed system architectures. We focus on AI for network security, security of AI systems, and blockchain-integrated solutions.
+      Intelligent Systems Security Lab (ISSLab) conducts research in network security, high-throughput traffic monitoring, quantized AI defense, and blockchain-integrated architectures.
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
-  

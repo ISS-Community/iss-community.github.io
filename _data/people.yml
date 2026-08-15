@@ -36,6 +36,8 @@
 - id: Beran_Cagli
   name: Beran Çağlı
   role: Lab Member
+  image: /assets/images/people/beran-cagli.jpg
+  linkedin: https://www.linkedin.com/in/berancagli/
   status: current
 
 - id: Ramazan_Kudret_Erkol

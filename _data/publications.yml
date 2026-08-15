@@ -13,9 +13,9 @@
     - Özçelik İ
   title: "High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models"
   journal: "Symmetry"
-  citation: "2026, 18(7), 1142"
+  citation: "2026, 18(7), 1187"
   year: 2026
-  url: "https://www.mdpi.com/journal/symmetry"
+  url: "https://doi.org/10.3390/sym18071187"
   abstract: "This study presents a high-throughput, ultra-low-latency Distributed Reflection Denial of Service (DrDoS) detection architecture using quantized ONNX neural network models. By systematically comparing optimization and integer quantization configurations, the framework delivers high-precision detection against DNS Amplification and volumetric reflection attacks with microsecond inference times on resource-constrained platforms."
 
 - id: Cekis_2025
@@ -31,11 +31,11 @@
   journal: "Applied Sciences"
   citation: "2025, 15(17), 9508"
   year: 2025
-  url: "https://www.mdpi.com/2076-3417/15/17/9508"
+  url: "https://doi.org/10.3390/app15179508"
   abstract: "This study compares several deep learning models for IP spoofing detection and evaluates them with accuracy, precision, recall, F1 score, and inference time. The results highlight models that are effective for real-time network security, with an emphasis on practical deployment and platform independence."
 
 - id: Karyagdi_2025
-  date: 2025-05-15
+  date: 2025-12-19
   pmid: null
   pmcid: null
   authors:
@@ -43,13 +43,13 @@
     - Özçelik İ
   title: "Botnet Node Detection Using Graph Learning"
   journal: "Applied Sciences"
-  citation: "2025, 15(10), 5412"
+  citation: "2025, 16(1), 24"
   year: 2025
-  url: "https://www.mdpi.com/journal/applsci"
+  url: "https://doi.org/10.3390/app16010024"
   abstract: "This study presents a graph neural network-based method for detecting botnet nodes in complex communication topologies. By modeling host interactions as graph structures, the framework identifies malicious command-and-control communication with high precision even in obfuscated network flows."
 
 - id: Alagha_2025_BEATS
-  date: 2025-03-10
+  date: 2025-06-24
   pmid: null
   pmcid: null
   authors:
@@ -59,11 +59,11 @@
   journal: "IEEE Access"
   citation: "2025, 13, 38120-38135"
   year: 2025
-  url: "https://ieeexplore.ieee.org/"
+  url: "https://doi.org/10.1109/ACCESS.2025.3582722"
   abstract: "BEATS introduces a lightweight and scalable audit trail architecture for enterprise blockchain systems. By combining cryptographic proofs with optimized accumulator structures, it provides verifiable log immutability with minimal storage overhead and low verification latency."
 
 - id: Cekis_2024
-  date: 2024-12-01
+  date: 2024-06-28
   pmid: null
   pmcid: null
   authors:
@@ -73,7 +73,7 @@
     - Özçelik İ
   title: "Performance Comparison of ECC Libraries for IoT Devices"
   journal: "Eskişehir Technical University Journal of Science and Technology A - Applied Sciences and Engineering"
-  citation: "2024, 25(3), 245-258"
+  citation: "2024, 25(2), 278-288"
   year: 2024
-  url: "https://dergipark.org.tr/tr/pub/estubida"
+  url: "https://doi.org/10.18038/estubtda.1427488"
   abstract: "This paper evaluates the performance, memory footprint, and execution efficiency of leading Elliptic Curve Cryptography (ECC) software libraries on resource-constrained IoT embedded platforms, providing benchmark guidance for secure IoT deployments."

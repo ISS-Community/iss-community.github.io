@@ -94,3 +94,19 @@
   year: 2024
   url: "https://doi.org/10.18038/estubtda.1427488"
   abstract: "This paper evaluates the performance, memory footprint, and execution efficiency of leading Elliptic Curve Cryptography (ECC) software libraries on resource-constrained IoT embedded platforms, providing benchmark guidance for secure IoT deployments."
+
+- id: Degirmenci_2023_ROSIDS23
+  date: 2023-10-15
+  pmid: null
+  pmcid: null
+  authors:
+    - Değirmenci E
+    - Kırca Y S
+    - Özçelik İ
+    - Yazıcı A
+  title: "ROSIDS23: Network Intrusion Detection Dataset for Robot Operating System"
+  journal: "Data in Brief"
+  citation: "2023, 51, 109739"
+  year: 2023
+  url: "https://doi.org/10.1016/j.dib.2023.109739"
+  abstract: "ROSIDS23 provides a benchmark intrusion detection dataset captured from Robot Operating System (ROS) middleware environments. Featuring 82 extracted network flow features, it supports machine learning research in securing intelligent robotic networks and smart autonomous systems."

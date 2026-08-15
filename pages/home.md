@@ -1,9 +1,8 @@
 ---
 layout: base/home
 title: ISSLab
-title2: Eskişehir Osmangazi University # same font size as title, but forced onto a second line
-subtitle: Smart and Secure # smaller font size, shown below title+title2
-# banner_image: /assets/images/doe-lab.jpg
+title2: Eskişehir Osmangazi University
+subtitle: Smart and Secure
 permalink: /
 ---
 
@@ -16,15 +15,15 @@ help these systems stay dependable under real-world threats.
 
 ## Research Focus
 
-- Networking: Software-defined networking, traffic analysis, and protocol security
-- Intelligent Systems: Privacy-preserving AI, anomaly detection, and autonomous security
-- Distributed Systems: Blockchain applications, cryptographic accumulators, and decentralized identity
+- **Networking**: Software-defined networking, traffic analysis, and protocol security
+- **Intelligent Systems**: Privacy-preserving AI, anomaly detection, and autonomous security
+- **Distributed Systems**: Blockchain applications, cryptographic accumulators, and decentralized identity
 
 ## Key Projects
 
-- Scalable Edge Authentication Framework - blockchain-backed authentication for distributed edge environments.
-- ISS - DorukNet Data Center Security Project - Flowzen for real-time traffic monitoring and Iris for adaptive data collection in the data center.
-- Digital Twin Based Smart Attack Detection - intelligent defense for critical infrastructure using digital twin technology.
+- **Scalable Edge Authentication Framework** — TÜBİTAK 3501 supported, blockchain-backed authentication for distributed edge environments.
+- **ISS — DorukNet Data Center Security** — Flowzen for real-time traffic monitoring and Iris for adaptive data collection in the data center.
+- **Digital Twin Based Smart Attack Detection** — Intelligent defense for critical infrastructure using digital twin technology.
 
 See the full project list on the [Projects](/projects/) page.
 
@@ -32,4 +31,3 @@ See the full project list on the [Projects](/projects/) page.
 
 We study how secure design, monitoring, and intelligent defense can be combined
 to reduce attack surfaces and improve resilience across modern information systems.
-

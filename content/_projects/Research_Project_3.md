@@ -1,11 +1,11 @@
 ---
 layout: items/project-no-events
-title: Smart Attack Detection
-description: A defense-industry supported project that uses digital twin technology to design intelligent attack detection systems for protecting critical infrastructure.
+title: Digital Twin Based Smart Attack Detection
+description: A defense-industry supported project using digital twin technology to design intelligent attack detection systems for protecting critical infrastructure.
 order: 3
-active: false
+active: true
 card_image: null
-card_title: Smart Attack
+card_title: Smart Attack Detection
 external_url: "https://esoguiss.wordpress.com/distributed-systems/"
 categories:
     - Digital Twin
@@ -15,15 +15,17 @@ categories:
 
 <h4>Project Overview</h4>
 
-This project explores how digital twin models can support fast and intelligent
-attack detection for systems that need high assurance. The aim is to improve the
-security posture of critical infrastructure through simulation-driven defense.
+This defense-industry supported project explores how digital twin models can
+enable fast and intelligent attack detection for systems that require high
+assurance and continuous availability. The aim is to improve the security posture
+of critical infrastructure through simulation-driven defense strategies.
 
-**More information:** Visit [https://esoguiss.wordpress.com/distributed-systems/](https://esoguiss.wordpress.com/distributed-systems/)
+**More information:** [esoguiss.wordpress.com](https://esoguiss.wordpress.com/distributed-systems/)
 
-In this project, we focus on:
+#### Key Research Areas
 
-- Digital twin based attack detection
+- Digital twin modeling for security simulation
+- Intelligent attack detection and classification
 - Critical infrastructure protection
-- Intelligent defense workflows
-- Simulation-assisted security analysis
+- Simulation-assisted security analysis and response planning
+- Real-time threat assessment using virtual replicas

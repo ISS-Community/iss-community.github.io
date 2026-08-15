@@ -4,7 +4,12 @@
 - id: Ilker_Ozcelik
   name: İlker Özçelik
   role: Principal Investigator
-  description: Assistant Professor at Department of Software Engineering and Director of Intelligent Systems Security Lab (ISSLab) at Eskişehir Osmangazi University. Research interests include AI for network security, security of AI systems, network traffic analysis, software defined networking, and blockchain technology.
+  description: >
+    Assistant Professor at Department of Software Engineering and Director of Intelligent Systems Security Lab (ISSLab)
+    at Eskişehir Osmangazi University. He received his MS degree in Electrical Engineering from Syracuse University (2010)
+    and his PhD in Intelligent and Interactive Systems from Clemson University (2015). IEEE member.
+    Research interests include AI for network security, security of AI systems, network traffic analysis,
+    software defined networking, and blockchain technology.
   office: "Office 313, Department of Software Engineering, College of Engineering and Architecture, Eskişehir Osmangazi University, Eskişehir, Turkey 26040"
   email: ilkerozcelik@ogu.edu.tr
   linkedin: https://www.linkedin.com/in/ozcelikilker/
@@ -16,7 +21,7 @@
   status: current
 
 - id: Salih_Eren
-  name: Salih Eren 
+  name: Salih Eren
   role: Lab Member
   status: current
 

@@ -1,11 +1,11 @@
 #-------------------------------------------------------------------------------------
 # site settings
 #-------------------------------------------------------------------------------------
-version: 11 # increment version to force a site rebuild and update Recent News even if content is unchanged
+version: 12 # increment version to force a site rebuild and update Recent News even if content is unchanged
 title: ISS Lab # in top navigation bar (navbar) and <head>
 description: Intelligent Systems Security Lab - Eskişehir Osmangazi Üniversitesi # description in <head>
 author: ISS Lab                    # for copyright statement in footer
-url: "https://github.com/ozcelikilker" # no slash at the end
+url: "https://isslab.co" # no slash at the end
 # baseurl: "/sitename"              # only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                     # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
 #-------------------------------------------------------------------------------------

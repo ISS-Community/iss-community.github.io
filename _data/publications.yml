@@ -18,6 +18,23 @@
   url: "https://doi.org/10.3390/sym18071187"
   abstract: "This study presents a high-throughput, ultra-low-latency Distributed Reflection Denial of Service (DrDoS) detection architecture using quantized ONNX neural network models. By systematically comparing optimization and integer quantization configurations, the framework delivers high-precision detection against DNS Amplification and volumetric reflection attacks with microsecond inference times on resource-constrained platforms."
 
+- id: Cetin_2025_Flowzen
+  date: 2025-10-15
+  pmid: null
+  pmcid: null
+  authors:
+    - Çetin F
+    - Gültekin A
+    - Çekiş İ K
+    - Özgür M
+    - Özçelik İ
+  title: "Flowzen: Modular and Scalable Network Monitoring Platform"
+  journal: "18th International Conference on Information Security and Cryptology (ISCTurkiye 2025)"
+  citation: "2025, ISCTurkiye Proceedings"
+  year: 2025
+  url: "https://iscturkiye.com/"
+  abstract: "Flowzen presents a cloud-native, modular network monitoring platform coupling real-time stream processing with Kubernetes Horizontal Pod Autoscaling (HPA). The framework minimizes packet loss from 52% to 2.5% during high-volume bursts and provides granular telemetry for real-time security analytics in data center networks."
+
 - id: Cekis_2025
   date: 2025-08-29
   pmid: null

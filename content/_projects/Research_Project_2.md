@@ -1,39 +1,34 @@
 ---
-title: ISS — DorukNet Data Center Security
-subtitle: Real-time monitoring for resilient cloud infrastructure
-description: A collaboration with DorukNet combining Flowzen for real-time traffic monitoring and Iris for adaptive data collection to support resilient data center operations.
+title: Flowzen — Modular & Scalable Network Monitoring Platform
+subtitle: Real-time traffic monitoring & autoscaling stream analytics
+description: Flowzen is a modular, high-throughput network monitoring platform utilizing streaming architectures and Horizontal Pod Autoscaling (HPA) to analyze high-speed enterprise traffic and detect cyber attacks.
 order: 2
 active: true
 card_image: null
-card_title: Data Center Security
+card_title: Flowzen Platform
 external_url: "https://issdatacentersecurity.wordpress.com/"
 categories:
-    - Data Center Security
+    - Flowzen
     - Network Monitoring
-    - Cloud Infrastructure
+    - Stream Analytics
+    - Data Center Security
 ---
 
 <h4>Project Overview</h4>
 
-This industry-collaboration project with DorukNet addresses operational visibility
-and resilience in modern data centers. The project develops two complementary tools:
-**Flowzen** provides real-time traffic monitoring and analysis, while **Iris** handles
-adaptive telemetry collection pipelines to support faster threat detection and
-better incident response in cloud-scale environments.
+Developed within the **ISS — DorukNet Data Center Security Project**, **Flowzen** is a modern, modular, and cloud-native network traffic monitoring platform designed for high-bandwidth data center environments. Traditional monitoring tools often suffer from high latency and severe packet loss under sudden traffic bursts.
 
-**Project page:** [issdatacentersecurity.wordpress.com](https://issdatacentersecurity.wordpress.com/)
+Flowzen overcomes these limitations by coupling a real-time streaming pipeline with **Kubernetes Horizontal Pod Autoscaling (HPA)**. In stress tests and live data center deployments, Flowzen drastically reduced packet loss from 52% to 2.5% under high-volume volumetric attacks while providing microsecond flow-level visibility.
 
-#### Key Research Areas
+**Project Page:** [issdatacentersecurity.wordpress.com](https://issdatacentersecurity.wordpress.com/)
 
-- Real-time network traffic monitoring and analysis
-- Adaptive telemetry collection and data pipelines
-- Resilient cloud infrastructure operations
-- Security analytics for data center environments
-- Anomaly detection in large-scale network traffic
+#### Key Research Areas & Architecture
 
-#### Tools Developed
+- **High-Throughput Packet Processing**: Zero-copy packet capture and wire-speed flow aggregation.
+- **Horizontal Pod Autoscaling (HPA)**: Dynamic worker scaling based on real-time traffic volume and CPU utilization.
+- **Stream Analytics**: Real-time feature extraction for machine learning and anomaly detection models.
+- **Attack Detection Integration**: Native feeds to DrDoS, Botnet, and IP spoofing classifiers.
 
-- **Flowzen**: A real-time network traffic monitoring platform designed for data center
-  environments, providing deep packet analysis and flow-level visibility.
-- **Iris**: An adaptive data collection system that dynamically adjusts sampling rates
-  and data granularity based on current network conditions and security requirements.
+#### Key Publications
+
+- Çetin F., Gültekin A., Çekiş İ. K., Özgür M., Özçelik İ., *"Flowzen: Modular and Scalable Network Monitoring Platform"*, 18th International Conference on Information Security and Cryptology (ISCTurkiye), 2025.

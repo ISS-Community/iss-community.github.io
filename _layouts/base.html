@@ -1,0 +1,57 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  {% if page.url == '/' or page.layout == 'home' or page.layout == 'base/home' or page.title == 'ISS Lab' %}
+    <title>ISS Lab</title>
+  {% else %}
+    <title>{{ page.title }} | ISS Lab</title>
+  {% endif %}
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/logo/iss-logo.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/logo/iss-logo.png' | relative_url }}">
+  <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/images/logo/iss-logo.png' | relative_url }}">
+
+  <!-- Google Fonts: Inter & Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+  {% if page.description %}
+    <meta name="description" content="{{ page.description | strip_html | strip_newlines | truncate: 160 }}">
+  {% else %}
+    <meta name="description" content="{{ site.description }}">
+  {% endif %}
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  {% feed_meta %}
+</head>
+
+<body>
+  {% include base/navbar.html %}
+
+  <main>
+    {% include base/jumbotron-image.html %}
+
+    <div class="container content py-4">
+      {{ content }}
+    </div>
+  </main>
+
+  {% include base/footer.html %}
+
+  <!-- Bootstrap Scripts -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

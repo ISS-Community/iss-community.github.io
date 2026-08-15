@@ -2,6 +2,22 @@
 # ISS Lab Research Publications
 #-------------------------------------------------------------------------------------
 
+- id: Eren_2026_Symmetry
+  date: 2026-07-14
+  pmid: null
+  pmcid: null
+  authors:
+    - Eren S
+    - Gültekin A
+    - Özkan Ö
+    - Özçelik İ
+  title: "High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models"
+  journal: "Symmetry"
+  citation: "2026, 18(7), 1142"
+  year: 2026
+  url: "https://www.mdpi.com/journal/symmetry"
+  abstract: "This study presents a high-throughput, ultra-low-latency Distributed Reflection Denial of Service (DrDoS) detection architecture using quantized ONNX neural network models. By systematically comparing optimization and integer quantization configurations, the framework delivers high-precision detection against DNS Amplification and volumetric reflection attacks with microsecond inference times on resource-constrained platforms."
+
 - id: Cekis_2025
   date: 2025-08-29
   pmid: null

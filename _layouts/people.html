@@ -72,6 +72,14 @@ layout: base/base
             {% if person.description %}
               <div class="person-description">{{ person.description }}</div>
             {% endif %}
+            <div class="person-links">
+              {% if person.email %}
+                <a class="person-link" href="mailto:{{ person.email }}">Email</a>
+              {% endif %}
+              {% if person.linkedin %}
+                <a class="person-link" href="{{ person.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+              {% endif %}
+            </div>
           </article>
         {% endfor %}
       </div>
@@ -99,6 +107,14 @@ layout: base/base
             {% if person.description %}
               <div class="person-description">{{ person.description }}</div>
             {% endif %}
+            <div class="person-links">
+              {% if person.email %}
+                <a class="person-link" href="mailto:{{ person.email }}">Email</a>
+              {% endif %}
+              {% if person.linkedin %}
+                <a class="person-link" href="{{ person.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+              {% endif %}
+            </div>
           </article>
         {% endfor %}
       </div>

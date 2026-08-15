@@ -18,6 +18,8 @@
 - id: Bugra_Ayranci
   name: Buğra Ayrancı
   role: Lab Member
+  image: /assets/images/people/bugra-ayranci.jpg
+  linkedin: https://www.linkedin.com/in/bugraayranci/
   status: current
 
 - id: Salih_Eren

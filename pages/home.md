@@ -1,5 +1,5 @@
 ---
-layout: base/home
+layout: home
 title: ISS Lab
 title2: Eskişehir Osmangazi University
 subtitle: Smart and Secure

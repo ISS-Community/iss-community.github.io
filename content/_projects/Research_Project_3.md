@@ -20,7 +20,8 @@ Developed in collaboration with **DorukNet**, **Iris** serves as the adaptive te
 
 Iris solves this with an adaptive control loop that dynamically scales data collection resolution: during baseline operations it maintains lightweight statistical summaries, and automatically switches to high-fidelity deep packet telemetry upon detecting anomalous flow triggers.
 
-**Project Page:** [issdatacentersecurity.wordpress.com](https://issdatacentersecurity.wordpress.com/)
+- **Project Website:** [issdatacentersecurity.wordpress.com](https://issdatacentersecurity.wordpress.com/)
+- **Industry Partner:** DorukNet
 
 #### Key Research Areas & Architecture
 
@@ -28,3 +29,15 @@ Iris solves this with an adaptive control loop that dynamically scales data coll
 - **Resource-Constrained Optimization**: Minimizing CPU/memory overhead on host virtual machines and containers.
 - **Unified Security Pipeline**: Seamless integration with Flowzen for coordinated detection and response.
 - **Real-Time Analytics Integration**: Providing low-latency training and inference datasets for AI anomaly engines.
+
+#### Related Publications & Outputs
+
+- **High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models**  
+  *Authors:* Salih Eren, Alperen Gültekin, Ömer Özkan, İlker Özçelik  
+  *Journal:* Symmetry, 2026, 18(7), 1187.  
+  🔗 [Read Article (DOI: 10.3390/sym18071187)](https://doi.org/10.3390/sym18071187)
+
+- **Botnet Node Detection Using Graph Learning**  
+  *Authors:* Gizem Karyağdı, İlker Özçelik  
+  *Journal:* Applied Sciences, 2025, 16(1), 24.  
+  🔗 [Read Article (DOI: 10.3390/app16010024)](https://doi.org/10.3390/app16010024)

@@ -20,7 +20,7 @@ Enterprise systems and critical data pipelines require immutable audit logs for 
 
 By integrating cryptographic accumulators with distributed ledgers, BEATS proves the authenticity of transactions and access events with constant-size proofs and microsecond verification times, overcoming conventional blockchain scalability limits.
 
-**Lab Research:** [esoguiss.wordpress.com](https://esoguiss.wordpress.com/)
+- **Research Group Page:** [esoguiss.wordpress.com](https://esoguiss.wordpress.com/)
 
 #### Key Research Areas
 
@@ -29,6 +29,9 @@ By integrating cryptographic accumulators with distributed ledgers, BEATS proves
 - Privacy-preserving log verification in multi-tenant environments
 - Regulatory compliance and immutable digital forensics
 
-#### Key Publications
+#### Related Publications
 
-- Alagha B., Özçelik İ., *"BEATS: Practical Audit Trail in Blockchain Systems"*, IEEE Access, 2025.
+- **BEATS: Practical Audit Trail in Blockchain Systems**  
+  *Authors:* Bilal Alagha, İlker Özçelik  
+  *Journal:* IEEE Access, 2025, 13, 38120-38135.  
+  🔗 [Read Article (DOI: 10.1109/ACCESS.2025.3582722)](https://doi.org/10.1109/ACCESS.2025.3582722)

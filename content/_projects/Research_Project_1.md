@@ -16,14 +16,15 @@ categories:
 
 <h4>Project Overview</h4>
 
-This TÜBİTAK 3501 supported project focuses on secure and low-latency authentication
+This **TÜBİTAK 3501** supported project focuses on secure and low-latency authentication
 across distributed IoT edge environments. As the number of connected devices grows,
 traditional centralized authentication becomes a bottleneck. Our framework uses
 blockchain-based coordination and cryptographic accumulators so authentication data
 can be shared and verified efficiently across edge nodes without relying on a single
 point of trust.
 
-**Project page:** [issedgeauthentication.wordpress.com](https://issedgeauthentication.wordpress.com/)
+- **Project Website:** [issedgeauthentication.wordpress.com](https://issedgeauthentication.wordpress.com/)
+- **Funding Body:** TÜBİTAK (Scientific and Technological Research Council of Turkey) — 3501 Career Development Program
 
 #### Key Research Areas
 
@@ -31,11 +32,11 @@ point of trust.
 - Blockchain coordination for distributed trust management
 - Efficient verification with cryptographic accumulators
 - Decentralized identity management for edge computing
+- Performance benchmarking of elliptic curve cryptography (ECC) on embedded microcontrollers
 
-#### Project Scope
+#### Related Publications
 
-The project addresses the challenge of providing fast and secure device authentication
-in edge computing environments where latency and resource constraints make centralized
-approaches impractical. By combining blockchain's immutability with cryptographic
-accumulators' compact proofs, we enable devices to verify each other's identities
-without contacting a central authority.
+- **Performance Comparison of ECC Libraries for IoT Devices**  
+  *Authors:* İsmet Kaan Çekiş, Armağan Toros, Nimet Apaydın, İlker Özçelik  
+  *Journal:* Eskişehir Technical University Journal of Science and Technology A - Applied Sciences and Engineering, 2024, 25(2), 278-288.  
+  🔗 [Read Article (DOI: 10.18038/estubtda.1427488)](https://doi.org/10.18038/estubtda.1427488)

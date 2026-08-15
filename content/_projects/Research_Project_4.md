@@ -19,11 +19,23 @@ This defense-industry supported project explores how **digital twin architecture
 
 By maintaining high-fidelity virtual replicas of operational network environments, the framework simulates cyber-physical attack trajectories in real-time, predicts vulnerability exploitation, and guides automated response strategies without disrupting live systems.
 
-**More Information:** [esoguiss.wordpress.com](https://esoguiss.wordpress.com/distributed-systems/)
+- **Research Group Page:** [esoguiss.wordpress.com](https://esoguiss.wordpress.com/distributed-systems/)
 
 #### Key Research Areas
 
 - Digital twin modeling and real-time state synchronization
 - Intelligent attack detection and multi-stage classification
-- Simulation-assisted defense optimization and playbooks
+- Simulation-assisted defense optimization and automated countermeasure playbooks
 - Critical infrastructure protection and anomaly containment
+
+#### Related Publications & Frameworks
+
+- **Botnet Node Detection Using Graph Learning**  
+  *Authors:* Gizem Karyağdı, İlker Özçelik  
+  *Journal:* Applied Sciences, 2025, 16(1), 24.  
+  🔗 [Read Article (DOI: 10.3390/app16010024)](https://doi.org/10.3390/app16010024)
+
+- **High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models**  
+  *Authors:* Salih Eren, Alperen Gültekin, Ömer Özkan, İlker Özçelik  
+  *Journal:* Symmetry, 2026, 18(7), 1187.  
+  🔗 [Read Article (DOI: 10.3390/sym18071187)](https://doi.org/10.3390/sym18071187)

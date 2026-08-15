@@ -24,6 +24,8 @@ help these systems stay dependable under real-world threats.
 - **Scalable Edge Authentication Framework** — TÜBİTAK 3501 supported, blockchain-backed authentication for distributed edge environments.
 - **ISS — DorukNet Data Center Security** — Flowzen for real-time traffic monitoring and Iris for adaptive data collection in the data center.
 - **Digital Twin Based Smart Attack Detection** — Intelligent defense for critical infrastructure using digital twin technology.
+- **Graph Learning for Threat & Botnet Detection** — Graph Neural Network (GNN) models for topological network security analytics.
+- **BEATS — Blockchain Audit Trail Architecture** — Scalable, verifiable, and immutable audit trailing for enterprise systems.
 
 See the full project list on the [Projects](/projects/) page.
 

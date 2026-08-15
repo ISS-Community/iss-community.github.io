@@ -1,31 +1,77 @@
-// Footer override for monochrome ISS Lab theme
+// Modern Footer Styling for ISS Lab
 
 body > footer {
-  background-color: #f3efe7;
-  color: #1f2937;
+  background-color: #0f172a;
+  color: #94a3b8;
   font-size: 0.9rem;
-  padding: $grid-gutter-width / 2 0;
+  padding: 3.5rem 0 2rem;
+  border-top: 1px solid #1e293b;
+  margin-top: 3rem;
 
   .container {
-    margin-top: 1rem;
+    margin-top: 0;
   }
 
-  a,
-  a:hover,
-  a:visited {
-    color: #1f2937;
+  h1, h2, h3, h4, h5, h6 {
+    color: #f8fafc;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    color: #94a3b8;
+    line-height: 1.65;
+  }
+
+  strong {
+    color: #f1f5f9;
+  }
+
+  a {
+    color: #cbd5e1;
+    transition: color 0.2s ease;
+
+    &:hover,
+    &:focus {
+      color: #60a5fa;
+      text-decoration: none;
+    }
+
+    &:visited {
+      color: #cbd5e1;
+    }
   }
 
   .fa-inverse {
-    color: #ffffff;
+    color: #0f172a;
+  }
+
+  .fa-stack {
+    color: #38bdf8;
+    transition: transform 0.2s ease;
+
+    &:hover {
+      transform: scale(1.1);
+    }
   }
 
   .fa-ul {
     margin-left: 1.5rem;
   }
 
-  .small.mt-2 {
+  hr {
+    border-top: 1px solid #1e293b;
+    margin: 2rem 0 1.5rem;
+  }
+
+  .small.mt-2, .small {
+    color: #64748b;
+    font-size: 0.85rem;
+
     p {
+      color: #64748b;
       display: inline;
 
       & + p:before {

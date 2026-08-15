@@ -1,6 +1,6 @@
 ---
 layout: base/home
-title: ISSLab
+title: ISS Lab
 title2: Eskişehir Osmangazi University
 subtitle: Smart and Secure
 permalink: /

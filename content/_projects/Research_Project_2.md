@@ -46,8 +46,8 @@ Flowzen overcomes these limitations by coupling a real-time streaming pipeline w
 
 - **Flowzen Network Traffic Monitoring & HPA Autoscaling Demo**  
   High-speed packet processing, automated Kubernetes worker scaling, and real-time streaming anomaly detection.  
-  ▶️ [Watch Video on YouTube (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+  ▶️ [Watch Video on YouTube (@isslab_tr)](https://www.youtube.com/@isslab_tr/videos)
 
 - **Software-Defined Networking (SDN) & Data Center Security Seminars**  
   Large-scale data center DoS/DDoS detection architectures and high-throughput telemetry stream analytics.  
-  ▶️ [Watch Video on YouTube (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+  ▶️ [Watch Video on YouTube (@isslab_tr)](https://www.youtube.com/@isslab_tr/videos)

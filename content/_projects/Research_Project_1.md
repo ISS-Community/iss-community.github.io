@@ -45,8 +45,8 @@ point of trust.
 
 - **ECC Authentication & Cryptography Tutorial Series**  
   Elliptic Curve Cryptography (ECC), digital signature schemes, and lightweight authentication protocols on embedded STM32 microcontrollers.  
-  ▶️ [Watch Video on YouTube (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+  ▶️ [Watch Video on YouTube (@isslab_tr)](https://www.youtube.com/@isslab_tr/videos)
 
 - **STM Projects & Embedded System Security Presentations**  
   Hardware-level secure key exchange, benchmark analysis, and microcontroller evaluation demos.  
-  ▶️ [Watch Video on YouTube (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+  ▶️ [Watch Video on YouTube (@isslab_tr)](https://www.youtube.com/@isslab_tr/videos)

@@ -40,4 +40,4 @@ By integrating cryptographic accumulators with distributed ledgers, BEATS proves
 
 - **Blockchain & Cryptographic Accumulator Seminar Video**  
   Technical research presentation on constant-size membership proofs, zero-knowledge verifiable credentials, and decentralized audit trailing architectures.  
-  ▶️ [Watch Video on YouTube (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+  ▶️ [Watch Video on YouTube (@isslab_tr)](https://www.youtube.com/@isslab_tr/videos)

@@ -89,33 +89,11 @@ layout: base/base
       <div class="people-section-title">Community Members</div>
       <div class="people-section-subtitle">External collaborators and associates</div>
 
-      <div class="people-grid">
+      <div class="community-members-grid">
         {% for person in community_members %}
-          <article class="person-card">
-            <div class="person-photo">
-              {% if person.image %}
-                <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
-              {% else %}
-                <span>Photo</span>
-              {% endif %}
-            </div>
-            <div class="person-badge">Community Member</div>
-            <div class="person-name">{{ person.name }}</div>
-            {% if person.role %}
-              <div class="person-role">{{ person.role }}</div>
-            {% endif %}
-            {% if person.description %}
-              <div class="person-description">{{ person.description }}</div>
-            {% endif %}
-            <div class="person-links">
-              {% if person.email %}
-                <a class="person-link" href="mailto:{{ person.email }}">Email</a>
-              {% endif %}
-              {% if person.linkedin %}
-                <a class="person-link" href="{{ person.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-              {% endif %}
-            </div>
-          </article>
+          <div class="community-member-card">
+            <div class="community-member-name">{{ person.name }}</div>
+          </div>
         {% endfor %}
       </div>
     </section>

@@ -7,7 +7,7 @@ permalink: /contact/
 ### Principal Investigator
 
 **İlker Özçelik, Ph.D.**  
-Director, Intelligent Systems Security Lab (ISSLab)  
+Director, Intelligence Systems and Security Lab (ISSLab)  
 Assistant Professor, Department of Software Engineering  
 Eskişehir Osmangazi University  
 

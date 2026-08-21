@@ -4,9 +4,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   {% if page.layout == 'home' or page.url == '/' %}
-    <title>ISS Lab</title>
+    <title>{{ site.title }}</title>
   {% else %}
-    <title>{{ page.title }} - ISS Lab</title>
+    <title>{{ page.title }} - {{ site.title }}</title>
   {% endif %}
 
   <!-- Favicon and App Icons -->

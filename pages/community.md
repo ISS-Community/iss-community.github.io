@@ -1,14 +1,14 @@
 ---
 layout: base/default
 title: ISSLAB Community
-subtitle: TÜBİTAK 2209 Projeleri, Seminerler, Video Arşivi ve Topluluk Kanalları
+subtitle: TÜBİTAK 2209 Projects, Video Archive, Seminars & Open Collaboration
 permalink: /community/
 ---
 
 <div class="community-hub">
 
   <p class="lead text-center mb-4">
-    <strong>Intelligence Systems and Security Lab (ISSLab) Topluluğu</strong>; lisans ve lisansüstü araştırmacılar, açık kaynak geliştiricileri ve siber güvenlik meraklılarını bir araya getiren dinamik bir araştırma ve öğrenme ekosistemidir.
+    The <strong>Intelligence Systems and Security Lab (ISSLab) Community</strong> brings together undergraduate and graduate researchers, open-source developers, and cybersecurity enthusiasts in an active, collaborative research environment.
   </p>
 
   <!-- Community Channels Section -->
@@ -21,16 +21,16 @@ permalink: /community/
             <i class="fab fa-youtube"></i>
           </div>
           <div>
-            <h4 class="channel-title">YouTube Kanalı</h4>
+            <h4 class="channel-title">YouTube Channel</h4>
             <span class="badge badge-danger">@isslab_tr</span>
           </div>
         </div>
         <p class="channel-desc">
-          Yüksek lisans seminerleri, webcastler, ECC otantikasyon eğitim serileri, STM projeleri ve laboratuvar davet videoları.
+          Graduate research seminars, technical webcasts, ECC authentication tutorials, STM projects, and lab invitation videos.
         </p>
       </div>
       <div class="channel-cta">
-        Videoları İzle <i class="fas fa-arrow-right"></i>
+        Watch Videos <i class="fas fa-arrow-right"></i>
       </div>
     </a>
 
@@ -42,16 +42,16 @@ permalink: /community/
             <i class="fab fa-linkedin"></i>
           </div>
           <div>
-            <h4 class="channel-title">LinkedIn Grubu</h4>
+            <h4 class="channel-title">LinkedIn Group</h4>
             <span class="badge badge-primary">ISSLab Community</span>
           </div>
         </div>
         <p class="channel-desc">
-          Akademik duyurular, staj ve proje fırsatları, etkinlik paylaşımları ve mezun/araştırmacı ağı.
+          Academic announcements, research & internship opportunities, event notices, and our alumni network.
         </p>
       </div>
       <div class="channel-cta">
-        Gruba Katıl <i class="fas fa-arrow-right"></i>
+        Join Group <i class="fas fa-arrow-right"></i>
       </div>
     </a>
 
@@ -63,16 +63,16 @@ permalink: /community/
             <i class="fas fa-users"></i>
           </div>
           <div>
-            <h4 class="channel-title">Google Grubu</h4>
+            <h4 class="channel-title">Google Group</h4>
             <span class="badge badge-success">iss-lab-community</span>
           </div>
         </div>
         <p class="channel-desc">
-          Tartışma listesi, laboratuvar içi teknik haberleşmeler, seminer takvimi ve kaynak paylaşımları.
+          Mailing list, internal technical discussions, seminar schedules, and shared academic resources.
         </p>
       </div>
       <div class="channel-cta">
-        Tartışmalara Katıl <i class="fas fa-arrow-right"></i>
+        Join Discussion <i class="fas fa-arrow-right"></i>
       </div>
     </a>
   </div>
@@ -83,44 +83,44 @@ permalink: /community/
   <section class="mb-5">
     <div class="d-flex align-items-center justify-content-between flex-wrap mb-3">
       <div>
-        <h3 class="mb-1"><i class="fas fa-graduation-cap text-primary mr-2"></i>TÜBİTAK 2209 Proje Çıktıları & Öğrenci Araştırmaları</h3>
-        <p class="text-muted">Laboratuvarımız bünyesinde yürütülen lisans araştırma projeleri, prototipler ve poster çıktıları</p>
+        <h3 class="mb-1"><i class="fas fa-graduation-cap text-primary mr-2"></i>TÜBİTAK 2209 Project Outputs & Student Research</h3>
+        <p class="text-muted">Undergraduate research initiatives, prototypes, and technical poster outputs mentored within ISSLab</p>
       </div>
     </div>
 
     <div class="project-output-grid">
       <div class="output-card">
-        <div class="output-badge"><i class="fas fa-microchip"></i> TÜBİTAK 2209-A Destekli</div>
-        <div class="output-title">STM32 Tabanlı Donanımsal ECC Kimlik Doğrulama Birimi</div>
+        <div class="output-badge"><i class="fas fa-microchip"></i> TÜBİTAK 2209-A Supported</div>
+        <div class="output-title">STM32-Based Hardware ECC Authentication Unit</div>
         <div class="output-desc">
-          Gömülü sistemler ve IoT uç cihazlar için optimize edilmiş eliptik eğri kriptografisi (ECC) tabanlı donanım güvenliği ve mikrodenetleyici kimlik doğrulama mimarisi.
+          Elliptic curve cryptography (ECC) hardware security module and lightweight mutual authentication architecture designed for resource-constrained IoT edge devices.
         </div>
         <div class="output-meta">
-          <span><i class="far fa-folder text-muted mr-1"></i> Donanım Güvenliği</span>
+          <span><i class="far fa-folder text-muted mr-1"></i> Hardware Security</span>
           <span><i class="fas fa-code text-muted mr-1"></i> STM32 / C</span>
         </div>
       </div>
 
       <div class="output-card">
-        <div class="output-badge"><i class="fas fa-network-wired"></i> TÜBİTAK 2209-A Destekli</div>
-        <div class="output-title">Yüksek Başarımlı SDN Ağ Trafiği İzleme ve Anomali Tespiti</div>
+        <div class="output-badge"><i class="fas fa-network-wired"></i> TÜBİTAK 2209-A Supported</div>
+        <div class="output-title">High-Throughput SDN Traffic Monitoring & Anomaly Detection</div>
         <div class="output-desc">
-          Yazılım tanımlı ağlarda (SDN) hafif siklet makine öğrenmesi modelleri ile gerçek zamanlı DDoS ve port tarama saldırısı tespiti prototipi.
+          Real-time DDoS mitigation and port scan anomaly classifier prototype operating on Software-Defined Networking (SDN) data planes with lightweight machine learning.
         </div>
         <div class="output-meta">
-          <span><i class="far fa-folder text-muted mr-1"></i> SDN & Trafik Analizi</span>
+          <span><i class="far fa-folder text-muted mr-1"></i> SDN & Traffic Analysis</span>
           <span><i class="fas fa-code text-muted mr-1"></i> Python / P4</span>
         </div>
       </div>
 
       <div class="output-card">
-        <div class="output-badge"><i class="fas fa-link"></i> TÜBİTAK 2209-B Destekli</div>
-        <div class="output-title">Blokzincir Tabanlı Güvenli Telemetri Doğrulama Altyapısı</div>
+        <div class="output-badge"><i class="fas fa-link"></i> TÜBİTAK 2209-B Supported</div>
+        <div class="output-title">Blockchain-Backed Verifiable Telemetry Pipeline</div>
         <div class="output-desc">
-          Dağıtık telemetri verilerinin değiştirilemezliğini garanti altına alan kriptografik akümülatör destekli denetim izi mekanizması.
+          Cryptographic accumulator-driven audit trailing framework that provides tamper-evident integrity guarantees for distributed telemetry streams.
         </div>
         <div class="output-meta">
-          <span><i class="far fa-folder text-muted mr-1"></i> Dağıtık Sistemler</span>
+          <span><i class="far fa-folder text-muted mr-1"></i> Distributed Systems</span>
           <span><i class="fas fa-code text-muted mr-1"></i> Smart Contracts</span>
         </div>
       </div>
@@ -133,11 +133,11 @@ permalink: /community/
   <section class="mb-5">
     <div class="d-flex align-items-center justify-content-between flex-wrap mb-3">
       <div>
-        <h3 class="mb-1"><i class="fab fa-youtube text-danger mr-2"></i>Video İçerikleri & Eğitim Serileri</h3>
-        <p class="text-muted">Yüksek lisans seminerleri, webcastler, eğitimler ve laboratuvar davet videoları</p>
+        <h3 class="mb-1"><i class="fab fa-youtube text-danger mr-2"></i>Video Contents & Educational Series</h3>
+        <p class="text-muted">Graduate seminars, webcasts, tutorials, and laboratory invitation videos</p>
       </div>
       <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer" class="btn btn-outline-danger btn-sm mb-2">
-        <i class="fab fa-youtube mr-1"></i> Tüm Videoları YouTube'da Gör
+        <i class="fab fa-youtube mr-1"></i> View All on YouTube
       </a>
     </div>
 
@@ -149,15 +149,15 @@ permalink: /community/
           <i class="fas fa-video fa-3x text-secondary"></i>
         </div>
         <div class="video-body">
-          <span class="video-tag video-tag--ecc">Eğitim Serisi</span>
+          <span class="video-tag video-tag--ecc">Tutorial Series</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer">ECC Otantikasyon ve Kriptografi Eğitimleri</a>
+            <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer">ECC Authentication & Cryptography Tutorials</a>
           </div>
           <div class="video-desc">
-            Eliptik Eğri Kriptografisi (ECC), dijital imzalar ve güvenli kimlik doğrulama mekanizmalarının teorik ve pratik uygulamaları.
+            Theoretical foundations and hands-on implementations of Elliptic Curve Cryptography (ECC), digital signatures, and secure mutual authentication protocols.
           </div>
           <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer" class="video-link">
-            İçeriği İzle <i class="fas fa-external-link-alt ml-1"></i>
+            Watch Video <i class="fas fa-external-link-alt ml-1"></i>
           </a>
         </div>
       </div>
@@ -169,15 +169,15 @@ permalink: /community/
           <i class="fas fa-chalkboard-teacher fa-3x text-secondary"></i>
         </div>
         <div class="video-body">
-          <span class="video-tag video-tag--seminar">Yüksek Lisans Semineri</span>
+          <span class="video-tag video-tag--seminar">Graduate Seminar</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer">Lisansüstü Araştırma & Webcast Serisi</a>
+            <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer">Graduate Research Seminar & Webcast Series</a>
           </div>
           <div class="video-desc">
-            Ağ güvenliği, kuantize yapay zekâ savunması ve dağıtık mimariler üzerine yürütülen güncel tez ve literatür sunumları.
+            Thesis presentations, literature reviews, and research methodology discussions spanning network defense, quantized AI models, and distributed security.
           </div>
           <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer" class="video-link">
-            İçeriği İzle <i class="fas fa-external-link-alt ml-1"></i>
+            Watch Video <i class="fas fa-external-link-alt ml-1"></i>
           </a>
         </div>
       </div>
@@ -189,15 +189,15 @@ permalink: /community/
           <i class="fas fa-microchip fa-3x text-secondary"></i>
         </div>
         <div class="video-body">
-          <span class="video-tag video-tag--stm">Gömülü Sistemler</span>
+          <span class="video-tag video-tag--stm">Embedded Security</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer">STM Projeleri ve Gömülü Güvenlik</a>
+            <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer">STM Projects & Embedded Defense Demos</a>
           </div>
           <div class="video-desc">
-            STM mikrodenetleyiciler üzerinde donanım seviyesinde şifreleme, sensör veri güvenliği ve IoT uygulama demoları.
+            Hardware-level cryptographic benchmarks, sensor data protection, and secure firmware development on STM32 microcontrollers.
           </div>
           <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer" class="video-link">
-            İçeriği İzle <i class="fas fa-external-link-alt ml-1"></i>
+            Watch Video <i class="fas fa-external-link-alt ml-1"></i>
           </a>
         </div>
       </div>
@@ -209,15 +209,15 @@ permalink: /community/
           <i class="fas fa-bullhorn fa-3x text-secondary"></i>
         </div>
         <div class="video-body">
-          <span class="video-tag video-tag--project">Topluluk & Tanıtım</span>
+          <span class="video-tag video-tag--project">Lab Overview</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer">Laboratuvar Davet ve Tanıtım Videoları</a>
+            <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer">Laboratory Invitation & Overview Videos</a>
           </div>
           <div class="video-desc">
-            ISSLab araştırma hedefleri, yeni üye kabul süreçleri ve laboratuvarda proje yürütmek isteyen öğrenciler için rehber videolar.
+            ISSLab research vision, open project calls, onboarding guidelines, and mentoring opportunities for prospective student researchers.
           </div>
           <a href="https://www.youtube.com/results?search_query=isslab_tr" target="_blank" rel="noopener noreferrer" class="video-link">
-            İçeriği İzle <i class="fas fa-external-link-alt ml-1"></i>
+            Watch Video <i class="fas fa-external-link-alt ml-1"></i>
           </a>
         </div>
       </div>

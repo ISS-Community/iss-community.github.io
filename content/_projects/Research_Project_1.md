@@ -43,10 +43,10 @@ point of trust.
 
 #### Project Videos & Tutorials
 
-- **ECC Otantikasyon ve Kriptografi Eğitim Serisi**  
-  Eliptik Eğri Kriptografisi (ECC), dijital imzalama ve gömülü mikrodenetleyicilerde (STM32) hafif siklet kimlik doğrulama uygulamaları.  
-  ▶️ [Videoyu YouTube'da İzle (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+- **ECC Authentication & Cryptography Tutorial Series**  
+  Elliptic Curve Cryptography (ECC), digital signature schemes, and lightweight authentication protocols on embedded STM32 microcontrollers.  
+  ▶️ [Watch Video on YouTube (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
 
-- **STM Projeleri ve Gömülü Sistem Güvenliği Sunumları**  
-  Donanım seviyesinde güvenli anahtar değişimi ve mikrodenetleyici performans testleri.  
-  ▶️ [Videoyu YouTube'da İzle (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+- **STM Projects & Embedded System Security Presentations**  
+  Hardware-level secure key exchange, benchmark analysis, and microcontroller evaluation demos.  
+  ▶️ [Watch Video on YouTube (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)

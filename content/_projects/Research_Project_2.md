@@ -44,10 +44,10 @@ Flowzen overcomes these limitations by coupling a real-time streaming pipeline w
 
 #### Project Videos & Demonstrations
 
-- **Flowzen Ağ Trafiği İzleme ve HPA Ölçekleme Demosu**  
-  Yüksek hızlı paket işleme, Kubernetes ortamında dinamik pod otomasyonu ve canlı akış anomali tespiti.  
-  ▶️ [Videoyu YouTube'da İzle (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+- **Flowzen Network Traffic Monitoring & HPA Autoscaling Demo**  
+  High-speed packet processing, automated Kubernetes worker scaling, and real-time streaming anomaly detection.  
+  ▶️ [Watch Video on YouTube (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
 
-- **Yazılım Tanımlı Ağlar (SDN) ve Veri Merkezi Güvenliği Seminerleri**  
-  Büyük ölçekli veri merkezlerinde DoS/DDoS tespiti ve yüksek başarımlı telemetri analitiği.  
-  ▶️ [Videoyu YouTube'da İzle (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+- **Software-Defined Networking (SDN) & Data Center Security Seminars**  
+  Large-scale data center DoS/DDoS detection architectures and high-throughput telemetry stream analytics.  
+  ▶️ [Watch Video on YouTube (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)

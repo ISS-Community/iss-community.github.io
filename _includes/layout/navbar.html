@@ -1,0 +1,38 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light" id="main-nav">
+  <div class="container">
+
+    <!-- page logo and title -->
+    <a class="navbar-brand d-flex align-items-center" href="{{ '/' | relative_url }}">
+      {% if site.logo %}
+        <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="mr-2">
+      {% endif %}
+      <span>{{ site.title }}</span>
+    </a>
+
+    <!-- site navigation toggle -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu" aria-controls="navbar-menu" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- site navigation links -->
+    <div class="collapse navbar-collapse" id="navbar-menu">
+      <ul class="navbar-nav ml-auto">
+        {% for item in site.data.base.navigation %}
+          {% assign item_url = item.href | relative_url %}
+          {% assign is_active = false %}
+          {% if page.url == item.href or page.permalink == item.href %}
+            {% assign is_active = true %}
+          {% elsif item.href != '/' and page.url contains item.href %}
+            {% assign is_active = true %}
+          {% endif %}
+          <li class="nav-item">
+            <a class="nav-link {% if is_active %}active{% endif %}" href="{{ item_url }}" {% if item.new_window %}target="_blank" rel="noopener noreferrer"{% endif %}>
+              {{ item.text }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </div>
+</nav>

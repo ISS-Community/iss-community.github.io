@@ -38,6 +38,6 @@ By integrating cryptographic accumulators with distributed ledgers, BEATS proves
 
 #### Project Videos & Seminars
 
-- **Blokzincir ve Kriptografik Akümülatör Seminer Videosu**  
-  Dağıtık sistemlerde sabit boyutlu kanıtlar, sıfır bilgi ispatları ve denetim izi mimarileri üzerine teknik seminer sunumu.  
-  ▶️ [Videoyu YouTube'da İzle (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+- **Blockchain & Cryptographic Accumulator Seminar Video**  
+  Technical research presentation on constant-size membership proofs, zero-knowledge verifiable credentials, and decentralized audit trailing architectures.  
+  ▶️ [Watch Video on YouTube (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)

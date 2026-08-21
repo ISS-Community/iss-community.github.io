@@ -1,13 +1,12 @@
 ---
 layout: home
-title: ISSLAB
+title: Intelligence Systems and Security Lab (ISSLab)
 title2: Eskişehir Osmangazi University
 subtitle: Smart and Secure
 permalink: /
 ---
 
-Intelligence Systems and Security Lab (ISSLab) designs secure, resilient, and
-smart infrastructures for the next generation of information systems.
+Intelligence Systems and Security Lab (ISSLab) tasarımları ve araştırmalarıyla yeni nesil bilişim sistemleri için güvenli, dayanıklı ve akıllı altyapılar geliştirmektedir. Ayrıca Web sitesindeki YouTube içerikleri (yüksek lisans seminerleri, webcastler, ECC otantikasyon eğitimleri, STM projeleri) projelerin altında veya haber/blog alanlarında estetik şekilde sunulacaktır.
 
 As systems become more distributed and intelligent, they also become more
 exposed to complex security risks. Our work focuses on practical methods that

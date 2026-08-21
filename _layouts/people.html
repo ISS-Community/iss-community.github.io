@@ -92,7 +92,13 @@ layout: base/base
       <div class="community-members-grid">
         {% for person in community_members %}
           <div class="community-member-card">
-            <div class="community-member-name">{{ person.name }}</div>
+            <div class="community-member-avatar">
+              <i class="fas fa-user-circle"></i>
+            </div>
+            <div class="community-member-info">
+              <div class="community-member-name">{{ person.name }}</div>
+              <div class="community-member-badge">Community Member</div>
+            </div>
           </div>
         {% endfor %}
       </div>

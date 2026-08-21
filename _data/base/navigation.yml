@@ -10,6 +10,9 @@
 - text: Publications # simpler data set set in publications.yml
   href: /publications/ 
 
+- text: ISSLAB Community # 2209 projects, video archive and community channels
+  href: /community/
+
 - text: News & Blog # blog archive and news posts
   href: /news-blog/
 

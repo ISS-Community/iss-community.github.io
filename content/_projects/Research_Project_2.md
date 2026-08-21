@@ -41,3 +41,13 @@ Flowzen overcomes these limitations by coupling a real-time streaming pipeline w
   *Authors:* İsmet Kaan Çekiş, Buğra Ayrancı, Fatma Nur Salman, İlker Özçelik  
   *Journal:* Applied Sciences, 2025, 15(17), 9508.  
   🔗 [Read Article (DOI: 10.3390/app15179508)](https://doi.org/10.3390/app15179508)
+
+#### Project Videos & Demonstrations
+
+- **Flowzen Ağ Trafiği İzleme ve HPA Ölçekleme Demosu**  
+  Yüksek hızlı paket işleme, Kubernetes ortamında dinamik pod otomasyonu ve canlı akış anomali tespiti.  
+  ▶️ [Videoyu YouTube'da İzle (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+
+- **Yazılım Tanımlı Ağlar (SDN) ve Veri Merkezi Güvenliği Seminerleri**  
+  Büyük ölçekli veri merkezlerinde DoS/DDoS tespiti ve yüksek başarımlı telemetri analitiği.  
+  ▶️ [Videoyu YouTube'da İzle (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)

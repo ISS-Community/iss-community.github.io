@@ -2,7 +2,7 @@
 title: Digital Twin Based Smart Attack Detection
 subtitle: Simulation-assisted intelligent defense for critical infrastructure
 description: A defense-industry supported project exploring digital twin models to design intelligent attack detection, simulation-assisted threat modeling, and rapid incident response systems.
-order: 4
+order: 3
 active: true
 card_image: null
 card_title: Digital Twin Defense
@@ -39,3 +39,13 @@ By maintaining high-fidelity virtual replicas of operational network environment
   *Authors:* Salih Eren, Alperen Gültekin, Ömer Özkan, İlker Özçelik  
   *Journal:* Symmetry, 2026, 18(7), 1187.  
   🔗 [Read Article (DOI: 10.3390/sym18071187)](https://doi.org/10.3390/sym18071187)
+
+#### Project Videos & Seminars
+
+- **Lisansüstü Araştırma & Webcast Serisi (Seminer Videosu)**  
+  Kuantize ONNX modelleriyle yüksek başarımlı DrDoS saldırı tespiti ve dijital ikiz destekli savunma seminerleri.  
+  ▶️ [Videoyu YouTube'da İzle (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+
+- **Graf Öğrenmesi ve Botnet Tespiti Webcasti**  
+  Graf sinir ağları (GNN) tabanlı anomali tespiti ve kritik altyapı savunma mekanizmaları sunumu.  
+  ▶️ [Videoyu YouTube'da İzle (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)

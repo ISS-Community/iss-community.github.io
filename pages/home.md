@@ -22,7 +22,6 @@ help these systems stay dependable under real-world threats.
 
 - **Scalable Edge Authentication Framework** — TÜBİTAK 3501 supported, blockchain-backed authentication for distributed edge and IoT environments.
 - **Flowzen Platform** — Modular, high-throughput network monitoring platform with Kubernetes Horizontal Pod Autoscaling (HPA) developed with DorukNet.
-- **Iris Telemetry Pipeline** — Threat-aware adaptive data collection and dynamic telemetry ingestion for resilient cloud data centers.
 - **Digital Twin Based Smart Attack Detection** — Simulation-assisted proactive defense and attack path prediction for critical infrastructure.
 - **BEATS Architecture** — Lightweight, accumulator-based cryptographic audit trailing for enterprise distributed systems.
 

@@ -2,7 +2,7 @@
 title: BEATS — Blockchain Audit Trail Architecture
 subtitle: Lightweight cryptographic accumulator audit trailing
 description: Designing lightweight, verifiable, and tamper-proof audit trail frameworks using blockchain technology and cryptographic accumulators for enterprise and edge environments.
-order: 5
+order: 4
 active: true
 card_image: null
 card_title: BEATS Audit Trail
@@ -35,3 +35,9 @@ By integrating cryptographic accumulators with distributed ledgers, BEATS proves
   *Authors:* Bilal Alagha, İlker Özçelik  
   *Journal:* IEEE Access, 2025, 13, 38120-38135.  
   🔗 [Read Article (DOI: 10.1109/ACCESS.2025.3582722)](https://doi.org/10.1109/ACCESS.2025.3582722)
+
+#### Project Videos & Seminars
+
+- **Blokzincir ve Kriptografik Akümülatör Seminer Videosu**  
+  Dağıtık sistemlerde sabit boyutlu kanıtlar, sıfır bilgi ispatları ve denetim izi mimarileri üzerine teknik seminer sunumu.  
+  ▶️ [Videoyu YouTube'da İzle (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)

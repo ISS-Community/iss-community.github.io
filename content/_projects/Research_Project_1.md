@@ -40,3 +40,13 @@ point of trust.
   *Authors:* İsmet Kaan Çekiş, Armağan Toros, Nimet Apaydın, İlker Özçelik  
   *Journal:* Eskişehir Technical University Journal of Science and Technology A - Applied Sciences and Engineering, 2024, 25(2), 278-288.  
   🔗 [Read Article (DOI: 10.18038/estubtda.1427488)](https://doi.org/10.18038/estubtda.1427488)
+
+#### Project Videos & Tutorials
+
+- **ECC Otantikasyon ve Kriptografi Eğitim Serisi**  
+  Eliptik Eğri Kriptografisi (ECC), dijital imzalama ve gömülü mikrodenetleyicilerde (STM32) hafif siklet kimlik doğrulama uygulamaları.  
+  ▶️ [Videoyu YouTube'da İzle (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)
+
+- **STM Projeleri ve Gömülü Sistem Güvenliği Sunumları**  
+  Donanım seviyesinde güvenli anahtar değişimi ve mikrodenetleyici performans testleri.  
+  ▶️ [Videoyu YouTube'da İzle (ISSLab)](https://www.youtube.com/results?search_query=isslab_tr)

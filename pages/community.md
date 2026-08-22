@@ -122,7 +122,7 @@ permalink: /community/
       <!-- Video 1: Community Call for Project -->
       <div class="video-card">
         <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer" class="video-thumb-wrapper text-decoration-none">
-          <img src="https://img.youtube.com/vi/w57ojUBgFFE/hqdefault.jpg" class="video-thumb-img" alt="ISSLab 2026 Community Call for Projects" loading="lazy">
+          <img src="/assets/images/news/call-for-projects.jpg" class="video-thumb-img" alt="ISSLab 2026 Community Call for Projects" loading="lazy">
           <div class="play-btn"><i class="fa fa-play"></i></div>
         </a>
         <div class="video-body">
@@ -145,7 +145,7 @@ permalink: /community/
       <!-- Video 2: LLM Security in Enterprise Networks -->
       <div class="video-card">
         <a href="https://www.youtube.com/watch?v=gYtPo_axz_E" target="_blank" rel="noopener noreferrer" class="video-thumb-wrapper text-decoration-none">
-          <img src="https://img.youtube.com/vi/gYtPo_axz_E/hqdefault.jpg" class="video-thumb-img" alt="LLM Security in Enterprise Networks" loading="lazy">
+          <img src="/assets/images/news/llm-security-seminar.jpg" class="video-thumb-img" alt="LLM Security in Enterprise Networks" loading="lazy">
           <div class="play-btn"><i class="fa fa-play"></i></div>
         </a>
         <div class="video-body">
@@ -167,7 +167,7 @@ permalink: /community/
       <!-- Video 3: Adversarial Attacks on Graph Neural Networks -->
       <div class="video-card">
         <a href="https://www.youtube.com/watch?v=tXkzQgZWeT8" target="_blank" rel="noopener noreferrer" class="video-thumb-wrapper text-decoration-none">
-          <img src="https://img.youtube.com/vi/tXkzQgZWeT8/hqdefault.jpg" class="video-thumb-img" alt="Adversarial Attacks on Graph Neural Networks" loading="lazy">
+          <img src="/assets/images/news/gnn-seminar.jpg" class="video-thumb-img" alt="Adversarial Attacks on Graph Neural Networks" loading="lazy">
           <div class="play-btn"><i class="fa fa-play"></i></div>
         </a>
         <div class="video-body">
@@ -182,7 +182,7 @@ permalink: /community/
             <a href="https://www.youtube.com/watch?v=tXkzQgZWeT8" target="_blank" rel="noopener noreferrer" class="video-link">
               <i class="fa fa-youtube-play text-danger mr-1"></i> Watch Video <i class="fa fa-external-link ml-1"></i>
             </a>
-            <small class="text-muted mt-1">Related Project: <a href="/projects/">Digital Twin Attack Detection</a></small>
+            <small class="text-muted mt-1">Related Project: <a href="/projects/Research_Project_4/">Digital Twin Attack Detection</a></small>
           </div>
         </div>
       </div>
@@ -190,7 +190,7 @@ permalink: /community/
       <!-- Video 4: ECC Cryptographic Accumulators Library -->
       <div class="video-card">
         <a href="https://www.youtube.com/watch?v=xUDw_yeY8DY" target="_blank" rel="noopener noreferrer" class="video-thumb-wrapper text-decoration-none">
-          <img src="https://img.youtube.com/vi/xUDw_yeY8DY/hqdefault.jpg" class="video-thumb-img" alt="ECC-Based Cryptographic Accumulator Library" loading="lazy">
+          <img src="/assets/images/videos/ecc-accumulator.jpg" class="video-thumb-img" alt="ECC-Based Cryptographic Accumulator Library" loading="lazy">
           <div class="play-btn"><i class="fa fa-play"></i></div>
         </a>
         <div class="video-body">
@@ -205,7 +205,7 @@ permalink: /community/
             <a href="https://www.youtube.com/watch?v=xUDw_yeY8DY" target="_blank" rel="noopener noreferrer" class="video-link">
               <i class="fa fa-youtube-play text-danger mr-1"></i> Watch Video <i class="fa fa-external-link ml-1"></i>
             </a>
-            <small class="text-muted mt-1">Related Project: <a href="/projects/">Edge Authentication (TÜBİTAK 3501)</a></small>
+            <small class="text-muted mt-1">Related Project: <a href="/projects/Research_Project_1/">Edge Authentication (TÜBİTAK 3501)</a></small>
           </div>
         </div>
       </div>
@@ -213,7 +213,7 @@ permalink: /community/
       <!-- Video 5: Practical Cryptographic Accumulator Implementation -->
       <div class="video-card">
         <a href="https://www.youtube.com/watch?v=tAH7mT62Xrs" target="_blank" rel="noopener noreferrer" class="video-thumb-wrapper text-decoration-none">
-          <img src="https://img.youtube.com/vi/tAH7mT62Xrs/hqdefault.jpg" class="video-thumb-img" alt="From Theory to Practice: Cryptographic Accumulators" loading="lazy">
+          <img src="/assets/images/videos/crypto-accumulators-practice.jpg" class="video-thumb-img" alt="From Theory to Practice: Cryptographic Accumulators" loading="lazy">
           <div class="play-btn"><i class="fa fa-play"></i></div>
         </a>
         <div class="video-body">
@@ -228,7 +228,7 @@ permalink: /community/
             <a href="https://www.youtube.com/watch?v=tAH7mT62Xrs" target="_blank" rel="noopener noreferrer" class="video-link">
               <i class="fa fa-youtube-play text-danger mr-1"></i> Watch Video <i class="fa fa-external-link ml-1"></i>
             </a>
-            <small class="text-muted mt-1">Related Project: <a href="/projects/">BEATS Audit Trail</a></small>
+            <small class="text-muted mt-1">Related Project: <a href="/projects/Research_Project_5/">BEATS Audit Trail</a></small>
           </div>
         </div>
       </div>
@@ -236,7 +236,7 @@ permalink: /community/
       <!-- Video 6: Sawtooth Wallet Application -->
       <div class="video-card">
         <a href="https://www.youtube.com/watch?v=WxlzCd_J0Jw" target="_blank" rel="noopener noreferrer" class="video-thumb-wrapper text-decoration-none">
-          <img src="https://img.youtube.com/vi/WxlzCd_J0Jw/hqdefault.jpg" class="video-thumb-img" alt="ISSLab Sawtooth v1.2 Simple Wallet Application" loading="lazy">
+          <img src="/assets/images/videos/sawtooth-wallet.jpg" class="video-thumb-img" alt="ISSLab Sawtooth v1.2 Simple Wallet Application" loading="lazy">
           <div class="play-btn"><i class="fa fa-play"></i></div>
         </a>
         <div class="video-body">
@@ -251,7 +251,7 @@ permalink: /community/
             <a href="https://www.youtube.com/watch?v=WxlzCd_J0Jw" target="_blank" rel="noopener noreferrer" class="video-link">
               <i class="fa fa-youtube-play text-danger mr-1"></i> Watch Video <i class="fa fa-external-link ml-1"></i>
             </a>
-            <small class="text-muted mt-1">Related Project: <a href="/projects/">BEATS Audit Trail</a></small>
+            <small class="text-muted mt-1">Related Project: <a href="/projects/Research_Project_5/">BEATS Audit Trail</a></small>
           </div>
         </div>
       </div>
@@ -259,7 +259,7 @@ permalink: /community/
       <!-- Video 7: STM Project Creation & Board Programming -->
       <div class="video-card">
         <a href="https://www.youtube.com/watch?v=a1_-ycF26PE" target="_blank" rel="noopener noreferrer" class="video-thumb-wrapper text-decoration-none">
-          <img src="https://img.youtube.com/vi/a1_-ycF26PE/hqdefault.jpg" class="video-thumb-img" alt="STM Project Creation & Board Programming" loading="lazy">
+          <img src="/assets/images/videos/stm-programming.jpg" class="video-thumb-img" alt="STM Project Creation & Board Programming" loading="lazy">
           <div class="play-btn"><i class="fa fa-play"></i></div>
         </a>
         <div class="video-body">
@@ -274,7 +274,7 @@ permalink: /community/
             <a href="https://www.youtube.com/watch?v=a1_-ycF26PE" target="_blank" rel="noopener noreferrer" class="video-link">
               <i class="fa fa-youtube-play text-danger mr-1"></i> Watch Video <i class="fa fa-external-link ml-1"></i>
             </a>
-            <small class="text-muted mt-1">Related Project: <a href="/projects/">Edge Authentication (TÜBİTAK 3501)</a></small>
+            <small class="text-muted mt-1">Related Project: <a href="/projects/Research_Project_1/">Edge Authentication (TÜBİTAK 3501)</a></small>
           </div>
         </div>
       </div>
@@ -282,7 +282,7 @@ permalink: /community/
       <!-- Video 8: STM STEVAL-IDB008V2 Environment Setup -->
       <div class="video-card">
         <a href="https://www.youtube.com/watch?v=ywydD5wqOeU" target="_blank" rel="noopener noreferrer" class="video-thumb-wrapper text-decoration-none">
-          <img src="https://img.youtube.com/vi/ywydD5wqOeU/hqdefault.jpg" class="video-thumb-img" alt="STM STEVAL-IDB008V2 Environment Setup" loading="lazy">
+          <img src="/assets/images/videos/stm-steval.jpg" class="video-thumb-img" alt="STM STEVAL-IDB008V2 Environment Setup" loading="lazy">
           <div class="play-btn"><i class="fa fa-play"></i></div>
         </a>
         <div class="video-body">
@@ -297,7 +297,7 @@ permalink: /community/
             <a href="https://www.youtube.com/watch?v=ywydD5wqOeU" target="_blank" rel="noopener noreferrer" class="video-link">
               <i class="fa fa-youtube-play text-danger mr-1"></i> Watch Video <i class="fa fa-external-link ml-1"></i>
             </a>
-            <small class="text-muted mt-1">Related Project: <a href="/projects/">Edge Authentication (TÜBİTAK 3501)</a></small>
+            <small class="text-muted mt-1">Related Project: <a href="/projects/Research_Project_1/">Edge Authentication (TÜBİTAK 3501)</a></small>
           </div>
         </div>
       </div>

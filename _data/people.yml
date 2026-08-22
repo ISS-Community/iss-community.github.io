@@ -33,6 +33,8 @@
 - id: Utku_Bugra_Namkazan
   name: Utku Buğra Namkazan
   role: Lab Member
+  image: /assets/images/people/utku-bugra-namkazan.jpg
+  linkedin: https://www.linkedin.com/in/utkunamkazan/
   status: current
 
 - id: Beran_Cagli

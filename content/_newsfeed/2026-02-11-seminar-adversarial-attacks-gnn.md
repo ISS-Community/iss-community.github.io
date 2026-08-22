@@ -1,15 +1,15 @@
 ---
-date: 2025-12-20
+date: 2026-02-11
 title: "Research Seminar: Adversarial Attacks on Graph Neural Networks"
-subtitle: Graph Anomaly Detection and Robustness Evaluation
-description: "A technical seminar presentation on adversarial attack vectors against Graph Neural Networks (GNNs), evasion strategies, and resilient cyber defense architectures."
+subtitle: Graph Anomaly Detection and Robustness Evaluation by Gizem Karyağdı & Dr. İlker Özçelik
+description: "A technical seminar presentation exploring adversarial attack mechanisms against Graph Neural Networks (GNNs), evasion strategies, and resilient cyber defense architectures."
 event_type: news
 image: "/assets/images/news/gnn-seminar.jpg"
 banner_image_source: "/assets/images/news/gnn-seminar.jpg"
 youtube_url: "https://www.youtube.com/watch?v=tXkzQgZWeT8"
 ---
 
-The ISS Lab held a research seminar titled **"Adversarial Attacks on Graph Neural Networks"** (*Graf Sinir Ağlarına Karşı Çekişmeli Saldırılar*), presented as part of our ongoing research on AI robustness and graph learning for cybersecurity.
+On **February 11, 2026**, the ISS Lab hosted a research seminar titled **"Adversarial Attacks on Graph Neural Networks"** (*Graf Sinir Ağlarına Karşı Çekişmeli Saldırılar*), presented as part of our ongoing research on AI robustness and graph learning for cybersecurity.
 
 <div class="my-4 text-center">
   <a href="https://www.youtube.com/watch?v=tXkzQgZWeT8" target="_blank" rel="noopener noreferrer">

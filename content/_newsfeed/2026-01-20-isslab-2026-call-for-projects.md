@@ -1,15 +1,16 @@
 ---
-date: 2026-02-15
-title: "ISS Lab Call for Student Researchers (TÜBİTAK 2209 & Graduate Research)"
+date: 2026-01-20
+title: "ISSLab 2026 Community Call for Projects (TÜBİTAK 2209 & Student Research)"
 subtitle: Join cutting-edge research in Network Security, Quantized AI, and Blockchain
-description: "Open call for undergraduate, M.Sc., and Ph.D. students seeking to participate in TÜBİTAK 2209-A/B, TÜBİTAK 3501, and DorukNet industrial R&D projects mentored within ISS Lab."
+description: "Open invitation for undergraduate, M.Sc., and Ph.D. students seeking to participate in TÜBİTAK 2209-A/B, TÜBİTAK 3501, and DorukNet industrial R&D projects mentored within ISS Lab."
 event_type: news
 image: "/assets/images/news/call-for-projects.jpg"
 banner_image_source: "/assets/images/news/call-for-projects.jpg"
+youtube_url: "https://www.youtube.com/watch?v=w57ojUBgFFE"
 linkedin_url: "https://www.linkedin.com/groups/9539313/"
 ---
 
-The **Intelligent Systems Security Research Laboratory (ISSLab)** at Eskişehir Osmangazi University invites motivated undergraduate and graduate student researchers to join our team in network security, AI-assisted cyber defense, quantized deep learning models, blockchain architectures, and IoT security!
+On **January 20, 2026**, the **Intelligent Systems Security Research Laboratory (ISSLab)** at Eskişehir Osmangazi University published its official call for student researchers and TÜBİTAK 2209 projects.
 
 <div class="my-4 text-center">
   <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer">
@@ -18,7 +19,7 @@ The **Intelligent Systems Security Research Laboratory (ISSLab)** at Eskişehir 
   <p class="text-muted small mt-2"><em>ISSLab 2026 Community Call for Projects and Student Mentorship</em></p>
 </div>
 
-Researchers at ISS Lab take active roles in **TÜBİTAK 3501**, **TÜBİTAK 2209-A/B**, and **DorukNet** industry-collaborative projects, with opportunities to contribute directly to international conferences and high-impact journals.
+We invite motivated undergraduate and graduate students to participate in our ongoing research initiatives across **TÜBİTAK 3501**, **TÜBİTAK 2209-A/B**, and **DorukNet** industry-collaborative projects.
 
 #### Ongoing Projects & Research Areas
 

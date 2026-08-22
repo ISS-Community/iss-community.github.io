@@ -24,14 +24,17 @@ permalink: /community/
             We invite motivated undergraduate and graduate students to participate in ongoing research on <strong>Network Security, Quantized AI Models, Blockchain Audit Trails, and Embedded STM32 Cryptography</strong>. Mentoring is provided for TÜBİTAK 2209-A/B applications, graduation projects, and M.Sc./Ph.D. theses.
           </p>
           <div class="d-flex flex-wrap gap-2">
-            <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mr-2 mb-2">
-              <i class="fa fa-youtube-play mr-1"></i> Watch Lab Invitation Video
+            <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mr-2 mb-2">
+              <i class="fa fa-youtube-play mr-1"></i> Watch Community Call Video
             </a>
             <a href="https://www.linkedin.com/groups/9539313/" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm mr-2 mb-2">
               <i class="fa fa-linkedin mr-1"></i> Join LinkedIn Group
             </a>
+            <a href="https://groups.google.com/g/iss-lab-community" target="_blank" rel="noopener noreferrer" class="btn btn-success btn-sm mr-2 mb-2">
+              <i class="fa fa-envelope mr-1"></i> Join Google Group
+            </a>
             <a href="mailto:ilkerozcelik@ogu.edu.tr" class="btn btn-outline-dark btn-sm mb-2">
-              <i class="fa fa-envelope mr-1"></i> Contact Dr. İlker Özçelik
+              <i class="fa fa-envelope-o mr-1"></i> Contact Dr. İlker Özçelik
             </a>
           </div>
         </div>
@@ -39,14 +42,14 @@ permalink: /community/
           <div class="p-3 bg-white rounded border text-muted">
             <i class="fa fa-users fa-3x text-primary mb-2"></i>
             <h6 class="text-dark font-weight-bold mb-1">Weekly Research Seminars</h6>
-            <small>Held every week with recorded webcasts shared on our YouTube channel.</small>
+            <small>Held weekly with direct video recordings published on our YouTube channel.</small>
           </div>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- Community Channels Section -->
+  <!-- Community Channels Section (3 Main Hubs: YouTube, LinkedIn, Google Group) -->
   <div class="channels-grid">
     <!-- YouTube Card -->
     <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="channel-card channel-card--youtube">
@@ -61,11 +64,11 @@ permalink: /community/
           </div>
         </div>
         <p class="channel-desc">
-          Graduate research seminars, technical webcasts, ECC authentication tutorials, STM projects, Flowzen live demo, and laboratory overview videos.
+          Official video archive: research seminars, cryptographic accumulator tutorials, STM32 development guides, and project calls.
         </p>
       </div>
       <div class="channel-cta">
-        Watch Videos & Seminars <i class="fa fa-arrow-right"></i>
+        Visit Channel <i class="fa fa-arrow-right"></i>
       </div>
     </a>
 
@@ -82,20 +85,20 @@ permalink: /community/
           </div>
         </div>
         <p class="channel-desc">
-          Academic announcements, research & internship opportunities, conference notices, and our professional alumni network.
+          Academic announcements, research & internship opportunities, conference updates, and our alumni professional network.
         </p>
       </div>
       <div class="channel-cta">
-        Join LinkedIn Community <i class="fa fa-arrow-right"></i>
+        Join LinkedIn Group <i class="fa fa-arrow-right"></i>
       </div>
     </a>
 
-    <!-- Google Group / Mailing List Card -->
+    <!-- Google Group Card -->
     <a href="https://groups.google.com/g/iss-lab-community" target="_blank" rel="noopener noreferrer" class="channel-card channel-card--google">
       <div>
         <div class="channel-header">
           <div class="channel-icon channel-icon--google">
-            <i class="fa fa-envelope-open-o"></i>
+            <i class="fa fa-envelope"></i>
           </div>
           <div>
             <h4 class="channel-title">Google Group</h4>
@@ -103,112 +106,111 @@ permalink: /community/
           </div>
         </div>
         <p class="channel-desc">
-          Official mailing list, internal technical discussions, seminar schedules, meeting agendas, and shared academic materials.
+          Official mailing list for seminar schedules, technical discussions, reading groups, and internal lab announcements.
         </p>
       </div>
       <div class="channel-cta">
-        Join Discussion List <i class="fa fa-arrow-right"></i>
-      </div>
-    </a>
-
-    <!-- GitHub Card -->
-    <a href="https://github.com/ISS-Community" target="_blank" rel="noopener noreferrer" class="channel-card channel-card--github">
-      <div>
-        <div class="channel-header">
-          <div class="channel-icon channel-icon--github">
-            <i class="fa fa-github"></i>
-          </div>
-          <div>
-            <h4 class="channel-title">GitHub Organization</h4>
-            <span class="badge badge-dark">ISS-Community</span>
-          </div>
-        </div>
-        <p class="channel-desc">
-          Open-source tools, reproducible research codebases, and collaborative repositories from the ISS Lab research team.
-        </p>
-      </div>
-      <div class="channel-cta">
-        Browse Repositories <i class="fa fa-arrow-right"></i>
+        Join Google Group <i class="fa fa-arrow-right"></i>
       </div>
     </a>
   </div>
 
   <hr class="my-5">
 
-  <!-- YouTube Video & Educational Series Showcase -->
+  <!-- YouTube Video Archive (Direct Video Links) -->
   <section class="mb-5">
     <div class="d-flex align-items-center justify-content-between flex-wrap mb-3">
       <div>
-        <h3 class="mb-1"><i class="fa fa-youtube-play text-danger mr-2"></i>Video Contents & Educational Series</h3>
-        <p class="text-muted">Graduate research seminars, technical webcasts, tutorials, and laboratory invitation videos</p>
+        <h3 class="mb-1"><i class="fa fa-youtube-play text-danger mr-2"></i>Video Archive & Technical Seminars</h3>
+        <p class="text-muted">Direct links to research presentations, project tutorials, and hands-on laboratory workshops</p>
       </div>
       <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="btn btn-outline-danger btn-sm mb-2">
-        <i class="fa fa-youtube-play mr-1"></i> View All on YouTube (@isslab_tr)
+        <i class="fa fa-youtube-play mr-1"></i> All Videos on @isslab_tr
       </a>
     </div>
 
     <div class="video-showcase-grid">
-      <!-- Video 1: Lab Invitation & Overview -->
+      <!-- Video 1: Community Call for Project -->
       <div class="video-card">
         <div class="video-thumb-wrapper">
           <div class="play-btn"><i class="fa fa-play"></i></div>
           <i class="fa fa-bullhorn fa-3x text-secondary"></i>
         </div>
         <div class="video-body">
-          <span class="video-tag video-tag--project">Lab Overview</span>
+          <span class="video-tag video-tag--project">Call for Projects</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer">Laboratory Invitation & Overview Videos</a>
+            <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer">ISSLab 2026 Community Call for Project</a>
           </div>
           <div class="video-desc">
-            ISSLab araştırma vizyonu, açık proje çağrıları, oryantasyon rehberleri ve öğrenci araştırmacılar için mentorluk fırsatları.
+            ISSLab araştırma vizyonu, lisans ve lisansüstü öğrenci araştırmacıları için açık proje çağrısı ve katılım yönergeleri.
           </div>
-          <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="video-link">
+          <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
           </a>
           <div class="video-related mt-2">
-            <small class="text-muted">Invitation: <a href="mailto:ilkerozcelik@ogu.edu.tr">Apply via Email</a> · <a href="https://www.linkedin.com/groups/9539313/" target="_blank" rel="noopener noreferrer">LinkedIn Group</a></small>
+            <small class="text-muted">Invitation: <a href="mailto:ilkerozcelik@ogu.edu.tr">Apply via Email</a> · <a href="https://groups.google.com/g/iss-lab-community" target="_blank" rel="noopener noreferrer">Google Group</a></small>
           </div>
         </div>
       </div>
 
-      <!-- Video 2: Flowzen -->
+      <!-- Video 2: LLM Security in Enterprise Networks -->
       <div class="video-card">
         <div class="video-thumb-wrapper">
           <div class="play-btn"><i class="fa fa-play"></i></div>
-          <i class="fa fa-television fa-3x text-secondary"></i>
+          <i class="fa fa-shield fa-3x text-secondary"></i>
         </div>
         <div class="video-body">
-          <span class="video-tag video-tag--project">Flowzen Platform</span>
+          <span class="video-tag video-tag--seminar">Seminar Series</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer">Flowzen: Modular & Scalable Network Monitoring</a>
+            <a href="https://www.youtube.com/watch?v=gYtPo_axz_E" target="_blank" rel="noopener noreferrer">Kurumsal Ağlarda LLM Güvenliği</a>
           </div>
           <div class="video-desc">
-            DorukNet iş birliği ile geliştirilen Flowzen platformunun canlı demo ve tanıtımı. BTK ev sahipliğindeki ISCTÜRKİYE 2025'te sunulmuştur.
+            Büyük dil modellerinin (LLM) kurumsal ağ mimarilerinde güvenli entegrasyonu, veri sızıntısı riskleri ve savunma stratejileri.
           </div>
-          <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="video-link">
+          <a href="https://www.youtube.com/watch?v=gYtPo_axz_E" target="_blank" rel="noopener noreferrer" class="video-link">
+            Watch Video <i class="fa fa-external-link ml-1"></i>
+          </a>
+        </div>
+      </div>
+
+      <!-- Video 3: Adversarial Attacks on Graph Neural Networks -->
+      <div class="video-card">
+        <div class="video-thumb-wrapper">
+          <div class="play-btn"><i class="fa fa-play"></i></div>
+          <i class="fa fa-sitemap fa-3x text-secondary"></i>
+        </div>
+        <div class="video-body">
+          <span class="video-tag video-tag--seminar">Seminar Series</span>
+          <div class="video-title">
+            <a href="https://www.youtube.com/watch?v=tXkzQgZWeT8" target="_blank" rel="noopener noreferrer">Graf Sinir Ağlarına Karşı Çekişmeli Saldırılar</a>
+          </div>
+          <div class="video-desc">
+            Çizge Yapay Sinir Ağları (GNN) üzerinde çekişmeli (adversarial) saldırı mekanizmaları ve anomali tespiti dayanıklılığı.
+          </div>
+          <a href="https://www.youtube.com/watch?v=tXkzQgZWeT8" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
           </a>
           <div class="video-related mt-2">
-            <small class="text-muted">Related Project: <a href="/projects/">Flowzen Platform</a> · <a href="https://www.linkedin.com/posts/ozcelikilker_btk-iaovsctaesrkiye-flowzen-activity-7394380988484665344-IFJS" target="_blank" rel="noopener noreferrer">LinkedIn Announcement</a></small>
+            <small class="text-muted">Related Project: <a href="/projects/">Digital Twin Attack Detection</a></small>
           </div>
         </div>
       </div>
 
-      <!-- Video 3: ECC & Cryptography -->
+      <!-- Video 4: ECC Cryptographic Accumulators Library -->
       <div class="video-card">
         <div class="video-thumb-wrapper">
           <div class="play-btn"><i class="fa fa-play"></i></div>
           <i class="fa fa-lock fa-3x text-secondary"></i>
         </div>
         <div class="video-body">
-          <span class="video-tag video-tag--ecc">Tutorial Series</span>
+          <span class="video-tag video-tag--ecc">Cryptography Tutorial</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer">ECC Authentication & Cryptography Tutorials</a>
+            <a href="https://www.youtube.com/watch?v=xUDw_yeY8DY" target="_blank" rel="noopener noreferrer">ECC Tabanlı Kriptografik Biriktirici Kütüphane Kullanımı</a>
           </div>
           <div class="video-desc">
-            Eliptik Eğri Kriptografisi (ECC) ve güvenli kimlik doğrulama protokollerinin teorik temelleri ve uygulamalı kodlama rehberleri.
+            Eliptik eğri kriptografisi (ECC) tabanlı biriktirici yazılım havuzunun kullanımı, sabit boyutlu kanıt üretimi ve doğrulama adımları.
           </div>
-          <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="video-link">
+          <a href="https://www.youtube.com/watch?v=xUDw_yeY8DY" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
           </a>
           <div class="video-related mt-2">
@@ -217,41 +219,90 @@ permalink: /community/
         </div>
       </div>
 
-      <!-- Video 4: Graduate Research Seminars -->
+      <!-- Video 5: Practical Cryptographic Accumulator Implementation -->
       <div class="video-card">
         <div class="video-thumb-wrapper">
           <div class="play-btn"><i class="fa fa-play"></i></div>
-          <i class="fa fa-graduation-cap fa-3x text-secondary"></i>
+          <i class="fa fa-code fa-3x text-secondary"></i>
         </div>
         <div class="video-body">
-          <span class="video-tag video-tag--seminar">Graduate Seminar</span>
+          <span class="video-tag video-tag--ecc">Cryptography Tutorial</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer">Graduate Research Seminar & Webcast Series</a>
+            <a href="https://www.youtube.com/watch?v=tAH7mT62Xrs" target="_blank" rel="noopener noreferrer">Teoriden Pratiğe Kriptografik Biriktirici Uygulaması</a>
           </div>
           <div class="video-desc">
-            Lisansüstü tez sunumları, literatür taramaları ve araştırma metodolojisi tartışmaları: ağ savunması, kuantize AI modelleri ve dağıtık güvenlik.
+            Kriptografik akümülatörlerin teorik matematiksel temellerinden pratik kod implementasyonuna adım adım uygulama rehberi.
           </div>
-          <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="video-link">
+          <a href="https://www.youtube.com/watch?v=tAH7mT62Xrs" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
           </a>
+          <div class="video-related mt-2">
+            <small class="text-muted">Related Project: <a href="/projects/">BEATS Audit Trail</a></small>
+          </div>
         </div>
       </div>
 
-      <!-- Video 5: STM32 Embedded Security -->
+      <!-- Video 6: Sawtooth Wallet Application -->
+      <div class="video-card">
+        <div class="video-thumb-wrapper">
+          <div class="play-btn"><i class="fa fa-play"></i></div>
+          <i class="fa fa-chain fa-3x text-secondary"></i>
+        </div>
+        <div class="video-body">
+          <span class="video-tag video-tag--project">Blockchain Development</span>
+          <div class="video-title">
+            <a href="https://www.youtube.com/watch?v=WxlzCd_J0Jw" target="_blank" rel="noopener noreferrer">ISSLab Sawtooth v1.2 Basit Cüzdan Uygulaması</a>
+          </div>
+          <div class="video-desc">
+            Hyperledger Sawtooth blokzincir platformu üzerinde basit cüzdan ve işlem işlemcisi (Transaction Processor) geliştirme.
+          </div>
+          <a href="https://www.youtube.com/watch?v=WxlzCd_J0Jw" target="_blank" rel="noopener noreferrer" class="video-link">
+            Watch Video <i class="fa fa-external-link ml-1"></i>
+          </a>
+          <div class="video-related mt-2">
+            <small class="text-muted">Related Project: <a href="/projects/">BEATS Audit Trail</a></small>
+          </div>
+        </div>
+      </div>
+
+      <!-- Video 7: STM Project Creation & Board Programming -->
       <div class="video-card">
         <div class="video-thumb-wrapper">
           <div class="play-btn"><i class="fa fa-play"></i></div>
           <i class="fa fa-microchip fa-3x text-secondary"></i>
         </div>
         <div class="video-body">
-          <span class="video-tag video-tag--stm">Embedded Security</span>
+          <span class="video-tag video-tag--stm">Embedded Systems</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer">STM Projects & Embedded Defense Demos</a>
+            <a href="https://www.youtube.com/watch?v=a1_-ycF26PE" target="_blank" rel="noopener noreferrer">STM Proje Oluşturma ve Geliştirme Setini Programlama</a>
           </div>
           <div class="video-desc">
-            STM32 mikrodenetleyicilerinde donanım düzeyinde kriptografik kıyaslama, sensör veri koruması ve güvenli gömülü yazılım geliştirme.
+            STM geliştirme kartı üzerinde proje oluşturma, derleme ve gömülü güvenlik firmware yükleme adımları.
           </div>
-          <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="video-link">
+          <a href="https://www.youtube.com/watch?v=a1_-ycF26PE" target="_blank" rel="noopener noreferrer" class="video-link">
+            Watch Video <i class="fa fa-external-link ml-1"></i>
+          </a>
+          <div class="video-related mt-2">
+            <small class="text-muted">Related Project: <a href="/projects/">Edge Authentication (TÜBİTAK 3501)</a></small>
+          </div>
+        </div>
+      </div>
+
+      <!-- Video 8: STM STEVAL-IDB008V2 Environment Setup -->
+      <div class="video-card">
+        <div class="video-thumb-wrapper">
+          <div class="play-btn"><i class="fa fa-play"></i></div>
+          <i class="fa fa-wrench fa-3x text-secondary"></i>
+        </div>
+        <div class="video-body">
+          <span class="video-tag video-tag--stm">Embedded Systems</span>
+          <div class="video-title">
+            <a href="https://www.youtube.com/watch?v=ywydD5wqOeU" target="_blank" rel="noopener noreferrer">STM STEVAL-IDB008V2 Geliştirme Ortamı Kurulumu</a>
+          </div>
+          <div class="video-desc">
+            STM STEVAL-IDB008V2 Bluetooth Low Energy (BLE) geliştirme kiti için IDE ve derleme ortamı kurulum rehberi.
+          </div>
+          <a href="https://www.youtube.com/watch?v=ywydD5wqOeU" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
           </a>
           <div class="video-related mt-2">

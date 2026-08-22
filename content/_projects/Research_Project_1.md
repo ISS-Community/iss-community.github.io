@@ -43,10 +43,14 @@ point of trust.
 
 #### Project Videos & Tutorials
 
-- **ECC Authentication & Cryptography Tutorial Series**  
-  Elliptic Curve Cryptography (ECC), digital signature schemes, and lightweight authentication protocols on embedded STM32 microcontrollers.  
-  ▶️ [Watch Video on YouTube (@isslab_tr)](https://www.youtube.com/@isslab_tr/videos)
+- **ECC Tabanlı Kriptografik Biriktirici Kütüphane Yazılım Havuzunun Kullanımı**  
+  Eliptik Eğri Kriptografisi (ECC) tabanlı biriktirici yazılım havuzunun kullanımı, sabit boyutlu kanıt üretimi ve doğrulama.  
+  ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=xUDw_yeY8DY)
 
-- **STM Projects & Embedded System Security Presentations**  
-  Hardware-level secure key exchange, benchmark analysis, and microcontroller evaluation demos.  
-  ▶️ [Watch Video on YouTube (@isslab_tr)](https://www.youtube.com/@isslab_tr/videos)
+- **STM Proje Oluşturma ve Geliştirme Setini Programlama**  
+  STM mikrodenetleyici üzerinde proje oluşturma, derleme ve gömülü güvenlik firmware yükleme adımları.  
+  ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=a1_-ycF26PE)
+
+- **STM STEVAL-IDB008V2 Geliştirme Ortamı Kurulumu**  
+  STM STEVAL-IDB008V2 Bluetooth Low Energy (BLE) geliştirme kiti için IDE kurulumu ve derleme rehberi.  
+  ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=ywydD5wqOeU)

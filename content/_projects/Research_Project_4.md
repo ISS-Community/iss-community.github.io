@@ -42,10 +42,10 @@ By maintaining high-fidelity virtual replicas of operational network environment
 
 #### Project Videos & Seminars
 
-- **Graduate Research Seminar & Webcast Series (Seminar Video)**  
-  High-throughput DrDoS attack detection with quantized ONNX models and simulation-assisted digital twin defense seminars.  
-  ▶️ [Watch Video on YouTube (@isslab_tr)](https://www.youtube.com/@isslab_tr/videos)
+- **Graf Sinir Ağlarına Karşı Çekişmeli Saldırılar (Seminar Video)**  
+  Çizge Yapay Sinir Ağları (GNN) üzerinde çekişmeli saldırılar, anomali sınıflandırması ve dayanıklılık semineri.  
+  ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=tXkzQgZWeT8)
 
-- **Graph Learning & Botnet Detection Technical Webcast**  
-  Graph Neural Network (GNN) based anomaly classification and critical infrastructure defense architectures.  
-  ▶️ [Watch Video on YouTube (@isslab_tr)](https://www.youtube.com/@isslab_tr/videos)
+- **Kurumsal Ağlarda LLM Güvenliği (Technical Webcast)**  
+  Büyük dil modellerinin kurumsal ağ altyapılarına entegrasyonunda güvenlik riskleri ve savunma yöntemleri.  
+  ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=gYtPo_axz_E)

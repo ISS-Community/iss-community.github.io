@@ -38,6 +38,14 @@ By integrating cryptographic accumulators with distributed ledgers, BEATS proves
 
 #### Project Videos & Seminars
 
-- **Blockchain & Cryptographic Accumulator Seminar Video**  
-  Technical research presentation on constant-size membership proofs, zero-knowledge verifiable credentials, and decentralized audit trailing architectures.  
-  ▶️ [Watch Video on YouTube (@isslab_tr)](https://www.youtube.com/@isslab_tr/videos)
+- **Teoriden Pratiğe Kriptografik Biriktirici Uygulaması**  
+  Kriptografik akümülatörlerin teorik temelleri, sabit boyutlu kanıt üretimi ve pratik kod uygulaması.  
+  ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=tAH7mT62Xrs)
+
+- **ISSLab Sawtooth v1.2 Basit Cüzdan Uygulaması**  
+  Hyperledger Sawtooth blokzincir platformu üzerinde basit cüzdan ve işlem işlemcisi geliştirme.  
+  ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=WxlzCd_J0Jw)
+
+- **ECC Tabanlı Kriptografik Biriktirici Kütüphane Yazılım Havuzunun Kullanımı**  
+  Kriptografik biriktirici kütüphane havuzunun entegrasyonu ve blockchain denetim izi mimarisinde kullanımı.  
+  ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=xUDw_yeY8DY)

@@ -1,13 +1,13 @@
 ---
-date: 2026-01-14
+date: 2026-07-14
 title: "New Publication in Symmetry: High-Throughput DrDoS Detection with Quantized ONNX Models"
 subtitle: MDPI Symmetry — Eren, Gültekin, Özkan, Özçelik
-description: "Research by ISS Lab members presenting high-throughput, low-latency DrDoS detection using quantized ONNX models published in MDPI Symmetry."
+description: "Research by ISS Lab members presenting high-throughput, low-latency DrDoS detection using quantized ONNX models published in MDPI Symmetry (Volume 18, Issue 7, 1187)."
 event_type: news
 banner_image_source: "assets/images/vintage-newspaper-print-downsize.jpg"
 ---
 
-The latest research by ISS Lab researchers **Salih Eren**, **Alperen Gültekin**, **Ömer Özkan**, and **Dr. İlker Özçelik**, titled *"High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models"*, has been published in **Symmetry (MDPI)**.
+On **July 14, 2026**, the research article *"High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models"* by ISS Lab researchers **Salih Eren**, **Alperen Gültekin**, **Ömer Özkan**, and **Dr. İlker Özçelik** was officially published in **Symmetry (MDPI)** (Volume 18, Issue 7, 1187).
 
 This work addresses the critical challenge of Distributed Reflection Denial of Service (DrDoS) attacks, such as DNS Amplification, which exploit protocol asymmetries to saturate network capacity. To achieve wire-speed defense, the team conducted a systematic comparison of **ONNX (Open Neural Network Exchange)** compilation and static integer quantization (INT8) across **Multi-Layer Perceptron (MLP)**, **Convolutional Neural Network (CNN)**, and **Gated Recurrent Unit (GRU)** architectures.
 

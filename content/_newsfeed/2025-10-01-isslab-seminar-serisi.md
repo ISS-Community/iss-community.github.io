@@ -4,10 +4,16 @@ title: "ISS Lab Graduate Research Seminar Series"
 subtitle: Weekly graduate presentations and technical webcasts
 description: "Graduate research seminars hosted at ISS Lab covering network defense, AI-based intrusion detection, blockchain audit trails, and distributed systems security."
 event_type: news
-banner_image_source: "assets/images/vintage-newspaper-print-downsize.jpg"
+image: "/assets/images/news/seminar-series.jpg"
+banner_image_source: "/assets/images/news/seminar-series.jpg"
 ---
 
 The **ISS Lab Research Seminar Series** features presentations by graduate and undergraduate researchers at Eskişehir Osmangazi University. Seminars cover core research themes including software-defined network monitoring, AI-powered intrusion detection, blockchain audit trails, and IoT edge cryptography.
+
+<div class="my-4 text-center">
+  <img src="/assets/images/news/seminar-series.jpg" alt="ISS Lab Research Seminars" class="img-fluid rounded shadow-sm" style="max-height: 380px; object-fit: cover;">
+  <p class="text-muted small mt-2"><em>Weekly ISS Lab Graduate Presentations & Technical Webcasts</em></p>
+</div>
 
 All seminar recordings and technical tutorials are openly accessible on our official YouTube channel.
 

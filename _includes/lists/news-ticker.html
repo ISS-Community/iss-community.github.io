@@ -8,16 +8,20 @@
 {% include lists/posts.html %}
 
 {% if is_news %}
-<div class="{{ ticker_class }} col-lg-4">
-<h3><a class="section-header-link" href="{{ '/news-blog/' | relative_url }}">
-    Recent News &amp; Blog
-    <i class="fa fa-caret-right" style="font-size: 0.8em;"></i>
-</a></h3>
+<div class="{{ ticker_class }} col-lg-5 col-xl-5">
+  <div class="d-flex justify-content-between align-items-center mb-3">
+    <h3 class="mb-0">
+      <a class="section-header-link" href="{{ 'news-blog' | relative_url }}">
+        Recent News 
+        <i class="fa fa-caret-right" style="font-size: 0.8em;"></i>
+      </a>
+    </h3>
+    <a href="{{ 'news-blog' | relative_url }}" class="btn btn-outline-primary btn-sm">View All</a>
+  </div>
     
-{% for post in filtered limit:max_posts %}
+  {% for post in filtered limit:max_posts %}
     {% include cards/post-card.html %}
-{% endfor %}
-
+  {% endfor %}
 </div>
 {% endif %}
 

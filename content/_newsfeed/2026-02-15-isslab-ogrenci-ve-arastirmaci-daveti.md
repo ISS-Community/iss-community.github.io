@@ -12,23 +12,25 @@ linkedin_url: "https://www.linkedin.com/groups/9539313/"
 The **Intelligent Systems Security Research Laboratory (ISSLab)** at Eskişehir Osmangazi University invites motivated undergraduate and graduate student researchers to join our team in network security, AI-assisted cyber defense, quantized deep learning models, blockchain architectures, and IoT security!
 
 <div class="my-4 text-center">
-  <img src="/assets/images/news/call-for-projects.jpg" alt="ISSLab 2026 Call for Projects" class="img-fluid rounded shadow-sm" style="max-height: 380px; object-fit: cover;">
+  <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/news/call-for-projects.jpg" alt="ISSLab 2026 Call for Projects" class="img-fluid rounded shadow-sm" style="max-height: 380px; object-fit: cover;">
+  </a>
   <p class="text-muted small mt-2"><em>ISSLab 2026 Community Call for Projects and Student Mentorship</em></p>
 </div>
 
 Researchers at ISS Lab take active roles in **TÜBİTAK 3501**, **TÜBİTAK 2209-A/B**, and **DorukNet** industry-collaborative projects, with opportunities to contribute directly to international conferences and high-impact journals.
 
-#### Open Research Areas
+#### Ongoing Projects & Research Areas
 
-- **Network Security & Traffic Monitoring:** Flowzen architecture, SDN data planes, P4 programming, high-throughput zero-copy packet capture, and real-time anomaly detection.
-- **AI-Powered Cyber Defense:** Quantized ONNX models for DrDoS mitigation, deep learning IP spoofing classifiers, and Graph Neural Networks (GNN) for botnet detection.
-- **Blockchain & Distributed Systems:** Cryptographic accumulators, the BEATS audit trail architecture, and decentralized identity verification.
-- **Embedded Systems & IoT Security:** Hardware-level Elliptic Curve Cryptography (ECC) acceleration on STM32 microcontrollers.
+- **Scalable Edge Authentication Framework (TÜBİTAK 3501):** [View Project Details](/projects/Research_Project_1/) · [Official Portal](https://issedgeauthentication.wordpress.com/)
+- **ISS — DorukNet Data Center Security (Flowzen & Iris):** [View Project Details](/projects/Research_Project_2/) · [Official Portal](https://issdatacentersecurity.wordpress.com/)
+- **Digital Twin Based Smart Attack Detection:** [View Project Details](/projects/Research_Project_4/) · [Research Hub](https://esoguiss.wordpress.com/intelligent-systems/)
+- **BEATS — Practical Blockchain Audit Trail:** [View Project Details](/projects/Research_Project_5/) · [Research Hub](https://esoguiss.wordpress.com/distributed-systems/)
 
 #### Participation & Channel Links
 
 1. 📺 **YouTube Video & Seminar Archive:** Watch our lab vision and technical presentations:  
-   👉 [YouTube: @isslab_tr](https://www.youtube.com/watch?v=w57ojUBgFFE)
+   👉 [YouTube: Watch Call for Projects Video](https://www.youtube.com/watch?v=w57ojUBgFFE)
 
 2. 💼 **LinkedIn ISSLab Community Group:** Join our professional network for academic announcements and research opportunities:  
    👉 [LinkedIn: ISSLab Community Group](https://www.linkedin.com/groups/9539313/)

@@ -33,7 +33,9 @@ Developed with the support of **DorukNet**, Flowzen is a cloud-native, high-thro
 
 #### Links & Resources
 
+- **Project Details Page:** [ISS — DorukNet Data Center Security (Flowzen)](/projects/Research_Project_2/)
+- **Project Official Portal:** [issdatacentersecurity.wordpress.com](https://issdatacentersecurity.wordpress.com/)
 - **IEEEXplore Paper:** [Flowzen: Modular and Scalable Network Monitoring Platform](https://lnkd.in/dyp5rjQ2)
 - **LinkedIn Announcement:** [Dr. İlker Özçelik — ISCTURKIYE 2025 Announcement](https://www.linkedin.com/posts/ozcelikilker_btk-iaovsctaesrkiye-flowzen-activity-7394380988484665344-IFJS)
-- **Project Page:** [Flowzen — Data Center Security](/projects/)
+- **Industry Partner:** [DorukNet (doruk.net.tr)](https://www.doruk.net.tr/)
 - **YouTube Channel:** [@isslab_tr](https://www.youtube.com/@isslab_tr/videos)

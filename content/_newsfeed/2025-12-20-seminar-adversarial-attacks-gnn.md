@@ -31,5 +31,6 @@ This seminar examines:
 #### Links & Resources
 
 - ▶️ **Watch Full Video on YouTube:** [Graf Sinir Ağlarına Karşı Çekişmeli Saldırılar](https://www.youtube.com/watch?v=tXkzQgZWeT8)
-- **Related Project:** [Digital Twin Based Smart Attack Detection](/projects/)
-- **Related Paper:** [Botnet Node Detection Using Graph Learning (DOI: 10.3390/app16010024)](https://doi.org/10.3390/app16010024)
+- **Related Project Page:** [Digital Twin Based Smart Attack Detection](/projects/Research_Project_4/)
+- **Research Portal:** [esoguiss.wordpress.com/intelligent-systems](https://esoguiss.wordpress.com/intelligent-systems/)
+- **Related Publication:** [Botnet Node Detection Using Graph Learning (DOI: 10.3390/app16010024)](https://doi.org/10.3390/app16010024)

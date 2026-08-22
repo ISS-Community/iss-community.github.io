@@ -2,9 +2,6 @@
 layout: people
 title: People
 subtitle: Principal, active members, and community members
-banner_image: null
+banner_image: assets/images/people/team-group-photo.jpg
 permalink: /people/
 ---
-
-<!-- Content here would show up above the people on your team -->
-

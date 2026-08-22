@@ -36,30 +36,33 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: 1px solid #e2e8f0;
   }
 
-  &.bg-image:before {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.96));
-    content: "";
-    left: 0;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    width: 100%;
-  }
+  &.bg-image {
+    position: relative;
+    background-size: cover !important;
+    background-position: center 25% !important;
+    min-height: 260px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 
-  &.projects-linear-gradient,
-  &.resources-linear-gradient,
-  &.people-linear-gradient,
-  &.funding-linear-gradient,
-  &.publications-linear-gradient,
-  &.newsfeed-linear-gradient,
-  &.event-linear-gradient,
-  &.person-linear-gradient,
-  &.project-linear-gradient,
-  &.resource-linear-gradient,
-  &.publication-linear-gradient,
-  &.news-linear-gradient {
-    background-image: none !important;
-    background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%) !important;
+    &:before {
+      background: linear-gradient(rgba(15, 23, 42, 0.45), rgba(15, 23, 42, 0.8)) !important;
+      content: "";
+      left: 0;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: 1;
+    }
+
+    h1, h2, h3, h4, h5, p, span {
+      position: relative;
+      z-index: 2;
+      color: #ffffff !important;
+      text-shadow: 0 2px 10px rgba(0, 0, 0, 0.7);
+    }
   }
 
   a,

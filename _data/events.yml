@@ -1,13 +1,34 @@
 #-------------------------------------------------------------------------------------
-# ISS Lab Events
+# ISS Lab Events & Seminars
 #-------------------------------------------------------------------------------------
-# Add events here as they are scheduled.
-# Example format:
-# - id: Event_Name
-#   title: Event Title
-#   type: Workshop
-#   date: 2026-01-01
-#   description: Event description.
-#   location: Location
-#   url: null
-#   badges: null
+- id: Seminar_GNN_2026
+  title: "Adversarial Attacks on Graph Neural Networks"
+  type: Seminar
+  date: 2026-02-11
+  description: "Technical research seminar by Gizem Karyağdı & Dr. İlker Özçelik exploring topological perturbation attacks and defensive GNN models."
+  location: "Online / ISSLab YouTube (@isslab_tr)"
+  url: "https://www.youtube.com/watch?v=tXkzQgZWeT8"
+
+- id: Call_Projects_2026
+  title: "ISSLab 2026 Community Call for Projects"
+  type: Meeting
+  date: 2026-01-20
+  description: "Open invitation for undergraduate and graduate researchers in TÜBİTAK 2209-A/B and industry-collaborative projects."
+  location: "Eskişehir Osmangazi University / Online"
+  url: "https://www.youtube.com/watch?v=w57ojUBgFFE"
+
+- id: Webcast_LLM_2026
+  title: "LLM Security in Enterprise Networks"
+  type: Seminar
+  date: 2026-01-09
+  description: "Technical presentation on threat vectors, privacy leak prevention, and defensive hardening for enterprise LLM systems."
+  location: "ISSLab YouTube (@isslab_tr)"
+  url: "https://www.youtube.com/watch?v=gYtPo_axz_E"
+
+- id: ISCTURKIYE_2025
+  title: "Flowzen at ISCTURKIYE 2025 Conference"
+  type: Conference
+  date: 2025-10-15
+  description: "Presentation of the Flowzen modular network monitoring platform developed in collaboration with DorukNet."
+  location: "BTK Headquarters, Ankara, Turkey"
+  url: "https://www.linkedin.com/posts/ozcelikilker_btk-iaovsctaesrkiye-flowzen-activity-7394380988484665344-IFJS"

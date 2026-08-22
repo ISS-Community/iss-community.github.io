@@ -39,15 +39,16 @@ h1, h2, h3, h4, h5, h6 {
   &.bg-image {
     position: relative;
     background-size: cover !important;
-    background-position: center 25% !important;
-    min-height: 260px;
+    background-position: center 20% !important;
+    min-height: 360px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
+    padding-bottom: 2.5rem;
 
     &:before {
-      background: linear-gradient(rgba(15, 23, 42, 0.45), rgba(15, 23, 42, 0.8)) !important;
+      background: linear-gradient(180deg, rgba(15, 23, 42, 0.15) 0%, rgba(15, 23, 42, 0.35) 55%, rgba(15, 23, 42, 0.85) 100%) !important;
       content: "";
       left: 0;
       height: 100%;
@@ -61,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
       position: relative;
       z-index: 2;
       color: #ffffff !important;
-      text-shadow: 0 2px 10px rgba(0, 0, 0, 0.7);
+      text-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
     }
   }
 

@@ -51,3 +51,11 @@ Flowzen overcomes these limitations by coupling a real-time streaming pipeline w
 - **Software-Defined Networking (SDN) & Data Center Security Seminars**  
   Large-scale data center DoS/DDoS detection architectures and high-throughput telemetry stream analytics.  
   ▶️ [Watch Video on YouTube (@isslab_tr)](https://www.youtube.com/@isslab_tr/videos)
+
+#### Conference Presentations & News
+
+- **ISCTÜRKİYE 2025 — BTK, Ankara** (November 2025)  
+  Flowzen platformu, Bilgi Teknolojileri ve İletişim Kurumu (BTK) ev sahipliğinde düzenlenen 18. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansında sunulmuştur.  
+  🔗 [LinkedIn Announcement](https://www.linkedin.com/posts/ozcelikilker_btk-iaovsctaesrkiye-flowzen-activity-7394380988484665344-IFJS)  
+  🔗 [IEEEXplore Paper](https://lnkd.in/dyp5rjQ2)
+

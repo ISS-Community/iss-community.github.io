@@ -11,6 +11,41 @@ permalink: /community/
     The <strong>Intelligence Systems and Security Lab (ISSLab) Community</strong> brings together undergraduate and graduate researchers, open-source developers, and cybersecurity enthusiasts in an active, collaborative research environment.
   </p>
 
+  <!-- Open Invitation / Call for Researchers Banner -->
+  <div class="card mb-5 border-primary shadow-sm" style="background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%); border-left: 5px solid #2563eb;">
+    <div class="card-body p-4">
+      <div class="row align-items-center">
+        <div class="col-lg-8">
+          <span class="badge badge-primary px-3 py-2 mb-2" style="font-size: 0.82rem; letter-spacing: 0.04em; text-transform: uppercase;">
+            <i class="fa fa-bullhorn mr-1"></i> Open Call & Student Invitation
+          </span>
+          <h4 class="card-title text-dark mb-2" style="font-weight: 700;">Join ISS Lab Research & TÜBİTAK 2209 Projects</h4>
+          <p class="card-text text-muted mb-3" style="font-size: 0.95rem; line-height: 1.6;">
+            We invite motivated undergraduate and graduate students to participate in ongoing research on <strong>Network Security, Quantized AI Models, Blockchain Audit Trails, and Embedded STM32 Cryptography</strong>. Mentoring is provided for TÜBİTAK 2209-A/B applications, graduation projects, and M.Sc./Ph.D. theses.
+          </p>
+          <div class="d-flex flex-wrap gap-2">
+            <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mr-2 mb-2">
+              <i class="fa fa-youtube-play mr-1"></i> Watch Lab Invitation Video
+            </a>
+            <a href="https://www.linkedin.com/groups/9539313/" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm mr-2 mb-2">
+              <i class="fa fa-linkedin mr-1"></i> Join LinkedIn Group
+            </a>
+            <a href="mailto:ilkerozcelik@ogu.edu.tr" class="btn btn-outline-dark btn-sm mb-2">
+              <i class="fa fa-envelope mr-1"></i> Contact Dr. İlker Özçelik
+            </a>
+          </div>
+        </div>
+        <div class="col-lg-4 text-center mt-3 mt-lg-0">
+          <div class="p-3 bg-white rounded border text-muted">
+            <i class="fa fa-users fa-3x text-primary mb-2"></i>
+            <h6 class="text-dark font-weight-bold mb-1">Weekly Research Seminars</h6>
+            <small>Held every week with recorded webcasts shared on our YouTube channel.</small>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- Community Channels Section -->
   <div class="channels-grid">
     <!-- YouTube Card -->
@@ -26,11 +61,11 @@ permalink: /community/
           </div>
         </div>
         <p class="channel-desc">
-          Graduate research seminars, technical webcasts, ECC authentication tutorials, STM projects, Flowzen demo, and laboratory overview videos.
+          Graduate research seminars, technical webcasts, ECC authentication tutorials, STM projects, Flowzen live demo, and laboratory overview videos.
         </p>
       </div>
       <div class="channel-cta">
-        Watch Videos <i class="fa fa-arrow-right"></i>
+        Watch Videos & Seminars <i class="fa fa-arrow-right"></i>
       </div>
     </a>
 
@@ -47,11 +82,32 @@ permalink: /community/
           </div>
         </div>
         <p class="channel-desc">
-          Academic announcements, research & internship opportunities, event notices, and our professional alumni network.
+          Academic announcements, research & internship opportunities, conference notices, and our professional alumni network.
         </p>
       </div>
       <div class="channel-cta">
-        Join Group <i class="fa fa-arrow-right"></i>
+        Join LinkedIn Community <i class="fa fa-arrow-right"></i>
+      </div>
+    </a>
+
+    <!-- Google Group / Mailing List Card -->
+    <a href="https://groups.google.com/g/iss-lab-community" target="_blank" rel="noopener noreferrer" class="channel-card channel-card--google">
+      <div>
+        <div class="channel-header">
+          <div class="channel-icon channel-icon--google">
+            <i class="fa fa-envelope-open-o"></i>
+          </div>
+          <div>
+            <h4 class="channel-title">Google Group</h4>
+            <span class="badge badge-success">iss-lab-community</span>
+          </div>
+        </div>
+        <p class="channel-desc">
+          Official mailing list, internal technical discussions, seminar schedules, meeting agendas, and shared academic materials.
+        </p>
+      </div>
+      <div class="channel-cta">
+        Join Discussion List <i class="fa fa-arrow-right"></i>
       </div>
     </a>
 
@@ -63,16 +119,16 @@ permalink: /community/
             <i class="fa fa-github"></i>
           </div>
           <div>
-            <h4 class="channel-title">GitHub</h4>
+            <h4 class="channel-title">GitHub Organization</h4>
             <span class="badge badge-dark">ISS-Community</span>
           </div>
         </div>
         <p class="channel-desc">
-          Open-source tools, research codebases, and collaborative project repositories from the ISS Lab team.
+          Open-source tools, reproducible research codebases, and collaborative repositories from the ISS Lab research team.
         </p>
       </div>
       <div class="channel-cta">
-        Browse Repos <i class="fa fa-arrow-right"></i>
+        Browse Repositories <i class="fa fa-arrow-right"></i>
       </div>
     </a>
   </div>
@@ -92,7 +148,30 @@ permalink: /community/
     </div>
 
     <div class="video-showcase-grid">
-      <!-- Video 1: Flowzen -->
+      <!-- Video 1: Lab Invitation & Overview -->
+      <div class="video-card">
+        <div class="video-thumb-wrapper">
+          <div class="play-btn"><i class="fa fa-play"></i></div>
+          <i class="fa fa-bullhorn fa-3x text-secondary"></i>
+        </div>
+        <div class="video-body">
+          <span class="video-tag video-tag--project">Lab Overview</span>
+          <div class="video-title">
+            <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer">Laboratory Invitation & Overview Videos</a>
+          </div>
+          <div class="video-desc">
+            ISSLab araştırma vizyonu, açık proje çağrıları, oryantasyon rehberleri ve öğrenci araştırmacılar için mentorluk fırsatları.
+          </div>
+          <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="video-link">
+            Watch Video <i class="fa fa-external-link ml-1"></i>
+          </a>
+          <div class="video-related mt-2">
+            <small class="text-muted">Invitation: <a href="mailto:ilkerozcelik@ogu.edu.tr">Apply via Email</a> · <a href="https://www.linkedin.com/groups/9539313/" target="_blank" rel="noopener noreferrer">LinkedIn Group</a></small>
+          </div>
+        </div>
+      </div>
+
+      <!-- Video 2: Flowzen -->
       <div class="video-card">
         <div class="video-thumb-wrapper">
           <div class="play-btn"><i class="fa fa-play"></i></div>
@@ -104,18 +183,18 @@ permalink: /community/
             <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer">Flowzen: Modular & Scalable Network Monitoring</a>
           </div>
           <div class="video-desc">
-            DorukNet iş birliği ile geliştirilen Flowzen platformunun demo ve tanıtımı. ISCTÜRKİYE 2025'te BTK'da sunuldu.
+            DorukNet iş birliği ile geliştirilen Flowzen platformunun canlı demo ve tanıtımı. BTK ev sahipliğindeki ISCTÜRKİYE 2025'te sunulmuştur.
           </div>
           <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
           </a>
           <div class="video-related mt-2">
-            <small class="text-muted">Related Project: <a href="/projects/">Flowzen Platform</a> · <a href="https://www.linkedin.com/posts/ozcelikilker_btk-iaovsctaesrkiye-flowzen-activity-7394380988484665344-IFJS" target="_blank" rel="noopener noreferrer">LinkedIn Post</a></small>
+            <small class="text-muted">Related Project: <a href="/projects/">Flowzen Platform</a> · <a href="https://www.linkedin.com/posts/ozcelikilker_btk-iaovsctaesrkiye-flowzen-activity-7394380988484665344-IFJS" target="_blank" rel="noopener noreferrer">LinkedIn Announcement</a></small>
           </div>
         </div>
       </div>
 
-      <!-- Video 2: ECC & Cryptography -->
+      <!-- Video 3: ECC & Cryptography -->
       <div class="video-card">
         <div class="video-thumb-wrapper">
           <div class="play-btn"><i class="fa fa-play"></i></div>
@@ -127,7 +206,7 @@ permalink: /community/
             <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer">ECC Authentication & Cryptography Tutorials</a>
           </div>
           <div class="video-desc">
-            Eliptik Eğri Kriptografisi (ECC) ve güvenli kimlik doğrulama protokollerinin teorik temelleri ve uygulamalı örnekleri.
+            Eliptik Eğri Kriptografisi (ECC) ve güvenli kimlik doğrulama protokollerinin teorik temelleri ve uygulamalı kodlama rehberleri.
           </div>
           <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
@@ -138,7 +217,7 @@ permalink: /community/
         </div>
       </div>
 
-      <!-- Video 3: Graduate Research Seminars -->
+      <!-- Video 4: Graduate Research Seminars -->
       <div class="video-card">
         <div class="video-thumb-wrapper">
           <div class="play-btn"><i class="fa fa-play"></i></div>
@@ -158,7 +237,7 @@ permalink: /community/
         </div>
       </div>
 
-      <!-- Video 4: STM32 Embedded Security -->
+      <!-- Video 5: STM32 Embedded Security -->
       <div class="video-card">
         <div class="video-thumb-wrapper">
           <div class="play-btn"><i class="fa fa-play"></i></div>
@@ -170,7 +249,7 @@ permalink: /community/
             <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer">STM Projects & Embedded Defense Demos</a>
           </div>
           <div class="video-desc">
-            STM32 mikrodenetleyicilerinde donanım düzeyinde kriptografik kıyaslama, sensör veri koruması ve güvenli yazılım geliştirme.
+            STM32 mikrodenetleyicilerinde donanım düzeyinde kriptografik kıyaslama, sensör veri koruması ve güvenli gömülü yazılım geliştirme.
           </div>
           <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
@@ -178,26 +257,6 @@ permalink: /community/
           <div class="video-related mt-2">
             <small class="text-muted">Related Project: <a href="/projects/">Edge Authentication (TÜBİTAK 3501)</a></small>
           </div>
-        </div>
-      </div>
-
-      <!-- Video 5: Lab Overview & Invitation -->
-      <div class="video-card">
-        <div class="video-thumb-wrapper">
-          <div class="play-btn"><i class="fa fa-play"></i></div>
-          <i class="fa fa-building fa-3x text-secondary"></i>
-        </div>
-        <div class="video-body">
-          <span class="video-tag video-tag--project">Lab Overview</span>
-          <div class="video-title">
-            <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer">Laboratory Invitation & Overview Videos</a>
-          </div>
-          <div class="video-desc">
-            ISSLab araştırma vizyonu, açık proje çağrıları, oryantasyon rehberleri ve öğrenci araştırmacılar için mentorluk fırsatları.
-          </div>
-          <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="video-link">
-            Watch Video <i class="fa fa-external-link ml-1"></i>
-          </a>
         </div>
       </div>
     </div>

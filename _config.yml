@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------------
 # site settings
 #-------------------------------------------------------------------------------------
-version: 36 # increment version to force a site rebuild and update Recent News even if content is unchanged
+version: 37 # increment version to force a site rebuild and update Recent News even if content is unchanged
 title: ISS Lab # in top navigation bar (navbar) and <head>
 description: Intelligence Systems and Security Lab (ISSLab) - Eskişehir Osmangazi University # description in <head>
 author: ISSLAB                    # for copyright statement in footer

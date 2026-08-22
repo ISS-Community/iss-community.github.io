@@ -22,6 +22,5 @@ Eskişehir Osmangazi University
 
 - [ISS Lab Research](https://esoguiss.wordpress.com/)
 - [ISSLab Blog](https://esoguisslab.wordpress.com/)
-- [GitHub: ISS-Community](https://github.com/ISS-Community)
 
 The most direct contact is [contact@ozcelikilker.com](mailto:contact@ozcelikilker.com).

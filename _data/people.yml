@@ -48,6 +48,8 @@
 - id: Elif_Fatma_Cebeci
   name: Elif Fatma Cebeci
   role: Lab Member
+  image: /assets/images/people/elif-fatma-cebeci.jpg
+  linkedin: https://www.linkedin.com/in/elif-fatma-cebeci-60aa77252/
   status: current
 
 - id: Gorkem_Goksel

@@ -1,25 +1,26 @@
 ---
 date: 2025-10-01
-title: "ISS Lab Seminer Serisi — Araştırma Sunumları"
-subtitle: Yüksek lisans ve doktora araştırma seminerleri
-description: "ISS Lab bünyesinde düzenlenen lisansüstü araştırma seminerleri: ağ güvenliği, yapay zeka destekli savunma, blockchain ve dağıtık sistem güvenliği konularında güncel sunumlar."
+title: "ISS Lab Graduate Research Seminar Series"
+subtitle: Weekly graduate presentations and technical webcasts
+description: "Graduate research seminars hosted at ISS Lab covering network defense, AI-based intrusion detection, blockchain audit trails, and distributed systems security."
 event_type: news
 banner_image_source: "assets/images/vintage-newspaper-print-downsize.jpg"
 ---
 
-**ISS Lab Seminer Serisi**, araştırma grubumuz bünyesinde düzenlenen lisansüstü araştırma sunumlarını kapsamaktadır. Seminerler, ağ güvenliği, yapay zeka tabanlı saldırı tespiti, blockchain denetim izleri ve IoT güvenliği gibi laboratuvarın temel çalışma alanlarını içermektedir.
+The **ISS Lab Research Seminar Series** features presentations by graduate and undergraduate researchers at Eskişehir Osmangazi University. Seminars cover core research themes including software-defined network monitoring, AI-powered intrusion detection, blockchain audit trails, and IoT edge cryptography.
 
-Seminer kayıtlarına ve diğer teknik içeriklere YouTube kanalımızdan ulaşabilirsiniz.
+All seminar recordings and technical tutorials are openly accessible on our official YouTube channel.
 
-#### Seminer Konuları
+#### Featured Seminar Topics
 
-- Derin öğrenme ile IP Spoofing tespiti
-- DrDoS saldırılarının kuantize ONNX modelleri ile tespiti
-- Botnet düğüm tespitinde çizge öğrenme yöntemleri
-- ECC tabanlı kimlik doğrulama mimarileri
-- STM32 gömülü güvenlik uygulamaları
+- Deep learning methods for real-time IP spoofing detection
+- Quantized ONNX neural network inference for DrDoS mitigation
+- Graph Neural Networks (GNN) for botnet node identification
+- Elliptic Curve Cryptography (ECC) authentication architectures
+- Embedded firmware security and cryptographic benchmarking on STM32
 
-#### Bağlantılar
+#### Links & Video Archive
 
-- **YouTube Seminer Kayıtları:** [@isslab_tr](https://www.youtube.com/@isslab_tr/videos)
-- **ISS Lab Araştırma Sayfası:** [esoguiss.wordpress.com](https://esoguiss.wordpress.com/)
+- **YouTube Seminar Archive:** [@isslab_tr](https://www.youtube.com/@isslab_tr/videos)
+- **ISS Lab Research Hub:** [esoguiss.wordpress.com](https://esoguiss.wordpress.com/)
+- **Community Page:** [ISSLAB Community](/community/)

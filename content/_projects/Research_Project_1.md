@@ -43,14 +43,14 @@ point of trust.
 
 #### Project Videos & Tutorials
 
-- **ECC Tabanlı Kriptografik Biriktirici Kütüphane Yazılım Havuzunun Kullanımı**  
-  Eliptik Eğri Kriptografisi (ECC) tabanlı biriktirici yazılım havuzunun kullanımı, sabit boyutlu kanıt üretimi ve doğrulama.  
+- **ECC-Based Cryptographic Accumulator Library Tutorial**  
+  Hands-on guide on using the elliptic curve cryptography (ECC) accumulator repository, constant-size membership proof generation, and verification workflows.  
   ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=xUDw_yeY8DY)
 
-- **STM Proje Oluşturma ve Geliştirme Setini Programlama**  
-  STM mikrodenetleyici üzerinde proje oluşturma, derleme ve gömülü güvenlik firmware yükleme adımları.  
+- **STM Project Creation & Board Programming**  
+  Project configuration, compilation, and flashing embedded security firmware onto STM32 microcontrollers.  
   ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=a1_-ycF26PE)
 
-- **STM STEVAL-IDB008V2 Geliştirme Ortamı Kurulumu**  
-  STM STEVAL-IDB008V2 Bluetooth Low Energy (BLE) geliştirme kiti için IDE kurulumu ve derleme rehberi.  
+- **STM STEVAL-IDB008V2 Environment Setup**  
+  IDE and toolchain setup tutorial for the STM STEVAL-IDB008V2 Bluetooth Low Energy (BLE) evaluation kit.  
   ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=ywydD5wqOeU)

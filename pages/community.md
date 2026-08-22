@@ -11,40 +11,29 @@ permalink: /community/
     The <strong>Intelligence Systems and Security Lab (ISSLab) Community</strong> brings together undergraduate and graduate researchers, open-source developers, and cybersecurity enthusiasts in an active, collaborative research environment.
   </p>
 
-  <!-- Open Invitation / Call for Researchers Banner -->
+  <!-- Open Invitation / Call for Researchers Banner (Full Width) -->
   <div class="card mb-5 border-primary shadow-sm" style="background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%); border-left: 5px solid #2563eb;">
     <div class="card-body p-4">
-      <div class="row align-items-center">
-        <div class="col-lg-8">
-          <span class="badge badge-primary px-3 py-2 mb-2" style="font-size: 0.82rem; letter-spacing: 0.04em; text-transform: uppercase;">
-            <i class="fa fa-bullhorn mr-1"></i> Open Call & Student Invitation
-          </span>
-          <h4 class="card-title text-dark mb-2" style="font-weight: 700;">Join ISS Lab Research & TÜBİTAK 2209 Projects</h4>
-          <p class="card-text text-muted mb-3" style="font-size: 0.95rem; line-height: 1.6;">
-            We invite motivated undergraduate and graduate students to participate in ongoing research on <strong>Network Security, Quantized AI Models, Blockchain Audit Trails, and Embedded STM32 Cryptography</strong>. Mentoring is provided for TÜBİTAK 2209-A/B applications, graduation projects, and M.Sc./Ph.D. theses.
-          </p>
-          <div class="d-flex flex-wrap gap-2">
-            <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mr-2 mb-2">
-              <i class="fa fa-youtube-play mr-1"></i> Watch Community Call Video
-            </a>
-            <a href="https://www.linkedin.com/groups/9539313/" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm mr-2 mb-2">
-              <i class="fa fa-linkedin mr-1"></i> Join LinkedIn Group
-            </a>
-            <a href="https://groups.google.com/g/iss-lab-community" target="_blank" rel="noopener noreferrer" class="btn btn-success btn-sm mr-2 mb-2">
-              <i class="fa fa-envelope mr-1"></i> Join Google Group
-            </a>
-            <a href="mailto:ilkerozcelik@ogu.edu.tr" class="btn btn-outline-dark btn-sm mb-2">
-              <i class="fa fa-envelope-o mr-1"></i> Contact Dr. İlker Özçelik
-            </a>
-          </div>
-        </div>
-        <div class="col-lg-4 text-center mt-3 mt-lg-0">
-          <div class="p-3 bg-white rounded border text-muted">
-            <i class="fa fa-users fa-3x text-primary mb-2"></i>
-            <h6 class="text-dark font-weight-bold mb-1">Weekly Research Seminars</h6>
-            <small>Held weekly with direct video recordings published on our YouTube channel.</small>
-          </div>
-        </div>
+      <span class="badge badge-primary px-3 py-2 mb-2" style="font-size: 0.82rem; letter-spacing: 0.04em; text-transform: uppercase;">
+        <i class="fa fa-bullhorn mr-1"></i> Open Call & Student Invitation
+      </span>
+      <h4 class="card-title text-dark mb-2" style="font-weight: 700;">Join ISS Lab Research & TÜBİTAK 2209 Projects</h4>
+      <p class="card-text text-muted mb-3" style="font-size: 0.95rem; line-height: 1.6;">
+        We invite motivated undergraduate and graduate students to participate in ongoing research on <strong>Network Security, Quantized AI Models, Blockchain Audit Trails, and Embedded STM32 Cryptography</strong>. Mentoring is provided for TÜBİTAK 2209-A/B applications, graduation projects, and M.Sc./Ph.D. theses.
+      </p>
+      <div class="d-flex flex-wrap gap-2">
+        <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mr-2 mb-2">
+          <i class="fa fa-youtube-play mr-1"></i> Watch Community Call Video
+        </a>
+        <a href="https://www.linkedin.com/groups/9539313/" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm mr-2 mb-2">
+          <i class="fa fa-linkedin mr-1"></i> Join LinkedIn Group
+        </a>
+        <a href="https://groups.google.com/g/iss-lab-community" target="_blank" rel="noopener noreferrer" class="btn btn-success btn-sm mr-2 mb-2">
+          <i class="fa fa-envelope mr-1"></i> Join Google Group
+        </a>
+        <a href="mailto:ilkerozcelik@ogu.edu.tr" class="btn btn-outline-dark btn-sm mb-2">
+          <i class="fa fa-envelope-o mr-1"></i> Contact Dr. İlker Özçelik
+        </a>
       </div>
     </div>
   </div>
@@ -139,10 +128,10 @@ permalink: /community/
         <div class="video-body">
           <span class="video-tag video-tag--project">Call for Projects</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer">ISSLab 2026 Community Call for Project</a>
+            <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer">ISSLab 2026 Community Call for Projects</a>
           </div>
           <div class="video-desc">
-            ISSLab araştırma vizyonu, lisans ve lisansüstü öğrenci araştırmacıları için açık proje çağrısı ve katılım yönergeleri.
+            ISSLab research vision, open project calls, and participation guidelines for undergraduate and graduate student researchers.
           </div>
           <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
@@ -162,10 +151,10 @@ permalink: /community/
         <div class="video-body">
           <span class="video-tag video-tag--seminar">Seminar Series</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/watch?v=gYtPo_axz_E" target="_blank" rel="noopener noreferrer">Kurumsal Ağlarda LLM Güvenliği</a>
+            <a href="https://www.youtube.com/watch?v=gYtPo_axz_E" target="_blank" rel="noopener noreferrer">LLM Security in Enterprise Networks</a>
           </div>
           <div class="video-desc">
-            Büyük dil modellerinin (LLM) kurumsal ağ mimarilerinde güvenli entegrasyonu, veri sızıntısı riskleri ve savunma stratejileri.
+            Secure integration of Large Language Models (LLMs) in enterprise network architectures, data leakage prevention, and defensive strategies.
           </div>
           <a href="https://www.youtube.com/watch?v=gYtPo_axz_E" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
@@ -182,10 +171,10 @@ permalink: /community/
         <div class="video-body">
           <span class="video-tag video-tag--seminar">Seminar Series</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/watch?v=tXkzQgZWeT8" target="_blank" rel="noopener noreferrer">Graf Sinir Ağlarına Karşı Çekişmeli Saldırılar</a>
+            <a href="https://www.youtube.com/watch?v=tXkzQgZWeT8" target="_blank" rel="noopener noreferrer">Adversarial Attacks on Graph Neural Networks</a>
           </div>
           <div class="video-desc">
-            Çizge Yapay Sinir Ağları (GNN) üzerinde çekişmeli (adversarial) saldırı mekanizmaları ve anomali tespiti dayanıklılığı.
+            Adversarial attack mechanisms against Graph Neural Networks (GNNs), robustness evaluation, and anomaly detection resilience.
           </div>
           <a href="https://www.youtube.com/watch?v=tXkzQgZWeT8" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
@@ -205,10 +194,10 @@ permalink: /community/
         <div class="video-body">
           <span class="video-tag video-tag--ecc">Cryptography Tutorial</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/watch?v=xUDw_yeY8DY" target="_blank" rel="noopener noreferrer">ECC Tabanlı Kriptografik Biriktirici Kütüphane Kullanımı</a>
+            <a href="https://www.youtube.com/watch?v=xUDw_yeY8DY" target="_blank" rel="noopener noreferrer">ECC-Based Cryptographic Accumulator Library</a>
           </div>
           <div class="video-desc">
-            Eliptik eğri kriptografisi (ECC) tabanlı biriktirici yazılım havuzunun kullanımı, sabit boyutlu kanıt üretimi ve doğrulama adımları.
+            Using the elliptic curve cryptography (ECC) accumulator repository, constant-size cryptographic proof generation, and verification workflows.
           </div>
           <a href="https://www.youtube.com/watch?v=xUDw_yeY8DY" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
@@ -228,10 +217,10 @@ permalink: /community/
         <div class="video-body">
           <span class="video-tag video-tag--ecc">Cryptography Tutorial</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/watch?v=tAH7mT62Xrs" target="_blank" rel="noopener noreferrer">Teoriden Pratiğe Kriptografik Biriktirici Uygulaması</a>
+            <a href="https://www.youtube.com/watch?v=tAH7mT62Xrs" target="_blank" rel="noopener noreferrer">From Theory to Practice: Cryptographic Accumulators</a>
           </div>
           <div class="video-desc">
-            Kriptografik akümülatörlerin teorik matematiksel temellerinden pratik kod implementasyonuna adım adım uygulama rehberi.
+            Step-by-step tutorial translating mathematical foundations of cryptographic accumulators into practical software implementations.
           </div>
           <a href="https://www.youtube.com/watch?v=tAH7mT62Xrs" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
@@ -251,10 +240,10 @@ permalink: /community/
         <div class="video-body">
           <span class="video-tag video-tag--project">Blockchain Development</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/watch?v=WxlzCd_J0Jw" target="_blank" rel="noopener noreferrer">ISSLab Sawtooth v1.2 Basit Cüzdan Uygulaması</a>
+            <a href="https://www.youtube.com/watch?v=WxlzCd_J0Jw" target="_blank" rel="noopener noreferrer">ISSLab Sawtooth v1.2 Simple Wallet Application</a>
           </div>
           <div class="video-desc">
-            Hyperledger Sawtooth blokzincir platformu üzerinde basit cüzdan ve işlem işlemcisi (Transaction Processor) geliştirme.
+            Developing a simple wallet and Transaction Processor on the Hyperledger Sawtooth enterprise blockchain platform.
           </div>
           <a href="https://www.youtube.com/watch?v=WxlzCd_J0Jw" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
@@ -274,10 +263,10 @@ permalink: /community/
         <div class="video-body">
           <span class="video-tag video-tag--stm">Embedded Systems</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/watch?v=a1_-ycF26PE" target="_blank" rel="noopener noreferrer">STM Proje Oluşturma ve Geliştirme Setini Programlama</a>
+            <a href="https://www.youtube.com/watch?v=a1_-ycF26PE" target="_blank" rel="noopener noreferrer">STM Project Creation & Board Programming</a>
           </div>
           <div class="video-desc">
-            STM geliştirme kartı üzerinde proje oluşturma, derleme ve gömülü güvenlik firmware yükleme adımları.
+            Project configuration, compilation, and embedded security firmware flashing on STM development boards.
           </div>
           <a href="https://www.youtube.com/watch?v=a1_-ycF26PE" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>
@@ -297,10 +286,10 @@ permalink: /community/
         <div class="video-body">
           <span class="video-tag video-tag--stm">Embedded Systems</span>
           <div class="video-title">
-            <a href="https://www.youtube.com/watch?v=ywydD5wqOeU" target="_blank" rel="noopener noreferrer">STM STEVAL-IDB008V2 Geliştirme Ortamı Kurulumu</a>
+            <a href="https://www.youtube.com/watch?v=ywydD5wqOeU" target="_blank" rel="noopener noreferrer">STM STEVAL-IDB008V2 Environment Setup</a>
           </div>
           <div class="video-desc">
-            STM STEVAL-IDB008V2 Bluetooth Low Energy (BLE) geliştirme kiti için IDE ve derleme ortamı kurulum rehberi.
+            IDE and toolchain setup guide for the STM STEVAL-IDB008V2 Bluetooth Low Energy (BLE) evaluation kit.
           </div>
           <a href="https://www.youtube.com/watch?v=ywydD5wqOeU" target="_blank" rel="noopener noreferrer" class="video-link">
             Watch Video <i class="fa fa-external-link ml-1"></i>

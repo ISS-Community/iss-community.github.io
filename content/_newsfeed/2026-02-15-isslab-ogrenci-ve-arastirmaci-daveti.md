@@ -1,33 +1,33 @@
 ---
 date: 2026-02-15
-title: "ISS Lab Öğrenci ve Araştırmacı Katılım Çağrısı (TÜBİTAK 2209 & Lisansüstü)"
-subtitle: Ağ Güvenliği, Kuantize Yapay Zeka ve Blockchain Araştırmalarına Katılın
-description: "ISS Lab bünyesinde TÜBİTAK 2209-A/B, TÜBİTAK 3501 ve DorukNet sanayi projelerinde görev almak isteyen lisans, yüksek lisans ve doktora öğrencileri için araştırma grubu katılım çağrısı."
+title: "ISS Lab Call for Student Researchers (TÜBİTAK 2209 & Graduate Research)"
+subtitle: Join cutting-edge research in Network Security, Quantized AI, and Blockchain
+description: "Open call for undergraduate, M.Sc., and Ph.D. students seeking to participate in TÜBİTAK 2209-A/B, TÜBİTAK 3501, and DorukNet industrial R&D projects mentored within ISS Lab."
 event_type: news
 banner_image_source: "assets/images/vintage-newspaper-print-downsize.jpg"
 ---
 
-**Intelligent Systems Security Research Laboratory (ISS Lab)**, ağ güvenliği, yapay zeka tabanlı siber savunma, kuantize derin öğrenme modelleri, blokzincir ve IoT güvenliği alanlarında çalışmak isteyen lisans ve lisansüstü öğrenci araştırmacıları ekibimize katılmaya davet ediyor!
+The **Intelligent Systems Security Research Laboratory (ISSLab)** at Eskişehir Osmangazi University invites motivated undergraduate and graduate student researchers to join our team in network security, AI-assisted cyber defense, quantized deep learning models, blockchain architectures, and IoT security!
 
-Laboratuvarımızda yürütülen **TÜBİTAK 3501**, **TÜBİTAK 2209-A/B** ve **DorukNet** sanayi iş birliği projelerinde aktif rol alabilir, uluslararası konferans ve dergilerde yayın üretme fırsatı yakalayabilirsiniz.
+Researchers at ISS Lab take active roles in **TÜBİTAK 3501**, **TÜBİTAK 2209-A/B**, and **DorukNet** industry-collaborative projects, with opportunities to contribute directly to international conferences and high-impact journals.
 
-#### Açık Araştırma Alanları
+#### Open Research Areas
 
-- **Ağ Güvenliği & Trafik İzleme:** Flowzen mimarisi, SDN veri düzlemleri, P4, yüksek bant genişlikli paket yakalama ve anomali tespiti.
-- **Yapay Zeka Destekli Siber Savunma:** Kuantize ONNX modelleri ile DrDoS tespiti, IP Spoofing sınıflandırması ve Graph Neural Networks (GNN) ile botnet analizi.
-- **Blokzincir ve Dağıtık Sistemler:** Kriptografik akümülatörler, BEATS denetim izi mimarisi ve merkeziyetsiz kimlik doğrulama.
-- **Gömülü Sistemler ve IoT Güvenliği:** STM32 üzerinde donanımsal ECC (Elliptic Curve Cryptography) uygulamaları.
+- **Network Security & Traffic Monitoring:** Flowzen architecture, SDN data planes, P4 programming, high-throughput zero-copy packet capture, and real-time anomaly detection.
+- **AI-Powered Cyber Defense:** Quantized ONNX models for DrDoS mitigation, deep learning IP spoofing classifiers, and Graph Neural Networks (GNN) for botnet detection.
+- **Blockchain & Distributed Systems:** Cryptographic accumulators, the BEATS audit trail architecture, and decentralized identity verification.
+- **Embedded Systems & IoT Security:** Hardware-level Elliptic Curve Cryptography (ECC) acceleration on STM32 microcontrollers.
 
-#### Katılım ve Davet Bağlantıları
+#### Participation & Channel Links
 
-1. 📺 **YouTube Tanıtım & Seminer Videoları:** Laboratuvar vizyonu ve güncel seminerler için YouTube kanalımızı takip edin:  
-   👉 [YouTube: @isslab_tr](https://www.youtube.com/@isslab_tr/videos)
+1. 📺 **YouTube Video & Seminar Archive:** Watch our lab vision and technical presentations:  
+   👉 [YouTube: @isslab_tr](https://www.youtube.com/watch?v=w57ojUBgFFE)
 
-2. 💼 **LinkedIn ISSLab Community Grubu:** Duyurular ve staj/araştırma fırsatları için profesyonel ağımıza katılın:  
+2. 💼 **LinkedIn ISSLab Community Group:** Join our professional network for academic announcements and research opportunities:  
    👉 [LinkedIn: ISSLab Community Group](https://www.linkedin.com/groups/9539313/)
 
-3. 👥 **Google Group / Tartışma Listesi:** Seminer takvimi ve teknik kaynaklar için:  
+3. 👥 **Google Group Mailing List:** Connect for seminar schedules and technical discussions:  
    👉 [Google Group: iss-lab-community](https://groups.google.com/g/iss-lab-community)
 
-4. ✉️ **Başvuru ve İletişim:** İlgilendiğiniz araştırma alanı ve özgeçmişinizle birlikte:  
+4. ✉️ **Application & Contact:** Send your CV and research interests to:  
    👉 [Dr. İlker Özçelik — ilkerozcelik@ogu.edu.tr](mailto:ilkerozcelik@ogu.edu.tr)

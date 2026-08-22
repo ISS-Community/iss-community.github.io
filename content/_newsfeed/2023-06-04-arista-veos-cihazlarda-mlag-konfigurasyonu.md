@@ -1,14 +1,12 @@
 ---
 date: 2023-06-04
-title: Arista vEOS cihazlarda MLAG konfigürasyonu
-subtitle: GNS3 içinde Arista vEOS MLAG kurulumu
-description: Arista vEOS üzerinde MLAG yapılandırmasını, peer VLAN ve port-channel ayarlarını, zerotouch kapatmayı ve show mlag doğrulamasını anlatan bir teknik yazı.
+title: MLAG Configuration on Arista vEOS Devices
+subtitle: Setting up Arista vEOS Multi-Chassis Link Aggregation in GNS3
+description: A step-by-step tutorial on configuring MLAG on Arista vEOS switches, peer VLAN and port-channel settings, disabling zerotouch, and validating configuration with show mlag.
 event_type: resource
 banner_image_source: "assets/images/vintage-newspaper-print-downsize.jpg"
 ---
 
-This post explains how to set up MLAG on Arista vEOS inside GNS3. It covers the
-reason MLAG is useful, how to disable zerotouch, how to configure the peer VLAN
-and peer link, and how to verify the final state with the `show mlag` command.
+This tutorial explains how to configure Multi-Chassis Link Aggregation (MLAG) on Arista vEOS virtual switches inside GNS3. It covers the motivation for multi-chassis redundancy, disabling Zero Touch Provisioning (ZTP), configuring peer VLANs and peer link port-channels, and verifying the MLAG state with the `show mlag` command.
 
 **Read full article:** [esoguisslab.wordpress.com/2023/06/04/arista-veos-cihazlarda-mlag-konfigurasyonu/](https://esoguisslab.wordpress.com/2023/06/04/arista-veos-cihazlarda-mlag-konfigurasyonu/)

@@ -42,10 +42,10 @@ By maintaining high-fidelity virtual replicas of operational network environment
 
 #### Project Videos & Seminars
 
-- **Graf Sinir Ağlarına Karşı Çekişmeli Saldırılar (Seminar Video)**  
-  Çizge Yapay Sinir Ağları (GNN) üzerinde çekişmeli saldırılar, anomali sınıflandırması ve dayanıklılık semineri.  
+- **Adversarial Attacks on Graph Neural Networks (Seminar Video)**  
+  Research seminar covering adversarial attack mechanisms against Graph Neural Networks (GNNs), robustness evaluation, and anomaly classification.  
   ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=tXkzQgZWeT8)
 
-- **Kurumsal Ağlarda LLM Güvenliği (Technical Webcast)**  
-  Büyük dil modellerinin kurumsal ağ altyapılarına entegrasyonunda güvenlik riskleri ve savunma yöntemleri.  
+- **LLM Security in Enterprise Networks (Technical Webcast)**  
+  Technical webcast examining security risks, data leakage vectors, and defense mechanisms for Large Language Models deployed in enterprise networks.  
   ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=gYtPo_axz_E)

@@ -54,8 +54,7 @@ Flowzen overcomes these limitations by coupling a real-time streaming pipeline w
 
 #### Conference Presentations & News
 
-- **ISCTÜRKİYE 2025 — BTK, Ankara** (November 2025)  
-  Flowzen platformu, Bilgi Teknolojileri ve İletişim Kurumu (BTK) ev sahipliğinde düzenlenen 18. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansında sunulmuştur.  
+- **ISCTURKIYE 2025 — BTK, Ankara** (November 2025)  
+  Flowzen was presented at the 18th International Conference on Information Security and Cryptology (ISCTURKIYE 2025) hosted by the Information and Communication Technologies Authority (BTK).  
   🔗 [LinkedIn Announcement](https://www.linkedin.com/posts/ozcelikilker_btk-iaovsctaesrkiye-flowzen-activity-7394380988484665344-IFJS)  
   🔗 [IEEEXplore Paper](https://lnkd.in/dyp5rjQ2)
-

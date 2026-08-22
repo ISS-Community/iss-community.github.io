@@ -1,27 +1,27 @@
 ---
 date: 2025-11-12
-title: "Flowzen: ISCTÜRKİYE 2025 Konferansında BTK'da Tanıtıldı"
-subtitle: DorukNet iş birliği ile geliştirilen Flowzen Ağ İzleme Platformu
-description: "ISS Lab ekibi, Bilgi Teknolojileri ve İletişim Kurumu (BTK) ev sahipliğinde düzenlenen ISCTÜRKİYE 2025 Konferansında Flowzen: Modular and Scalable Network Monitoring Platform çalışmasını sundu."
+title: "Flowzen Presented at ISCTURKIYE 2025 Conference at BTK"
+subtitle: Flowzen Network Monitoring Platform developed in collaboration with DorukNet
+description: "ISS Lab researchers presented 'Flowzen: Modular and Scalable Network Monitoring Platform' at the 18th International Conference on Information Security and Cryptology (ISCTURKIYE 2025) hosted by BTK in Ankara."
 event_type: news
 banner_image_source: "assets/images/vintage-newspaper-print-downsize.jpg"
 ---
 
-ISS Lab ekibi, **Bilgi Teknolojileri ve İletişim Kurumu (BTK)** ev sahipliğinde düzenlenen **ISCTÜRKİYE 2025** (18. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı) etkinliğinde **Flowzen: Modular and Scalable Network Monitoring Platform** çalışmasını sundu.
+The ISS Lab research team presented **Flowzen: Modular and Scalable Network Monitoring Platform** at the **18th International Conference on Information Security and Cryptology (ISCTURKIYE 2025)**, hosted at the Information and Communication Technologies Authority (BTK) headquarters in Ankara.
 
-**DorukNet** desteği ile geliştirilen Flowzen platformu, yüksek bant genişlikli veri merkezi ortamlarında gerçek zamanlı ağ trafiği izleme ve analiz sağlayan, Kubernetes Horizontal Pod Autoscaling (HPA) ile ölçeklenebilen bulut-tabanlı bir mimari sunmaktadır.
+Developed with the support of **DorukNet**, Flowzen is a cloud-native, high-throughput network monitoring platform designed for high-bandwidth data center environments. By coupling real-time stream processing with **Kubernetes Horizontal Pod Autoscaling (HPA)**, Flowzen reduces packet loss from 52% down to 2.5% during sudden volumetric bursts while delivering granular flow-level security telemetry.
 
-#### Çalışma Ekibi
+#### Research Team
 
-- Dr. İlker Özçelik (ISS Lab Direktörü)
+- Dr. İlker Özçelik (Director, ISS Lab)
 - Furkan Çetin
 - Alperen Gültekin
 - İsmet Kaan Çekiş
 - Mustafa Özgür
 
-#### Bağlantılar
+#### Links & Resources
 
-- **IEEEXplore Makale:** [Flowzen: Modular and Scalable Network Monitoring Platform](https://lnkd.in/dyp5rjQ2)
-- **LinkedIn Gönderi:** [Dr. İlker Özçelik — ISCTÜRKİYE 2025 Duyurusu](https://www.linkedin.com/posts/ozcelikilker_btk-iaovsctaesrkiye-flowzen-activity-7394380988484665344-IFJS)
-- **Proje Sayfası:** [Flowzen — Data Center Security](/projects/)
-- **YouTube Kanalı:** [@isslab_tr](https://www.youtube.com/@isslab_tr/videos)
+- **IEEEXplore Paper:** [Flowzen: Modular and Scalable Network Monitoring Platform](https://lnkd.in/dyp5rjQ2)
+- **LinkedIn Announcement:** [Dr. İlker Özçelik — ISCTURKIYE 2025 Announcement](https://www.linkedin.com/posts/ozcelikilker_btk-iaovsctaesrkiye-flowzen-activity-7394380988484665344-IFJS)
+- **Project Page:** [Flowzen — Data Center Security](/projects/)
+- **YouTube Channel:** [@isslab_tr](https://www.youtube.com/@isslab_tr/videos)

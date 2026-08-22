@@ -38,14 +38,14 @@ By integrating cryptographic accumulators with distributed ledgers, BEATS proves
 
 #### Project Videos & Seminars
 
-- **Teoriden Pratiğe Kriptografik Biriktirici Uygulaması**  
-  Kriptografik akümülatörlerin teorik temelleri, sabit boyutlu kanıt üretimi ve pratik kod uygulaması.  
+- **From Theory to Practice: Cryptographic Accumulator Implementation**  
+  Tutorial translating mathematical foundations of cryptographic accumulators into practical code implementation and proof generation.  
   ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=tAH7mT62Xrs)
 
-- **ISSLab Sawtooth v1.2 Basit Cüzdan Uygulaması**  
-  Hyperledger Sawtooth blokzincir platformu üzerinde basit cüzdan ve işlem işlemcisi geliştirme.  
+- **ISSLab Sawtooth v1.2 Simple Wallet Application**  
+  Developing a wallet and Transaction Processor on the Hyperledger Sawtooth enterprise blockchain platform.  
   ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=WxlzCd_J0Jw)
 
-- **ECC Tabanlı Kriptografik Biriktirici Kütüphane Yazılım Havuzunun Kullanımı**  
-  Kriptografik biriktirici kütüphane havuzunun entegrasyonu ve blockchain denetim izi mimarisinde kullanımı.  
+- **ECC-Based Cryptographic Accumulator Library Tutorial**  
+  Integrating the cryptographic accumulator library and evaluating membership verification efficiency within blockchain audit trailing systems.  
   ▶️ [Watch Video on YouTube](https://www.youtube.com/watch?v=xUDw_yeY8DY)

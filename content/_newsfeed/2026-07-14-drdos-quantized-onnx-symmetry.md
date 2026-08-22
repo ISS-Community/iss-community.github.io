@@ -1,20 +1,20 @@
 ---
 date: 2026-07-14
-title: "Symmetry Dergisinde Yeni Makalemiz: Quantized ONNX ile Yüksek Başarımlı DrDoS Tespiti"
+title: "New Publication in Symmetry: High-Throughput DrDoS Detection with Quantized ONNX Models"
 subtitle: MDPI Symmetry 2026 — Eren, Gültekin, Özkan, Özçelik
-description: "ISS Lab araştırmacıları tarafından hazırlanan 'High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models' başlıklı çalışma MDPI Symmetry dergisinde yayınlandı."
+description: "Research by ISS Lab members presenting high-throughput, low-latency DrDoS detection using quantized ONNX models published in MDPI Symmetry."
 event_type: news
 banner_image_source: "assets/images/vintage-newspaper-print-downsize.jpg"
 ---
 
-ISS Lab araştırmacıları **Salih Eren**, **Alperen Gültekin**, **Ömer Özkan** ve **Dr. İlker Özçelik** tarafından hazırlanan *"High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models"* başlıklı makale uluslararası **Symmetry (MDPI)** dergisinde yayınlandı.
+The latest research by ISS Lab researchers **Salih Eren**, **Alperen Gültekin**, **Ömer Özkan**, and **Dr. İlker Özçelik**, titled *"High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models"*, has been published in **Symmetry (MDPI)**.
 
-Bu çalışmada, kaynak kısıtlı ağ bileşenleri üzerinde mikrosaniye düzeyinde çıkarım (inference) süreleri sunan kuantize ONNX derin öğrenme modelleri ile DNS Amplification ve yansıtmalı DrDoS saldırılarının yüksek doğrulukla tespiti gerçekleştirilmiştir.
+This work proposes a high-throughput, ultra-low-latency Distributed Reflection Denial of Service (DrDoS) detection architecture using quantized ONNX neural network models. By systematically comparing optimization and integer quantization configurations, the framework delivers high-precision detection against DNS Amplification and volumetric reflection attacks with microsecond inference times on resource-constrained platforms.
 
-#### Makale Detayları
+#### Publication Details
 
-- **Yazarlar:** Salih Eren, Alperen Gültekin, Ömer Özkan, Dr. İlker Özçelik
-- **Dergi:** *Symmetry*, 2026, 18(7), 1187
-- **DOI Bağlantısı:** [10.3390/sym18071187](https://doi.org/10.3390/sym18071187)
-- **İlgili Proje:** [Iris Telemetry & Attack Detection](/projects/)
-- **YouTube Seminer & Teknik Anlatım:** [@isslab_tr](https://www.youtube.com/@isslab_tr/videos)
+- **Authors:** Salih Eren, Alperen Gültekin, Ömer Özkan, Dr. İlker Özçelik
+- **Journal:** *Symmetry*, 2026, 18(7), 1187
+- **DOI Link:** [10.3390/sym18071187](https://doi.org/10.3390/sym18071187)
+- **Related Project:** [Iris Telemetry & Attack Detection](/projects/)
+- **YouTube Seminar & Technical Webcasts:** [@isslab_tr](https://www.youtube.com/@isslab_tr/videos)

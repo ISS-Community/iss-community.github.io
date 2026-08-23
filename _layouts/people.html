@@ -23,7 +23,7 @@ layout: base/base
                 {% if person.image %}
                   <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
                 {% else %}
-                  <span>Add photo</span>
+                  <i class="fa-solid fa-user fa-3x" style="color: #cbd5e1;"></i>
                 {% endif %}
               </div>
               <div class="person-card__body">
@@ -61,7 +61,7 @@ layout: base/base
               {% if person.image %}
                 <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
               {% else %}
-                <span>Photo</span>
+                <i class="fa-solid fa-user fa-3x" style="color: #cbd5e1;"></i>
               {% endif %}
             </div>
             <div class="person-badge">Lab Member</div>

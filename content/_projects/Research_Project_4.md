@@ -1,18 +1,16 @@
 ---
-title: Digital Twin Based Smart Attack Detection
+title: Adversarial Attack Detection & Mitigation
 subtitle: Simulation-assisted intelligent defense & AI security for mission-critical infrastructure
 description: A defense-industry supported project designing high-fidelity digital twin simulation environments, Graph Neural Network (GNN) anomaly detectors, and quantized ONNX models to protect critical cyber-physical systems.
 order: 3
 active: true
 card_image: null
-card_title: Digital Twin Defense
-external_url: "https://esoguiss.wordpress.com/intelligent-systems/"
+card_title: Adversarial Attack Mitigation
+external_url: 
 categories:
-    - Digital Twin
     - AI Security
     - Graph Learning
     - Critical Infrastructure
-    - Quantized Models
 ---
 
 <div class="project-details">

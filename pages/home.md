@@ -4,6 +4,18 @@ title: Intelligence Systems and Security Lab (ISSLab)
 subtitle: Smart and Secure
 permalink: /
 ---
+The **Intelligent Systems Security Laboratory (ISSLab)** investigates the design of secure, resilient, and adaptive architectures for next-generation computing and communication systems. Modern infrastructures increasingly rely on distributed, intelligent subsystems that introduce complex attack surfaces; our research addresses these vulnerabilities through three interconnected domains:
+
+* **Next-Generation Networking & Network Defense**  
+  We examine modern networking paradigms to develop robust monitoring, management, and defense frameworks. By leveraging deep learning and Graph Neural Networks (GNNs), we design adaptive models capable of detecting large-scale anomalies, botnets, and DDoS attacks across dynamic SDN and edge environments.
+
+* **Security & Robustness of Intelligent Systems**  
+  As machine learning models become integral to mission-critical applications, ensuring their trustworthiness is essential. We analyze adversarial attack vectors, develop defensive mitigation strategies, and establish empirical robustness metrics to safeguard AI systems against manipulation and maintain operational integrity.
+
+* **Distributed Systems & Decentralized Technologies**  
+  Addressing the challenges of distributed environments, we study the security, privacy, and dependability of decentralized architectures. Our work incorporates blockchain technologies, the InterPlanetary File System (IPFS), and Web 3.0 frameworks to establish scalable, fault-tolerant, and verifiable data infrastructures.
+
+Through a dual focus on **AI for network defense** and the **security of AI itself**, ISSLab combines verified cryptographic primitives with practical methodologies to engineer dependable solutions for complex, evolving threat landscapes.
 
 **Intelligent Systems Security Laboratory (ISSLab)** at Eskişehir Osmangazi University conducts cutting-edge research to design secure, resilient, and intelligent infrastructures for next-generation computing and networking systems.
 

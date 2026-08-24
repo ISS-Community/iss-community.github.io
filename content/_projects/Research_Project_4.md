@@ -18,7 +18,6 @@ categories:
   <div class="alert alert-info border-primary mb-4 p-3" style="border-left: 4px solid #2563eb; background: #f0f7ff;">
     <strong>Research Focus:</strong> Intelligent Systems Security & Cyber-Physical Infrastructure Protection<br>
     <strong>Host Institution:</strong> Intelligence Systems and Security Lab (ISSLab), Eskişehir Osmangazi University<br>
-    <strong>Research Portal:</strong> <a href="https://esoguiss.wordpress.com/intelligent-systems/" target="_blank" rel="noopener noreferrer">esoguiss.wordpress.com/intelligent-systems/</a>
   </div>
 
 <p>
@@ -29,37 +28,44 @@ This project constitutes a core security initiative within a broader Digital Twi
 To guarantee the reliability, integrity, and resilience of AI components embedded within the Digital Twin environment, this research focuses on developing a robust, high-generalizability, and real-time framework to detect, explain, and mitigate adversarial attacks targeting deep learning systems.
 </p>
 
-  <h3>Executive Summary & Research Motivation</h3>
+  <h3>Research Motivation</h3>
   <p>
-    Mission-critical infrastructures (including power grids, telecommunication cores, transportation networks, and defense communications) require continuous uptime and zero-tolerance for service interruption. As these systems incorporate autonomous decision-making and machine learning components, they become exposed to complex, multi-stage cyber attacks and adversarial manipulation.
+    While significant scientific literature addresses the creation of adversarial attacks and initial detection mechanisms, a critical gap exists in real-time, generalized attack mitigation. Existing defense techniques often lack real-time operational efficiency or fail to generalize across diverse deep learning architectures.
   </p>
   <p>
-    Deploying untested defensive countermeasures directly onto live infrastructure risks unintended service disruption. The <strong>Digital Twin Based Smart Attack Detection</strong> project addresses this dilemma by pairing live networks with <strong>high-fidelity digital replicas (Digital Twins)</strong>. This allows security operators to simulate attack trajectories, evaluate AI robustness, and test proactive defense countermeasures safely before operational deployment.
+    In mission-critical applications such as battlefield management, IoT/network security, intelligence gathering, and autonomous defense platforms, an undetected or unmitigated adversarial exploit can cause catastrophic failures. Building upon prior research which achieved over 80% success in detecting adversarial attempts; this project advances the state of the art by shifting focus from passive detection to active real-time mitigation and explainability. The core objective is to ensure that AI models remain operational, consistent, and trusted even under active exploitation attempts.
   </p>
 
   <hr class="my-4">
 
-  <h3>Core Technical Innovations & Methodologies</h3>
+  <h3>System Architecture & Technical Innovations</h3>
+  <p>
+    The proposed security architecture is structured into modular, interoperable components designed to evaluate, observe, and defend AI models dynamically.
+  </p>
+
+  <h4>Core Components</h4>
+    <ul>
+        <li><strong>Target Systems Suite (Victim Models):</strong> Development of distinct attack detection systems spanning Web, Network, and IoT environments, utilizing foundational architectures including Deep Neural Networks (DNN), Long Short-Term Memory (LSTM), Convolutional Neural Networks (CNN), Autoencoders, and Graph Neural Networks.</li>
+        <li><strong>Adversarial Penetration & Attack Engine:</strong> An automated framework emulating white-box attack vectors including to systematically identify model vulnerabilities.</li>
+        <li><strong>Detection Engine:</strong> Integration of statistical detection and previously proven detection mechanisms to identify compromised inputs dynamically.</li>
+        <li><strong>Novel Mitigation Module:</strong> Advanced algorithms engineered to neutralize adversarial perturbations in real-time, restoring true classification capabilities without impairing system throughput.</li>
+    </ul>
+
+
+  <h3>Broad Impact & Strategic Significance</h3>
+  <p>
+    Although the initial validation environment focuses on AI-driven cybersecurity (Web, Network, and IoT), the developed algorithms are inherently domain-agnostic. The methods established through this project extend readily to:
+  </p>
+      <ul>
+        <li>Natural Language Processing and text classification pipelines</li>
+        <li>Time-series analysis and signal processing</li>
+        <li>Satellite image processing and target recognition</li>
+        <li>Autonomous defense equipment and tactical decision support</li>
+    </ul>
+  <p>
+    By delivering an integrated platform capable of adversarial penetration testing, vulnerability assessment, and real-time defense, this research provides a foundational layer of trust for deployed AI systems in defense, security, and national critical infrastructure.
+  </p>
   
-  <h4>1. High-Fidelity Digital Twin Simulation</h4>
-  <p>
-    Maintains real-time topological and state synchronization between physical network assets and virtual digital replicas. Security analysts can inject synthetic zero-day exploits, analyze attack propagation across virtual network segments, and evaluate automated response playbooks without impacting production traffic.
-  </p>
-
-  <h4>2. Graph Neural Networks (GNN) for Botnet Detection</h4>
-  <p>
-    Traditional intrusion detection inspects isolated packets or single-device flow records. ISS Lab explores graph representation learning to model topological interactions across entire networks, identifying coordinated botnet command-and-control (C2) communication patterns and compromised nodes with high resilience against evasion techniques.
-  </p>
-
-  <h4>3. Ultra-Low Latency Inference via Quantized ONNX Models</h4>
-  <p>
-    To protect resource-constrained edge gateways against volumetric Distributed Reflection Denial of Service (DrDoS) attacks, the team develops integer-quantized (INT8) ONNX deep learning models that achieve microsecond inference latency while matching the classification accuracy of full-precision neural networks.
-  </p>
-
-  <h4>4. Adversarial Machine Learning & Robustness Metrics</h4>
-  <p>
-    Investigates how adversarial perturbations deceive intelligent classifiers and develops formal robustness metrics to guarantee dependability in mission-critical deployments.
-  </p>
 
   <hr class="my-4">
 

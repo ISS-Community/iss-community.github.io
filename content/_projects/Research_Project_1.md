@@ -62,16 +62,16 @@ categories:
 
   <h3>Related Publications</h3>
   <div class="card p-3 mb-3 bg-light border-0 shadow-sm">
-    <h5 class="mb-1 font-weight-bold">Performance Comparison of ECC Libraries for IoT Devices</h5>
-    <p class="text-muted mb-2"><em>İsmet Kaan Çekiş, Armağan Toros, Nimet Apaydın, İlker Özçelik</em></p>
-    <p class="mb-2" style="font-size: 0.92rem;">
-      Eskişehir Technical University Journal of Science and Technology A - Applied Sciences and Engineering, 2024, 25(2), pp. 278-288.
-    </p>
-    <a href="https://doi.org/10.18038/estubtda.1427488" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm align-self-start">
-      <i class="fa fa-external-link mr-1"></i> Read Article (DOI: 10.18038/estubtda.1427488)
-    </a>
-  </div>
-
+  <h5 class="mb-1 font-weight-bold">A Code-Based Universal Cryptographic Accumulator</h5>
+  <p class="text-muted mb-2"><em>İlker Özçelik</em></p>
+  <p class="mb-2" style="font-size: 0.92rem;">
+    2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT), IEEE, 2025, pp. 1-5.
+  </p>
+  <a href="https://doi.org/YOUR_DOI_HERE" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm align-self-start">
+    <i class="fa fa-external-link mr-1"></i> Read Article (DOI)
+  </a>
+</div>
+  
   <div class="card p-3 mb-3 bg-light border-0 shadow-sm">
     <h5 class="mb-1 font-weight-bold">Edge Authentication Using a Cryptographic Accumulator</h5>
     <p class="text-muted mb-2"><em>İsmet Kaan Çekiş, Armağan Toros, Volkan Yiğit, İlker Özçelik</em></p>
@@ -81,7 +81,29 @@ categories:
     <a href="https://doi.org/YOUR_DOI_HERE" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm align-self-start">
     <i class="fa fa-external-link mr-1"></i> Read Article (IEEE Xplore)
     </a>
-</div>
+    </div>  
+
+    <div class="card p-3 mb-3 bg-light border-0 shadow-sm">
+  <h5 class="mb-1 font-weight-bold">Performance Evaluation of ECC Based Cryptographic Accumulator on Resource-Constrained Platform</h5>
+      <p class="text-muted mb-2"><em>Armağan Toros, İsmet Kaan Çekiş, Kübra Korkmaz, İlker Özçelik</em></p>
+      <p class="mb-2" style="font-size: 0.92rem;">
+    2024 Innovations in Intelligent Systems and Applications Conference (ASYU), IEEE, 2024, pp. 1-6.
+      </p>
+      <a href="https://doi.org/10.1109/ASYU62119.2024.10757120" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm align-self-start">
+    <i class="fa fa-external-link mr-1"></i> Read Article (DOI: 10.1109/ASYU62119.2024.10757120)
+      </a>
+    </div>
+  
+  <div class="card p-3 mb-3 bg-light border-0 shadow-sm">
+    <h5 class="mb-1 font-weight-bold">Performance Comparison of ECC Libraries for IoT Devices</h5>
+    <p class="text-muted mb-2"><em>İsmet Kaan Çekiş, Armağan Toros, Nimet Apaydın, İlker Özçelik</em></p>
+    <p class="mb-2" style="font-size: 0.92rem;">
+      Eskişehir Technical University Journal of Science and Technology A - Applied Sciences and Engineering, 2024, 25(2), pp. 278-288.
+    </p>
+    <a href="https://doi.org/10.18038/estubtda.1427488" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm align-self-start">
+      <i class="fa fa-external-link mr-1"></i> Read Article (DOI: 10.18038/estubtda.1427488)
+    </a>
+  </div>
 
   <hr class="my-4">
 

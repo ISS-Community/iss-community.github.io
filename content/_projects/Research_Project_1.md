@@ -6,7 +6,7 @@ order: 1
 active: true
 card_image: null
 card_title: Edge Authentication
-external_url: "https://issedgeauthentication.wordpress.com/"
+external_url: 
 categories:
     - Blockchain
     - Edge Security

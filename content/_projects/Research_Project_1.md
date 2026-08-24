@@ -2,7 +2,7 @@
 title: Scalable Edge Authentication Framework
 subtitle: TÜBİTAK 3501 — Blockchain & Cryptographic Accumulator-Backed Distributed Authentication
 description: A TÜBİTAK 3501-supported project developing a decentralized, ultra-low latency edge authentication framework utilizing cryptographic accumulators and Hyperledger Sawtooth blockchain coordination.
-order: 1
+order: 4
 active: true
 card_image: null
 card_title: Edge Authentication

@@ -2,7 +2,7 @@
 title: Adversarial Attack Detection & Mitigation
 subtitle: Real-Time Mitigation of Adversarial Attacks for Secure AI Systems in Digital Twins
 description: A defense-industry supported project focuses on developing a high-generalizability, real-time framework to detect, explain, and neutralize adversarial attacks targeting deep learning models within a Digital Twin ecosystem.
-order: 3
+order: 1
 active: true
 card_image: null
 card_title: "Adversarial Mitigation"

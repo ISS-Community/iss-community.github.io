@@ -101,11 +101,3 @@ categories:
     </p>
   </div>
 </div>
-
-
-
-
-
-  
-
-</div>

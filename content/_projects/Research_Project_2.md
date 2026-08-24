@@ -1,7 +1,7 @@
 ---
-title: ISS — DorukNet Data Center Security (Flowzen & Iris)
-subtitle: Cloud-Native High-Throughput Network Monitoring & Adaptive Telemetry Pipelines
-description: An industry-collaboration project with DorukNet developing Flowzen for real-time traffic monitoring and Iris for adaptive telemetry collection to protect data center infrastructures.
+title: ISS — DorukNet Data Center Security
+subtitle: Cloud-Native High-Throughput Network Monitoring & Anomaly Detection Framework
+description: An industry-collaboration project with DorukNet developing Flowzen for real-time traffic monitoring and anomaly detection framework for adaptive to protect data center infrastructures.
 order: 2
 active: true
 card_image: null
@@ -42,27 +42,25 @@ categories:
     <li><strong>Elastic Autoscaling:</strong> Integrates Horizontal Pod Autoscaling (HPA) to dynamically scale consumer instances under heavy load.</li>
   </ul>
 
-
-
   <hr class="my-4">
 
   <h3>Machine Learning & Graph Intelligence Integration</h3>
   <p>
-    To equip Flowzen with proactive anomaly detection capabilities, extensive empirical research was conducted on model efficiency and graph learning in high-throughput environments:
+    To empower Flowzen with advanced anomaly detection, extensive research has been conducted on model efficiency and graph learning in high-throughput environments:
   </p>
   <ul>
-    <li><strong>High-Throughput & Low-Latency Inference:</strong> Deep learning models (MLP, 1D-CNN, GRU, LSTM) were optimized using Open Neural Network Exchange (ONNX) conversion and 8-bit integer post-training quantization (PTQ). Benchmarked on datasets such as CIC-DDoS2019, these models achieved sub-microsecond per-sample inference times for IP spoofing and DrDoS/DNS amplification detection with over 99% accuracy.</li>
-    <li><strong>Graph Neural Networks (GNNs) for Relational Threat Detection:</strong> By modeling DNS query interactions (TI-16 dataset) as client-domain heterogeneous graphs, models such as HeteroSAGE and HeteroGAE successfully detected centrally managed botnet nodes with up to 95% accuracy and exceptionally high recall.</li>
+    <li><strong>High-Throughput & Low-Latency Inference:</strong> Deep learning architectures (MLP, 1D-CNN, GRU, LSTM) were optimized using Open Neural Network Exchange (ONNX) conversion and 8-bit integer quantization (PTQ). Evaluated on benchmark datasets (e.g., CIC-DDoS2019), these models achieved sub-microsecond inference times per sample for IP spoofing and DrDoS/DNS amplification detection with over 99% accuracy.</li>
+    <li><strong>Graph Neural Networks (GNNs) for Relational Threat Detection:</strong> By transforming DNS query data (TI-16 dataset) into client-domain heterogeneous graph structures, models such as HeteroSAGE and HeteroGAE successfully detected centrally managed botnet nodes with up to 95% accuracy and high recall.</li>
   </ul>
   <p>
-    Ongoing engineering efforts focus on embedding these optimized ONNX engines and GNN models directly into Flowzen's runtime pipeline.
+    Ongoing engineering efforts focus on integrating these optimized ONNX models and GNN inference engines directly into Flowzen's runtime pipeline.
   </p>
 
   <hr class="my-4">
 
   <h3>Platform Vision & Extensibility</h3>
   <p>
-    Flowzen is designed as an open application platform. The core framework exposes structured interfaces that enable security operations teams and third-party developers to build modular applications for:
+    Beyond serving as a monitoring tool, Flowzen is designed as an open application platform. The core framework exposes structured interfaces allowing developers and security operations teams to build custom applications for:
   </p>
   <ul>
     <li><strong>Traffic & Protocol Analysis:</strong> Flow aggregation and real-time behavioral metrics.</li>

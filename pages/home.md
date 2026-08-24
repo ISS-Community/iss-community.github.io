@@ -20,7 +20,7 @@ Through a dual focus on **AI for network defense** and the **security of AI itse
 ## Key Projects
 
 - **Scalable Edge Authentication Framework** — TÜBİTAK 3501 supported, blockchain-backed authentication for distributed edge and IoT environments.
-- **Flowzen Platform** — A modular, high-throughput network monitoring platform featuring event-driven autoscaling via KEDA and Kubernetes HPA, developed in collaboration with DorukNet.
+- **Flowzen Framework** — A modular, high-throughput network monitoring framework featuring event-driven autoscaling via KEDA and Kubernetes HPA, developed in collaboration with DorukNet.
 - **Adversarial Attack Mitigation** — As part of a larger Digital Twin initiative, this project develops an Explainable AI (XAI)-driven defense pipeline that continuously monitors operational AI models, identifies adversarial inputs through interpretability analysis, and sanitizes them in real time to ensure robust, secure input delivery to the Digital Twin system.
 - **BEATS Architecture** — Lightweight, accumulator-based cryptographic audit trailing for enterprise distributed systems.
 

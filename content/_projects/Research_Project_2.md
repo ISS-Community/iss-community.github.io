@@ -42,6 +42,40 @@ categories:
     <li><strong>Elastic Autoscaling:</strong> Integrates Horizontal Pod Autoscaling (HPA) to dynamically scale consumer instances under heavy load.</li>
   </ul>
 
+
+
+  <hr class="my-4">
+
+  <h3>Machine Learning \& Graph Intelligence Integration</h3>
+  <p>
+    To equip Flowzen with proactive anomaly detection capabilities, extensive empirical research was conducted on model efficiency and graph learning in high-throughput environments:
+  </p>
+  <ul>
+    <li><strong>High-Throughput & Low-Latency Inference:</strong> Deep learning models (MLP, 1D-CNN, GRU, LSTM) were optimized using Open Neural Network Exchange (ONNX) conversion and 8-bit integer post-training quantization (PTQ). Benchmarked on datasets such as CIC-DDoS2019, these models achieved sub-microsecond per-sample inference times for IP spoofing and DrDoS/DNS amplification detection with over 99% accuracy.</li>
+    <li><strong>Graph Neural Networks (GNNs) for Relational Threat Detection:</strong> By modeling DNS query interactions (TI-16 dataset) as client-domain heterogeneous graphs, models such as HeteroSAGE and HeteroGAE successfully detected centrally managed botnet nodes with up to 95% accuracy and exceptionally high recall.</li>
+  </ul>
+  <p>
+    Ongoing engineering efforts focus on embedding these optimized ONNX engines and GNN models directly into Flowzen's runtime pipeline.
+  </p>
+
+
+    <hr class="my-4">
+
+  <h3>Platform Vision & Extensibility</h3>
+  <p>
+    Flowzen employs a cloud-native, microservices-based streaming pipeline built on Kubernetes to ensure elasticity and multi-protocol flexibility:
+  </p>
+  <ul>
+    <li><strong>Data Ingestion (Producer Layer):</strong> Utilizes multi-threaded concurrency to capture raw sFlow datagrams with minimal overhead and publish them to Apache Kafka.</li>
+    <li><strong>Decoupled Streaming Pipeline:</strong> Leverages Apache Kafka as a high-throughput broker to buffer streaming data and prevent consumer bottlenecks.</li>
+    <li><strong>Analytics & Storage (Consumer Layer):</strong> Batches processed flow metrics into ClickHouse; a column-oriented database optimized for real-time analytical queries; and tracks system performance via Prometheus and Grafana.</li>
+    <li><strong>Elastic Autoscaling:</strong> Integrates Horizontal Pod Autoscaling (HPA) to dynamically scale consumer instances under heavy load.</li>
+  </ul>
+
+
+
+
+
   <hr class="my-4">
 
   <h3>Related Publications & Academic Presentations</h3>

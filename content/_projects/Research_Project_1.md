@@ -17,8 +17,8 @@ categories:
 <div class="project-details">
 
   <div class="alert alert-info border-primary mb-4 p-3" style="border-left: 4px solid #2563eb; background: #f0f7ff;">
-    <strong>Funding Program:</strong> TÜBİTAK (The Scientific and Technological Research Council of Turkey) — 3501 Career Development Program<br>
-    <strong>Host Institution:</strong> Intelligence Systems and Security Lab (ISSLab), Department of Software Engineering, Eskişehir Osmangazi University<br>
+    <strong>Research Focus:</strong> Developing a decentralized, privacy-preserving, and low-latency authentication framework for resource-constrained IoT and edge computing environments.<br>
+    <strong>Funding / Collaboration:</strong> TÜBİTAK (The Scientific and Technological Research Council of Turkey) — 3501 Career Development Program<br>
   </div>
 
   <h3>Research Motivation</h3>

@@ -36,9 +36,9 @@ categories:
     Flowzen employs a cloud-native, microservices-based streaming pipeline built on Kubernetes to ensure elasticity and multi-protocol flexibility:
   </p>
   <ul>
-    <li><strong>Data Ingestion (Producer Layer):</strong> Utilizes multi-threaded concurrency to capture raw sFlow datagrams with minimal overhead and publish them to Apache Kafka.</li>
+    <li><strong>Data Ingestion (Producer Layer):</strong> Utilizes multi-threaded concurrency to capture raw data with minimal overhead and publish them to Apache Kafka.</li>
     <li><strong>Decoupled Streaming Pipeline:</strong> Leverages Apache Kafka as a high-throughput broker to buffer streaming data and prevent consumer bottlenecks.</li>
-    <li><strong>Analytics & Storage (Consumer Layer):</strong> Batches processed flow metrics into ClickHouse; a column-oriented database optimized for real-time analytical queries; and tracks system performance via Prometheus and Grafana.</li>
+    <li><strong>Analytics & Storage (Consumer Layer):</strong> Batches processed flow metrics into ClickHouse; a column-oriented database optimized for real-time analytical queries; and visualizes system health via Prometheus and Grafana.</li>
     <li><strong>Elastic Autoscaling:</strong> Integrates Horizontal Pod Autoscaling (HPA) to dynamically scale consumer instances under heavy load.</li>
   </ul>
 
@@ -46,7 +46,7 @@ categories:
 
   <hr class="my-4">
 
-  <h3>Machine Learning \& Graph Intelligence Integration</h3>
+  <h3>Machine Learning & Graph Intelligence Integration</h3>
   <p>
     To equip Flowzen with proactive anomaly detection capabilities, extensive empirical research was conducted on model efficiency and graph learning in high-throughput environments:
   </p>
@@ -58,23 +58,17 @@ categories:
     Ongoing engineering efforts focus on embedding these optimized ONNX engines and GNN models directly into Flowzen's runtime pipeline.
   </p>
 
-
-    <hr class="my-4">
+  <hr class="my-4">
 
   <h3>Platform Vision & Extensibility</h3>
   <p>
-    Flowzen employs a cloud-native, microservices-based streaming pipeline built on Kubernetes to ensure elasticity and multi-protocol flexibility:
+    Flowzen is designed as an open application platform. The core framework exposes structured interfaces that enable security operations teams and third-party developers to build modular applications for:
   </p>
   <ul>
-    <li><strong>Data Ingestion (Producer Layer):</strong> Utilizes multi-threaded concurrency to capture raw sFlow datagrams with minimal overhead and publish them to Apache Kafka.</li>
-    <li><strong>Decoupled Streaming Pipeline:</strong> Leverages Apache Kafka as a high-throughput broker to buffer streaming data and prevent consumer bottlenecks.</li>
-    <li><strong>Analytics & Storage (Consumer Layer):</strong> Batches processed flow metrics into ClickHouse; a column-oriented database optimized for real-time analytical queries; and tracks system performance via Prometheus and Grafana.</li>
-    <li><strong>Elastic Autoscaling:</strong> Integrates Horizontal Pod Autoscaling (HPA) to dynamically scale consumer instances under heavy load.</li>
+    <li><strong>Traffic & Protocol Analysis:</strong> Flow aggregation and real-time behavioral metrics.</li>
+    <li><strong>Inline Threat Detection:</strong> Real-time execution of embedded ONNX models for spoofing, DDoS, and botnet identification.</li>
+    <li><strong>Automated Mitigation & Operational Support:</strong> Automated policy enforcement, incident response routines, and telemetry insights tailored for technical support personnel.</li>
   </ul>
-
-
-
-
 
   <hr class="my-4">
 

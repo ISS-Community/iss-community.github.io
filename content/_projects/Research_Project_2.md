@@ -31,26 +31,15 @@ categories:
 
   <hr class="my-4">
 
-  <h3>Flowzen Platform Architecture & Capabilities</h3>
+  <h3>Flowzen Architecture & Technical Innovations</h3>
   <p>
-    Flowzen addresses the core challenges of scalability and resilience in modern high-bandwidth data center environments:
+    Flowzen employs a cloud-native, microservices-based streaming pipeline built on Kubernetes to ensure elasticity and multi-protocol flexibility:
   </p>
   <ul>
-    <li><strong>Real-Time Stream Analytics:</strong> Captures and processes raw packet streams with zero-copy ring buffers, aggregating flow metrics into actionable cybersecurity features with sub-millisecond latency.</li>
-    <li><strong>Kubernetes Horizontal Pod Autoscaling (HPA):</strong> The platform dynamically monitors CPU utilization, queue depth, and incoming packet rates. When traffic surges occur, Kubernetes automatically spins up worker pods to distribute ingestion loads.</li>
-    <li><strong>Drastic Packet Loss Reduction:</strong> In rigorous benchmark tests simulating large-scale DrDoS and volumetric packet bursts, Flowzen reduced packet loss from <strong>52% down to 2.5%</strong>, ensuring comprehensive visibility even during heavy adversarial congestion.</li>
-    <li><strong>Multi-Environment Deployment:</strong> Designed for seamless operation across on-premises bare-metal, hybrid cloud, and multi-tenant data center environments.</li>
-  </ul>
-
-  <hr class="my-4">
-
-  <h3>Iris Adaptive Telemetry Pipeline</h3>
-  <p>
-    To prevent telemetry storage exhaustion while capturing fine-grained attack data:
-  </p>
-  <ul>
-    <li><strong>Dynamic Sampling Rates:</strong> Iris automatically shifts from coarse baseline sampling during normal operational states to ultra-high-resolution, full-packet capture when security anomalies or threshold triggers occur.</li>
-    <li><strong>Feature Extraction Pipeline:</strong> Feeds downstream machine learning classifiers (including deep learning IP spoofing detectors and quantized ONNX models) with pre-processed, standardized telemetry vectors.</li>
+    <li><strong>Data Ingestion (Producer Layer):</strong> Utilizes multi-threaded concurrency to capture raw sFlow datagrams with minimal overhead and publish them to Apache Kafka.</li>
+    <li><strong>Decoupled Streaming Pipeline:</strong> Leverages Apache Kafka as a high-throughput broker to buffer streaming data and prevent consumer bottlenecks.</li>
+    <li><strong>Analytics & Storage (Consumer Layer):</strong> Batches processed flow metrics into ClickHouse—a column-oriented database optimized for real-time analytical queries—and tracks system performance via Prometheus and Grafana.</li>
+    <li><strong>Elastic Autoscaling:</strong> Integrates Horizontal Pod Autoscaling (HPA) to dynamically scale consumer instances under heavy load.</li>
   </ul>
 
   <hr class="my-4">
@@ -84,37 +73,4 @@ categories:
     </a>
   </div>
 
-  <hr class="my-4">
-
-  <h3>Project Videos & Technical Seminars</h3>
-  <div class="row">
-    <div class="col-md-6 mb-3">
-      <div class="card h-100 p-3 shadow-sm border">
-        <h6 class="font-weight-bold mb-2">Flowzen Traffic Monitoring & HPA Autoscaling Demo</h6>
-        <p class="small text-muted mb-3">Demonstration of high-speed packet ingestion, automated worker pod scaling, and real-time anomaly detection under heavy traffic loads.</p>
-        <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mt-auto">
-          <i class="fa fa-youtube-play mr-1"></i> Watch Video on YouTube
-        </a>
-      </div>
-    </div>
-    <div class="col-md-6 mb-3">
-      <div class="card h-100 p-3 shadow-sm border">
-        <h6 class="font-weight-bold mb-2">SDN & Data Center Security Seminars</h6>
-        <p class="small text-muted mb-3">Research presentations on software-defined networking, large-scale data center defense, and high-throughput telemetry pipelines.</p>
-        <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mt-auto">
-          <i class="fa fa-youtube-play mr-1"></i> Watch Video on YouTube
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <hr class="my-4">
-
-  <h3>Resources & External Links</h3>
-  <ul>
-    <li><strong>Project Website:</strong> <a href="https://issdatacentersecurity.wordpress.com/" target="_blank" rel="noopener noreferrer">issdatacentersecurity.wordpress.com</a></li>
-    <li><strong>Industry Partner:</strong> <a href="https://www.doruk.net.tr/" target="_blank" rel="noopener noreferrer">DorukNet (doruk.net.tr)</a></li>
-    <li><strong>ISSLab Blog:</strong> <a href="https://esoguisslab.wordpress.com/" target="_blank" rel="noopener noreferrer">esoguisslab.wordpress.com</a></li>
-  </ul>
-
-</div>
+ </div>

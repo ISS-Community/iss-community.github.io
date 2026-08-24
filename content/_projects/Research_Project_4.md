@@ -5,7 +5,7 @@ description: A defense-industry supported project designing high-fidelity digita
 order: 3
 active: true
 card_image: null
-card_title: Adversarial Attack Mitigation
+card_title: "Adversarial Attack<br>Mitigation"
 external_url: 
 categories:
     - AI Security

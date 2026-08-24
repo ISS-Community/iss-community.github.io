@@ -18,8 +18,8 @@ categories:
 <div class="project-details">
 
   <div class="alert alert-info border-primary mb-4 p-3" style="border-left: 4px solid #2563eb; background: #f0f7ff;">
-    <strong>Industry Collaboration:</strong> Intelligence Systems and Security Lab (ISSLab) & DorukNet<br>
-    <strong>Project Motto:</strong> <em>"Stay Safe in Cyber World, Protect Your Data!"</em><br>
+    <strong>Research Focus:</strong> Developing a resilient, low-latency network telemetry architecture designed for high-bandwidth data centers and cloud infrastructures.<br>
+    <strong>Funding / Collaboration:</strong> Doruk İletişim ve Otomasyon Sanayi ve Ticaret A.Ş.<br>
   </div>
 
   <h3>Research Motivation</h3>

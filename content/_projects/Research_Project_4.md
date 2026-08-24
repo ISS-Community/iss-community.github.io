@@ -1,6 +1,6 @@
 ---
 title: Adversarial Attack Detection & Mitigation
-subtitle: Simulation-assisted intelligent defense & AI security for mission-critical infrastructure
+subtitle: Real-Time Mitigation of Adversarial Attacks for Secure AI Systems in Digital Twins
 description: A defense-industry supported project designing high-fidelity digital twin simulation environments, Graph Neural Network (GNN) anomaly detectors, and quantized ONNX models to protect critical cyber-physical systems.
 order: 3
 active: true
@@ -20,6 +20,14 @@ categories:
     <strong>Host Institution:</strong> Intelligence Systems and Security Lab (ISSLab), Eskişehir Osmangazi University<br>
     <strong>Research Portal:</strong> <a href="https://esoguiss.wordpress.com/intelligent-systems/" target="_blank" rel="noopener noreferrer">esoguiss.wordpress.com/intelligent-systems/</a>
   </div>
+
+<p>
+This project constitutes a core security initiative within a broader Digital Twin ecosystem framework. As Artificial Intelligence (AI) and Deep Learning (DL) models become increasingly vital across critical infrastructures, defense systems, autonomous operations, and industrial networks, their exposure to adversarial threats poses severe risks. Adversarial attacks manipulate input features via imperceptible perturbations to deceive AI models, leading to misclassification, performance degradation, and compromised decision-making.
+</p>
+
+<p>
+To guarantee the reliability, integrity, and resilience of AI components embedded within the Digital Twin environment, this research focuses on developing a robust, high-generalizability, and real-time framework to detect, explain, and mitigate adversarial attacks targeting deep learning systems.
+</p>
 
   <h3>Executive Summary & Research Motivation</h3>
   <p>

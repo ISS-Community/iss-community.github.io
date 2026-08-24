@@ -9,7 +9,6 @@ card_title: Data Center Security
 external_url: "https://issdatacentersecurity.wordpress.com/"
 categories:
     - Flowzen
-    - Iris
     - Data Center Security
     - Network Monitoring
     - Kubernetes
@@ -20,20 +19,15 @@ categories:
   <div class="alert alert-info border-primary mb-4 p-3" style="border-left: 4px solid #2563eb; background: #f0f7ff;">
     <strong>Industry Collaboration:</strong> Intelligence Systems and Security Lab (ISSLab) & DorukNet<br>
     <strong>Project Motto:</strong> <em>"Stay Safe in Cyber World, Protect Your Data!"</em><br>
-    <strong>Project Website:</strong> <a href="https://issdatacentersecurity.wordpress.com/" target="_blank" rel="noopener noreferrer">issdatacentersecurity.wordpress.com</a>
   </div>
 
-  <h3>Executive Summary & Collaboration Background</h3>
+  <h3>Research Motivation</h3>
   <p>
-    Modern cloud and data center networks face surging bandwidth demands and increasingly sophisticated cyber attacks, including volumetric DrDoS floods, stealthy port scans, and multi-vector spoofing incidents. Conventional network monitoring solutions create significant processing bottlenecks, causing packet loss and blind spots during critical incident response windows.
+    In high-bandwidth data centers and modern cloud infrastructures, traditional packet-based inspection methods struggle with prohibitive latency and resource overhead. While flow-based approaches like sFlow, NetFlow, and IPFIX provide scalable alternatives, existing open-source monitoring solutions often suffer from severe packet loss and throughput bottlenecks under heavy traffic bursts.
   </p>
   <p>
-    In collaboration with <strong>DorukNet</strong>, the ISS Lab developed a unified defense and telemetry ecosystem comprising two complementary, cloud-native technologies:
+    The <strong>Flowzen</strong> project was initiated to address these challenges by delivering a resilient, low-latency network telemetry architecture engineered for real-time traffic ingestion, analysis, and automated threat mitigation.
   </p>
-  <ul>
-    <li><strong>Flowzen:</strong> A modular, high-throughput network monitoring and flow analysis platform designed for wire-speed packet inspection.</li>
-    <li><strong>Iris:</strong> An adaptive telemetry collection engine dynamically adjusting sampling rates and data granularity based on network threat conditions.</li>
-  </ul>
 
   <hr class="my-4">
 

@@ -12,6 +12,7 @@ categories:
     - Data Center Security
     - Network Monitoring
     - Kubernetes
+    - Quantized Models
 ---
 
 <div class="project-details">

@@ -1,7 +1,7 @@
 ---
 title: Adversarial Attack Detection & Mitigation
 subtitle: Real-Time Mitigation of Adversarial Attacks for Secure AI Systems in Digital Twins
-description: A defense-industry supported project designing high-fidelity digital twin simulation environments, Graph Neural Network (GNN) anomaly detectors, and quantized ONNX models to protect critical cyber-physical systems.
+description: A defense-industry supported project focuses on developing a high-generalizability, real-time framework to detect, explain, and neutralize adversarial attacks targeting deep learning models within a Digital Twin ecosystem.
 order: 3
 active: true
 card_image: null
@@ -16,8 +16,8 @@ categories:
 <div class="project-details">
 
   <div class="alert alert-info border-primary mb-4 p-3" style="border-left: 4px solid #2563eb; background: #f0f7ff;">
-    <strong>Research Focus:</strong> Intelligent Systems Security & Cyber-Physical Infrastructure Protection<br>
-    <strong>Host Institution:</strong> Intelligence Systems and Security Lab (ISSLab), Eskişehir Osmangazi University<br>
+    <strong>Research Focus:</strong> AI Security<br>
+    <strong>Funding Program:</strong> This defense-industry supported project is led by industry partner BTS Group in collaboration with the Intelligence Systems and Security Lab (ISSLab) at Eskişehir Osmangazi University, Recep Tayyip Erdogan University, and Milli Savunma University.<br>
   </div>
 
 <p>
@@ -72,25 +72,11 @@ To guarantee the reliability, integrity, and resilience of AI components embedde
   <h3>Related Publications</h3>
 
   <div class="card p-3 mb-3 bg-light border-0 shadow-sm">
-    <h5 class="mb-1 font-weight-bold">High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models</h5>
-    <p class="text-muted mb-2"><em>Salih Eren, Alperen Gültekin, Ömer Özkan, İlker Özçelik</em></p>
+    <h5 class="mb-1 font-weight-bold">Vulnerability of Heterogeneous Graph Learning Models to White-Box Feature Attacks</h5>
+    <p class="text-muted mb-2"><em>Gizem Karyagdi, İlker Özçelik, Elis S. Yılmaz</em></p>
     <p class="mb-2" style="font-size: 0.92rem;">
-      Symmetry, 2026, 18(7), 1187.
+      Accepted for publication in <em>2026 Innovations in Intelligent Systems and Applications (ASYU)</em>, IEEE, 2026.
     </p>
-    <a href="https://doi.org/10.3390/sym18071187" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm align-self-start">
-      <i class="fa fa-external-link mr-1"></i> Read Article (DOI: 10.3390/sym18071187)
-    </a>
-  </div>
-
-  <div class="card p-3 mb-3 bg-light border-0 shadow-sm">
-    <h5 class="mb-1 font-weight-bold">Botnet Node Detection Using Graph Learning</h5>
-    <p class="text-muted mb-2"><em>Gizem Karyağdı, İlker Özçelik</em></p>
-    <p class="mb-2" style="font-size: 0.92rem;">
-      Applied Sciences, 2025, 16(1), 24.
-    </p>
-    <a href="https://doi.org/10.3390/app16010024" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm align-self-start">
-      <i class="fa fa-external-link mr-1"></i> Read Article (DOI: 10.3390/app16010024)
-    </a>
   </div>
 
   <hr class="my-4">
@@ -116,14 +102,5 @@ To guarantee the reliability, integrity, and resilience of AI components embedde
       </div>
     </div>
   </div>
-
-  <hr class="my-4">
-
-  <h3>Resources & External Links</h3>
-  <ul>
-    <li><strong>Intelligent Systems Research:</strong> <a href="https://esoguiss.wordpress.com/intelligent-systems/" target="_blank" rel="noopener noreferrer">esoguiss.wordpress.com/intelligent-systems/</a></li>
-    <li><strong>Next-Generation Networking:</strong> <a href="https://esoguiss.wordpress.com/networking/" target="_blank" rel="noopener noreferrer">esoguiss.wordpress.com/networking/</a></li>
-    <li><strong>YouTube Video Archive:</strong> <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer">@isslab_tr</a></li>
-  </ul>
 
 </div>

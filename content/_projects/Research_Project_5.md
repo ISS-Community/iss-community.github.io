@@ -2,7 +2,7 @@
 title: Blockchain-Based Efficient Audit Trail Framework
 subtitle: Cryptographic Accumulator and Hyperledger Sawtooth-Backed Verifiable Audit Architecture
 description: A decentralized, scalable audit trail framework integrating IPFS, Sawtooth distributed ledger, and dynamic RSA cryptographic accumulators to achieve constant-time O(1) audit verification.
-order: 4
+order: 6
 active: true
 card_image: null
 card_title: BC Audit Trails

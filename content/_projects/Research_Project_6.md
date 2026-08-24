@@ -1,6 +1,6 @@
 ---
 title: Agent Identity Manager (AIM)
-subtitle: Symmetric Cryptographic Accumulators for AI Agent Authentication
+subtitle: AI Agent Authentication Framework
 description: A research project developing a decentralized, low-latency identity authentication framework for autonomous AI agents using multiple cuckoo filter-based cryptographic accumulators and the AIM Protocol.
 order: 3
 active: true

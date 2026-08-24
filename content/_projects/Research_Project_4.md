@@ -5,7 +5,7 @@ description: A defense-industry supported project focuses on developing a high-g
 order: 3
 active: true
 card_image: null
-card_title: "AI Security"
+card_title: "Adversarial Mitigation"
 external_url: 
 categories:
     - AI Security

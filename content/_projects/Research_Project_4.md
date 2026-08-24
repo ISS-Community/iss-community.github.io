@@ -92,15 +92,5 @@ To guarantee the reliability, integrity, and resilience of AI components embedde
         </a>
       </div>
     </div>
-    <div class="col-md-6 mb-3">
-      <div class="card h-100 p-3 shadow-sm border">
-        <h6 class="font-weight-bold mb-2">LLM Security in Enterprise Networks</h6>
-        <p class="small text-muted mb-3">Technical presentation analyzing security implications, privacy leak vectors, and defensive hardening for LLM deployments.</p>
-        <a href="https://www.youtube.com/watch?v=gYtPo_axz_E" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mt-auto">
-          <i class="fa fa-youtube-play mr-1"></i> Watch Video on YouTube
-        </a>
-      </div>
-    </div>
-  </div>
 
 </div>

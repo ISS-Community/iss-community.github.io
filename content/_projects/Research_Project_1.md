@@ -67,7 +67,7 @@ categories:
   <p class="mb-2" style="font-size: 0.92rem;">
     2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT), IEEE, 2025, pp. 1-5.
   </p>
-  <a href="https://doi.org/YOUR_DOI_HERE" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm align-self-start">
+  <a href="https://doi.org/10.1109/ISMSIT67332.2025.11268188" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm align-self-start">
     <i class="fa fa-external-link mr-1"></i> Read Article (DOI)
   </a>
 </div>
@@ -78,7 +78,7 @@ categories:
     <p class="mb-2" style="font-size: 0.92rem;">
     2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT), IEEE, 2025, pp. 1-5.
     </p>
-    <a href="https://doi.org/YOUR_DOI_HERE" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm align-self-start">
+    <a href="https://doi.org/10.1109/ISMSIT67332.2025.11268018" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm align-self-start">
     <i class="fa fa-external-link mr-1"></i> Read Article (IEEE Xplore)
     </a>
     </div>  

@@ -1,5 +1,5 @@
 ---
-title: ISS — DorukNet Data Center Security
+title: "ISS — DorukNet<br>Data Center Security"
 subtitle: Cloud-Native High-Throughput Network Monitoring & Anomaly Detection Framework
 description: An industry-collaboration project with DorukNet developing Flowzen for real-time traffic monitoring and anomaly detection framework for adaptive to protect data center infrastructures.
 order: 2

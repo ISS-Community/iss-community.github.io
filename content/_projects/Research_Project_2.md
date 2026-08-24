@@ -6,7 +6,7 @@ order: 2
 active: true
 card_image: null
 card_title: Data Center Security
-external_url: "https://issdatacentersecurity.wordpress.com/"
+external_url: 
 categories:
     - Flowzen
     - Data Center Security
@@ -71,6 +71,31 @@ categories:
   <hr class="my-4">
 
   <h3>Related Publications & Academic Presentations</h3>
+<div class="card p-3 mb-3 bg-light border-0 shadow-sm">
+  <h5 class="mb-1 font-weight-bold">High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models</h5>
+  <p class="text-muted mb-2"><em>Salih Eren, Alperen Gültekin, Ömer Özkan, İlker Özçelik</em></p>
+  <p class="mb-2" style="font-size: 0.92rem;">
+    Published in <em>Symmetry</em>, Vol. 18, No. 7 (2026), Art. No. 1187.
+  </p>
+  <div class="d-flex flex-wrap gap-2">
+    <a href="https://doi.org/10.3390/sym18071187" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm mr-2">
+      <i class="fa fa-file-text-o mr-1"></i> MDPI Paper
+    </a>
+  </div>
+</div>
+
+<div class="card p-3 mb-3 bg-light border-0 shadow-sm">
+  <h5 class="mb-1 font-weight-bold">Botnet Node Detection Using Graph Learning</h5>
+  <p class="text-muted mb-2"><em>Gizem Karyağdı, İlker Özçelik</em></p>
+  <p class="mb-2" style="font-size: 0.92rem;">
+    Published in <em>Applied Sciences</em>, Vol. 16, No. 1 (2025), Art. No. 24.
+  </p>
+  <div class="d-flex flex-wrap gap-2">
+    <a href="https://doi.org/10.3390/app16010024" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm mr-2">
+      <i class="fa fa-file-text-o mr-1"></i> MDPI Paper
+    </a>
+  </div>
+</div>
   
   <div class="card p-3 mb-3 bg-light border-0 shadow-sm">
     <h5 class="mb-1 font-weight-bold">Flowzen: Modular and Scalable Network Monitoring Platform</h5>

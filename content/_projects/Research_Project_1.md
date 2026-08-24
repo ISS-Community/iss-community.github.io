@@ -72,6 +72,17 @@ categories:
     </a>
   </div>
 
+  <div class="card p-3 mb-3 bg-light border-0 shadow-sm">
+    <h5 class="mb-1 font-weight-bold">Edge Authentication Using a Cryptographic Accumulator</h5>
+    <p class="text-muted mb-2"><em>İsmet Kaan Çekiş, Armağan Toros, Volkan Yiğit, İlker Özçelik</em></p>
+    <p class="mb-2" style="font-size: 0.92rem;">
+    2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT), IEEE, 2025, pp. 1-5.
+    </p>
+    <a href="https://doi.org/YOUR_DOI_HERE" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm align-self-start">
+    <i class="fa fa-external-link mr-1"></i> Read Article (IEEE Xplore)
+    </a>
+</div>
+
   <hr class="my-4">
 
   <h3>Project Video Archive & Tutorials</h3>

@@ -19,10 +19,9 @@ categories:
   <div class="alert alert-info border-primary mb-4 p-3" style="border-left: 4px solid #2563eb; background: #f0f7ff;">
     <strong>Funding Program:</strong> TÜBİTAK (The Scientific and Technological Research Council of Turkey) — 3501 Career Development Program<br>
     <strong>Host Institution:</strong> Intelligence Systems and Security Lab (ISSLab), Department of Software Engineering, Eskişehir Osmangazi University<br>
-    <strong>Project Website:</strong> <a href="https://issedgeauthentication.wordpress.com/" target="_blank" rel="noopener noreferrer">issedgeauthentication.wordpress.com</a>
   </div>
 
-  <h3>Executive Summary & Research Motivation</h3>
+  <h3>Research Motivation</h3>
   <p>
     As the Internet of Things (IoT) expands exponentially and software applications transition to distributed microservices architectures, authentication requirements increase dramatically. Traditional centralized authentication systems (such as legacy Public Key Infrastructures, RADIUS, or central OAuth servers) suffer from severe limitations:
   </p>
@@ -39,10 +38,10 @@ categories:
 
   <h3>System Architecture & Technical Innovations</h3>
   <p>
-    The framework establishes a decentralized, trustless verification topology designed specifically for resource-constrained edge computing:
+    The framework establishes a distributed verification topology designed specifically for resource-constrained edge computing:
   </p>
   <ul>
-    <li><strong>Cryptographic Accumulators:</strong> Utilizes dynamic RSA and Elliptic Curve Cryptography (ECC) accumulators to represent large sets of valid device identities as a single, compact mathematical element. Devices present constant-size \(O(1)\) membership witnesses that can be verified in microseconds.</li>
+    <li><strong>Cryptographic Accumulators:</strong> Utilizes dynamic RSA and Elliptic Curve Cryptography (ECC) accumulators to represent large sets of valid device identities as a single, compact mathematical element. Devices present constant-size (O(1)) membership witnesses that can be verified in microseconds.</li>
     <li><strong>Blockchain-Coordinated Trust:</strong> Hyperledger Sawtooth distributed ledger serves as the immutable coordination layer for accumulator state updates, credential revocations, and cross-domain edge policy synchronization.</li>
     <li><strong>Zero-Knowledge Authentication:</strong> Devices verify membership in authorized access groups without exposing device serial numbers or sensitive identity metadata.</li>
     <li><strong>Lightweight Revocation:</strong> Accumulator state transitions allow near-instantaneous credential revocation across all edge clusters without rebuilding the credential database.</li>
@@ -57,7 +56,6 @@ categories:
   <ul>
     <li><strong>Hardware Testbeds:</strong> STM32F4 series microcontrollers and STM STEVAL-IDB008V2 Bluetooth Low Energy (BLE) evaluation boards.</li>
     <li><strong>Library Benchmarks:</strong> Comparative evaluation of lightweight ECC libraries (micro-ecc, mbedTLS, TinyCrypt) for resource-constrained embedded systems.</li>
-    <li><strong>Mutual Authentication Protocols:</strong> Development of ultra-lightweight mutual authentication handshakes optimized for battery-powered edge sensor nodes.</li>
   </ul>
 
   <hr class="my-4">
@@ -108,14 +106,5 @@ categories:
       </div>
     </div>
   </div>
-
-  <hr class="my-4">
-
-  <h3>Resources & External Links</h3>
-  <ul>
-    <li><strong>Project Portal:</strong> <a href="https://issedgeauthentication.wordpress.com/" target="_blank" rel="noopener noreferrer">issedgeauthentication.wordpress.com</a></li>
-    <li><strong>Research Group Hub:</strong> <a href="https://esoguiss.wordpress.com/" target="_blank" rel="noopener noreferrer">esoguiss.wordpress.com</a></li>
-    <li><strong>YouTube Video Channel:</strong> <a href="https://www.youtube.com/@isslab_tr/videos" target="_blank" rel="noopener noreferrer">@isslab_tr</a></li>
-  </ul>
 
 </div>

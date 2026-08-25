@@ -321,6 +321,19 @@ permalink: /community/
     </div>
   </div>
 
+  <div class="project-output-grid">
+      <div class="output-card">
+        <div class="output-badge"><i class="fa fa-balance-scale"></i> Privacy & LegalTech</div>
+        <div class="output-title">H.E.Y.U.L.A.</div>
+        <div class="output-desc">
+          Automated Chrome extension for end-to-end EULA and Terms of Service analysis. Features a 5-stage document discovery pipeline and Gemini 2.5 Flash risk assessment to generate actionable 0–100 trust scores.
+        </div>
+        <div class="output-meta">
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Browser Security & NLP</span>
+          <span><i class="fa fa-code text-muted mr-1"></i> JavaScript / Manifest V3 / Gemini</span>
+        </div>
+      </div>
+    </div>
 
     <div class="project-output-grid">
       <div class="output-card">

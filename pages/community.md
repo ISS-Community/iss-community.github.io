@@ -309,7 +309,7 @@ permalink: /community/
       </div>
     </div>
 
-  <div class="output-card">
+  <div class="project-output-grid">
     <div class="output-badge"><i class="fa fa-shield"></i> Zero-Knowledge</div>
     <div class="output-title">ISS Vault (Desktop)</div>
     <div class="output-desc">

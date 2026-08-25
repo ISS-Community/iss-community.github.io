@@ -13,9 +13,9 @@
     - Özçelik İ
   title: "High-Throughput and Low-Latency DrDoS Detection Using Quantized ONNX Models"
   journal: "Symmetry"
-  citation: "2026, 18(7), 1187"
+  citation: "18(7), 1187"
   year: 2026
-  url: "https://doi.org/10.3390/sym18071187"
+  url: "https://www.mdpi.com/2073-8994/18/7/1187"
   abstract: "This study presents a high-throughput, ultra-low-latency Distributed Reflection Denial of Service (DrDoS) detection architecture using quantized ONNX neural network models. By systematically comparing optimization and integer quantization configurations, the framework delivers high-precision detection against DNS Amplification and volumetric reflection attacks with microsecond inference times on resource-constrained platforms."
 
 - id: Karyagdi_2025
@@ -27,9 +27,9 @@
     - Özçelik İ
   title: "Botnet Node Detection Using Graph Learning"
   journal: "Applied Sciences"
-  citation: "2025, 16(1), 24"
+  citation: "16(1), 24"
   year: 2025
-  url: "https://doi.org/10.3390/app16010024"
+  url: "https://www.mdpi.com/2076-3417/16/1/24"
   abstract: "This study presents a graph neural network-based method for detecting botnet nodes in complex communication topologies. By modeling host interactions as graph structures, the framework identifies malicious command-and-control communication with high precision even in obfuscated network flows."
 
 - id: Ozcelik_2025_ISMSIT_Accumulator
@@ -40,9 +40,9 @@
     - Özçelik İ
   title: "A Code-Based Universal Cryptographic Accumulator"
   journal: "2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)"
-  citation: "2025, 1-5"
+  citation: "1-5"
   year: 2025
-  url: "https://doi.org/10.1109/ISMSIT65809.2025.11268188"
+  url: "https://ieeexplore.ieee.org/document/11268188"
   abstract: "In computer science and engineering, set membership tests are of critical importance in numerous areas, such as databases and verification systems. Traditional search algorithms become inefficient in terms of time and memory as the set size increases. To overcome these limitations, cryptographic accumulators, which are specialized data structures that perform set membership tests efficiently, have been proposed. Accumulators compress the values of a large set into a small value, offering the ability to effectively prove the existence of set elements. Cryptographic accumulators play an effective role in solving various problems such as privacy-preserving data sharing, verification of data integrity, and particularly authentication in areas like identity verification systems, blockchain, and pattern matching."
 
 - id: Cekis_2025_ISMSIT_EdgeAuth
@@ -56,9 +56,9 @@
     - Özçelik İ
   title: "Edge Authentication Using a Cryptographic Accumulator"
   journal: "2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)"
-  citation: "2025, 1-5"
+  citation: "1-5"
   year: 2025
-  url: "https://doi.org/10.1109/ISMSIT65809.2025.11268018"
+  url: "https://ieeexplore.ieee.org/document/11268018"
   abstract: "Traditional authentication protocols, which rely on centralized identity providers, face significant challenges with latency and bandwidth consumption as modern information systems scale to a large number of users and real-time processing. Edge authentication offers a promising solution by shifting user verification to local devices, thereby reducing dependency on a central server. This paper proposes a novel edge authentication protocol designed for efficiency and security, particularly for resource-constrained Internet of Things (IoT) devices, by leveraging a cryptographic accumulator to provide a compact and verifiable representation of the authentication database."
 
 - id: Apaydin_2025_ICFAR
@@ -70,7 +70,7 @@
     - Özçelik İ
   title: "Simetrik Biriktirici ile Sokak Hayvanlarında Bulaşıcı Hastalık Takibi"
   journal: "5th International Conference on Frontiers in Academic Research (ICFAR 2025)"
-  citation: "2025, ICFAR Proceedings"
+  citation: "ICFAR Proceedings"
   year: 2025
   url: "https://avesis.ogu.edu.tr/yayin/52cba822-afcb-4454-a5ab-b11e3b198241/simetrik-biriktirici-ile-sokak-hayvanlarinda-bulasici-hastalik-takibi"
   abstract: "Bu çalışma, sokak hayvanlarında bulaşıcı hastalıkların takibi ve doğrulanması için simetrik kriptografik biriktirici (cryptographic accumulator) tabanlı güvenli, ölçeklenebilir ve gizlilik koruyucu bir yönetim modeli sunmaktadır."
@@ -84,9 +84,9 @@
     - Özçelik İ
   title: "Using Blockchain Technology for Audit Trail"
   journal: "Digital Strategy and Governance in Transformative Technologies"
-  citation: "2025, CRC Press, 239-259"
+  citation: "CRC Press, 239-259"
   year: 2025
-  url: "https://doi.org/10.1201/9781003477808-14"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003477808-14/using-blockchain-technology-audit-trail-bilal-alagha-i%CC%87lker-%C3%B6z%C3%A7elik"
   abstract: "An audit trail records activities and events that track changes within a system. Maintaining a reliable audit trail prevents fraud, manages data, and ensures control. Recent audit failures highlight the need for more reliable audit trails. Traditional methods face criticism due to their susceptibility to security breaches, inefficiencies, and high costs, which limit their effectiveness in real-time fraud detection. With its decentralized and immutable ledger, blockchain technology presents a promising alternative. It provides a tamper-proof, transparent, and real-time record of transactions to enhance audit quality, reduce fraud risks, and improve auditing efficiency."
 
 - id: Cekis_2025
@@ -100,9 +100,9 @@
     - Özçelik İ
   title: "IP Spoofing Detection Using Deep Learning"
   journal: "Applied Sciences"
-  citation: "2025, 15(17), 9508"
+  citation: "15(17), 9508"
   year: 2025
-  url: "https://doi.org/10.3390/app15179508"
+  url: "https://www.mdpi.com/2076-3417/15/17/9508"
   abstract: "This study compares several deep learning models for IP spoofing detection and evaluates them with accuracy, precision, recall, F1 score, and inference time. The results highlight models that are effective for real-time network security, with an emphasis on practical deployment and platform independence."
 
 - id: Alagha_2025_BEATS
@@ -114,9 +114,9 @@
     - Özçelik İ
   title: "BEATS: Practical Audit Trail in Blockchain Systems"
   journal: "IEEE Access"
-  citation: "2025, 13, 109657-109669"
+  citation: "13, 109657-109669"
   year: 2025
-  url: "https://doi.org/10.1109/ACCESS.2025.3582722"
+  url: "https://ieeexplore.ieee.org/document/11048856"
   abstract: "BEATS introduces a lightweight and scalable audit trail architecture for enterprise blockchain systems. By combining cryptographic proofs with optimized accumulator structures, it provides verifiable log immutability with minimal storage overhead and low verification latency."
 
 - id: Alnuaimi_2025_Topkapi
@@ -129,7 +129,7 @@
     - Hasırcı U
   title: "FIDO2 vs. OpenID Connect: A Performance Benchmarking Study for Modern Authentication"
   journal: "International Topkapı Congress - V"
-  citation: "2025, 8-17"
+  citation: "8-17"
   year: 2025
   url: "https://avesis.ogu.edu.tr/yayin/17ab054c-1f5a-4b59-8ea7-0d6923bff109/fido2-vs-openid-connect-a-performance-benchmarking-study-for-modern-authentication"
   abstract: "In recent years, the demand for robust, efficient, and secure authentication protocols has intensified with the rise of digital services and online identity management. This work compares two leading authentication frameworks, FIDO2 and OpenID Connect, through performance testing using JMeter, highlighting latency, throughput, success rate, and data handling differences under varying operational loads."
@@ -143,7 +143,7 @@
     - Özçelik İ
   title: "Enhancing Minority Class Detection in Intrusion Detection Systems Using GAN-Based Data Augmentation: A Heuristic Study"
   journal: "4. International Paris Congress on Applied Sciences"
-  citation: "2025, Paris Congress Proceedings"
+  citation: "Paris Congress Proceedings"
   year: 2025
   url: "https://avesis.ogu.edu.tr/publication/details/add2b754-596e-4d66-b794-11d3f6c1bbc8/enhancing-minority-class-detection-in-intrusion-detection-systems-using-gan-based-data-augmentation-a-heuristic-study"
   abstract: "When classifying imbalanced datasets, the classification performance of minority classes is often low. In this study, the effect of the Generative Adversarial Network (GAN) data augmentation method on minority classes in intrusion detection systems (IDS) is investigated on the UNSW-NB15 dataset, demonstrating substantial improvements in accuracy, recall, and F1-scores."
@@ -158,9 +158,9 @@
     - Yazıcı A
   title: "Adversarial Attack Detection Approach for Intrusion Detection Systems"
   journal: "IEEE Access"
-  citation: "2024, 12, 195996-196009"
+  citation: "12, 195996-196009"
   year: 2024
-  url: "https://doi.org/10.1109/ACCESS.2024.3519894"
+  url: "https://ieeexplore.ieee.org/document/10807226"
   abstract: "The adoption of deep learning has exposed significant vulnerabilities to adversarial attacks that cause misclassifications through subtle perturbations. This study proposes a novel adversarial attack detection method leveraging data reconstruction errors alongside aleatoric, epistemic, and entropy metrics to distinguish between original and adversarial samples, achieving 92% to 100% detection success against FGSM, PGD, and BIM attacks."
 
 - id: Alagha_2024_SmartAgri
@@ -173,9 +173,9 @@
     - Atılgan E
   title: "Smart Agriculture Blockchain Applications"
   journal: "Selcuk Journal of Agriculture and Food Sciences"
-  citation: "2024, 39(1), 249-259"
+  citation: "39(1), 249-259"
   year: 2024
-  url: "https://doi.org/10.15316/SJAFS.2024.032"
+  url: "https://dergipark.org.tr/en/pub/selcukjafsci/article/1664432"
   abstract: "Smart Agriculture combines AI, Cloud Computing, and IoT to revolutionize farming efficiency and sustainability. Integrating blockchain technology adds intrinsic value by delivering food traceability, increasing supply chain efficiency, ensuring sustainability, and eliminating intermediaries across product lifecycles."
 
 - id: Toros_2024_ASYU
@@ -189,9 +189,9 @@
     - Özçelik İ
   title: "Performance Evaluation of ECC Based Cryptographic Accumulator on Resource-Constrained Platform"
   journal: "2024 Innovations in Intelligent Systems and Applications Conference (ASYU)"
-  citation: "2024, 1-6"
+  citation: "1-6"
   year: 2024
-  url: "https://doi.org/10.1109/ASYU63116.2024.10757120"
+  url: "https://ieeexplore.ieee.org/document/10757120"
   abstract: "Cryptographic accumulators are efficient data structures used for membership testing in resource-constrained IoT systems. This paper explores the performance of an ECC-based dynamic cryptographic accumulator implemented on a Raspberry Pi, evaluating witness generation, batch insertion, and O(1) verification latency."
 
 - id: Alagha_2024_Avrasya
@@ -203,7 +203,7 @@
     - Özçelik İ
   title: "An Empirical Evaluation of Blockchain Transaction Search Methods"
   journal: "AVRASYA 11th International Conference on Applied Sciences"
-  citation: "2024, AVRASYA Proceedings"
+  citation: "AVRASYA Proceedings"
   year: 2024
   url: "https://avesis.ogu.edu.tr/yayin/0f5ea40f-9666-4262-9dd8-53ab6df7d59c/an-empirical-evaluation-of-blockchain-transaction-search-methods"
   abstract: "Searching for a specific transaction on a blockchain is vital for auditing, fraud detection, and compliance. This paper evaluates transaction searching techniques on the Hyperledger Sawtooth platform, comparing linear searching, Sawtooth native search, and auxiliary database search architectures."
@@ -219,9 +219,9 @@
     - Özçelik İ
   title: "Performance Comparison of ECC Libraries for IoT Devices"
   journal: "Eskişehir Technical University Journal of Science and Technology A - Applied Sciences and Engineering"
-  citation: "2024, 25(2), 278-288"
+  citation: "25(2), 278-288"
   year: 2024
-  url: "https://doi.org/10.18038/estubtda.1427488"
+  url: "https://dergipark.org.tr/en/pub/estubtda/article/1427488"
   abstract: "This paper evaluates the performance, memory footprint, and execution efficiency of leading Elliptic Curve Cryptography (ECC) software libraries on resource-constrained IoT embedded platforms, providing benchmark guidance for secure IoT deployments."
 
 - id: Ertem_2024_JIENS
@@ -233,9 +233,9 @@
     - Özçelik İ
   title: "Siber Ağların Risk Analizi: Saldırı-Savunma Ağaçlarıyla Temellendirilmiş Niceliksel Bir Yaklaşım"
   journal: "Journal of Innovative Engineering and Natural Science"
-  citation: "2024, 4(1), 113-125"
+  citation: "4(1), 113-125"
   year: 2024
-  url: "https://doi.org/10.58414/jiens.1380821"
+  url: "https://dergipark.org.tr/en/pub/jiens/issue/80576/1380821"
   abstract: "Bu çalışmada, kurumsal siber risklerin nicel analizi için saldırı-savunma ağaçları tabanlı bir yaklaşım geliştirilmiştir. Önerilen yaklaşım, siber tehditleri temsil eden düğümlerin risk seviyelerini ölçerek toplam riski hesaplamakta ve belirlenen teknik ve idari savunma önlemlerinin risk azaltma oranlarını sistematik biçimde ortaya koymaktadır."
 
 - id: Degirmenci_2023_ROSIDS23
@@ -249,7 +249,7 @@
     - Yazıcı A
   title: "ROSIDS23: Network Intrusion Detection Dataset for Robot Operating System"
   journal: "Data in Brief"
-  citation: "2023, 51, 109739"
+  citation: "51, 109739"
   year: 2023
   url: "https://doi.org/10.1016/j.dib.2023.109739"
   abstract: "ROSIDS23 provides a benchmark intrusion detection dataset captured from Robot Operating System (ROS) middleware environments. Featuring 82 extracted network flow features, it supports machine learning research in securing intelligent robotic networks and smart autonomous systems."
@@ -268,9 +268,9 @@
     - Obeid J S
   title: "Scrybe: A Secure Audit Trail for Clinical Trial Data Fusion"
   journal: "ACM Digital Threats: Research and Practice"
-  citation: "2023, 4(2), 1-20"
+  citation: "4(2), 1-20"
   year: 2023
-  url: "https://doi.org/10.1145/3491258"
+  url: "https://dl.acm.org/doi/10.1145/3491258"
   abstract: "We propose Scrybe, a permissioned blockchain architecture to store proof of clinical trial data provenance across wearable IoT devices and electronic data management systems, ensuring strict compliance with FDA 21 CFR Part 11 and ISO 27789 audit standards."
 
 - id: Degirmenci_2022_ISCTurkey
@@ -283,9 +283,9 @@
     - Yazıcı A
   title: "Effects of Untargeted Adversarial Attacks on Deep Learning Methods"
   journal: "2022 15th International Conference on Information Security and Cryptology (ISCTURKEY)"
-  citation: "2022, 8-12"
+  citation: "8-12"
   year: 2022
-  url: "https://doi.org/10.1109/ISCTURKEY56379.2022.9931786"
+  url: "https://ieeexplore.ieee.org/document/9931786"
   abstract: "This study examines the effects of untargeted adversarial attacks on deep learning-based intrusion detection systems using the CICIDS2017 dataset, analyzing the robustness and classification vulnerabilities of neural detection models under adversarial perturbation."
 
 - id: Gulnar_2022_Nobel
@@ -298,7 +298,7 @@
     - Sağıroğlu Ş
   title: "Dağıtık Hizmet Engelleme / Aksattırma Saldırıları (DDoS) ve Karşı Önlemler"
   journal: "Siber Güvenlik ve Savunma: Siber Güvenlik Ontolojisi, Tehditler ve Çözümler"
-  citation: "2022, Nobel Yayınevi, Cilt 6, ss. 221-258"
+  citation: "Nobel Yayınevi, Cilt 6, ss. 221-258"
   year: 2022
   url: "https://avesis.ogu.edu.tr/yayin/41baa1ef-db09-4e2d-82cf-3449cc8ee4da/dagitik-hizmet-engelleme-aksattirma-saldirilari-ddos-ve-karsi-onlemler"
   abstract: "Bu kitap bölümünde DDoS saldırılarının tarihsel gelişimi, güncel saldırı mekanizmaları, saldırı araçları ile algılama ve müdahale süreçlerindeki karşı savunma önlemleri kapsamlı olarak ele alınmaktadır."
@@ -313,9 +313,9 @@
     - Yazıcı A
   title: "The Effects of Autoencoders on the Robustness of Deep Learning Models"
   journal: "2022 30th Signal Processing and Communications Applications Conference (SIU)"
-  citation: "2022, 1-4"
+  citation: "1-4"
   year: 2022
-  url: "https://doi.org/10.1109/SIU55565.2022.9864975"
+  url: "https://ieeexplore.ieee.org/document/9864975"
   abstract: "This study analyzes how autoencoder integrations affect the robustness of deep learning intrusion detection models (MLP, DNN, CNN) against Fast Gradient Sign Method (FGSM) adversarial attacks on the CICIDS2017 dataset."
 
 - id: Atilgan_2021_MQTT
@@ -328,9 +328,9 @@
     - Yolaçan E N
   title: "MQTT Security at a Glance"
   journal: "2021 International Conference on Information Security and Cryptology (ISCTURKEY)"
-  citation: "2021, 138-142"
+  citation: "138-142"
   year: 2021
-  url: "https://doi.org/10.1109/ISCTURKEY53379.2021.9654337"
+  url: "https://ieeexplore.ieee.org/document/9654337"
   abstract: "The MQTT protocol is widely used in IoT systems. In this study, the architecture and operation of MQTT are detailed, potential vulnerabilities and attack types are categorized, and modern security mechanisms are evaluated."
 
 - id: Ozcelik_2021_CAPEN
@@ -341,9 +341,9 @@
     - Özçelik İ
   title: "CAPEN: Cryptographic Accumulator Based Privacy Preserving Exposure Notification"
   journal: "2021 9th International Symposium on Digital Forensics and Security (ISDFS)"
-  citation: "2021, 1-6"
+  citation: "1-6"
   year: 2021
-  url: "https://doi.org/10.1109/ISDFS52912.2021.9486313"
+  url: "https://ieeexplore.ieee.org/document/9486313"
   abstract: "CAPEN proposes a novel cryptographic accumulator-based privacy-preserving exposure notification protocol using asymmetric accumulators and greatest common divisor testing to achieve high privacy with minimal communication overhead."
 
 - id: Brooks_2021_DDoS_History
@@ -358,9 +358,9 @@
     - Tusing N
   title: "Distributed Denial of Service (DDoS): A History"
   journal: "IEEE Annals of the History of Computing"
-  citation: "2021, 44(2), 44-54"
+  citation: "44(2), 44-54"
   year: 2021
-  url: "https://doi.org/10.1109/MAHC.2021.3073740"
+  url: "https://ieeexplore.ieee.org/document/9404833"
   abstract: "Distributed denial of service attacks exploit the lack of centralized access control in Internet architecture. This paper presents a historical timeline of major DDoS incidents, technologies, hacktivism, and the computing ecosystem enabling these attacks."
 
 - id: Ozcelik_2021_Accumulator_Survey
@@ -374,9 +374,9 @@
     - Skjellum A
   title: "An Overview of Cryptographic Accumulators"
   journal: "arXiv preprint"
-  citation: "2021, arXiv:2103.04330"
+  citation: "arXiv:2103.04330"
   year: 2021
-  url: "https://doi.org/10.48550/arXiv.2103.04330"
+  url: "https://arxiv.org/abs/2103.04330"
   abstract: "A comprehensive primer on cryptographic accumulators and practical applications in set-membership testing, comparing accumulator properties, computational trade-offs, space/time complexity, and communication overhead."
 
 - id: Ozcelik_2021_Cryptorevocate
@@ -388,9 +388,9 @@
     - Skjellum A
   title: "Cryptorevocate: A Cryptographic Accumulator Based Distributed Certificate Revocation List"
   journal: "2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC)"
-  citation: "2021, 865-872"
+  citation: "865-872"
   year: 2021
-  url: "https://doi.org/10.1109/CCWC51732.2021.9376112"
+  url: "https://ieeexplore.ieee.org/document/9376112"
   abstract: "Cryptorevocate introduces a scalable PKI certificate revocation status verification framework using cryptographic accumulators on distributed ledgers to provide verifiable, fast, and constant-overhead status checks."
 
 - id: Bhat_2020_Handbook
@@ -406,9 +406,9 @@
     - Skjellum A
   title: "Evaluation and Design of Performable Distributed Systems"
   journal: "Handbook of Advanced Performability Engineering"
-  citation: "2020, Springer, 211-227"
+  citation: "Springer, 211-227"
   year: 2020
-  url: "https://doi.org/10.1007/978-3-030-55732-4_9"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-55732-4_9"
   abstract: "This chapter explains the design, testing, and performability evaluation of distributed systems utilizing adversarial logic and simulated denial of service attacks to evaluate and harden system resilience."
 
 - id: Atasever_2020_SIU
@@ -421,9 +421,9 @@
     - Sağıroğlu Ş
   title: "An Overview of Machine Learning Based Approaches in DDoS Detection"
   journal: "2020 28th Signal Processing and Communications Applications Conference (SIU)"
-  citation: "2020, 1-4"
+  citation: "1-4"
   year: 2020
-  url: "https://doi.org/10.1109/SIU49456.2020.9302121"
+  url: "https://ieeexplore.ieee.org/document/9302121"
   abstract: "This study surveys machine learning-based approaches for Distributed Denial of Service (DDoS) attack detection, comparing techniques based on detection efficiency, computational load, and scalability."
 
 - id: Brooks_2020_DDoS_Testing
@@ -435,9 +435,9 @@
     - Özçelik İ
   title: "DDoS Research: Testing"
   journal: "Distributed Denial of Service Attacks: Real-World Detection and Mitigation"
-  citation: "2020, CRC Press, Chapter 6, 93-106"
+  citation: "CRC Press, Chapter 6, 93-106"
   year: 2020
-  url: "https://doi.org/10.1201/9781315213125-6"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315213125-6/ddos-research-testing-richard-brooks-i%CC%87lker-%C3%B6z%C3%A7elik"
   abstract: "This chapter presents common testing tools and environments used in Distributed Denial of Service (DDoS) attack studies, surveying network simulators, emulators (GNS3, Shadow), and experimental networking testbeds."
 
 - id: Brooks_2020_DDoS_Evaluation
@@ -449,9 +449,9 @@
     - Özçelik İ
   title: "DDoS Research: Evaluation"
   journal: "Distributed Denial of Service Attacks: Real-World Detection and Mitigation"
-  citation: "2020, CRC Press, Chapter 7, 107-113"
+  citation: "CRC Press, Chapter 7, 107-113"
   year: 2020
-  url: "https://doi.org/10.1201/9781315213125-7"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315213125-7/ddos-research-evaluation-richard-brooks-i%CC%87lker-%C3%B6z%C3%A7elik"
   abstract: "This chapter provides quantitative and qualitative evaluation methodologies for DDoS detection and mitigation architectures, analyzing availability, latency, extrinsic metrics, complexity, and scalability."
 
 - id: Brooks_2020_DDoS_Detection
@@ -463,9 +463,9 @@
     - Özçelik İ
   title: "Attack Detection"
   journal: "Distributed Denial of Service Attacks: Real-World Detection and Mitigation"
-  citation: "2020, CRC Press, Chapter 8, 115-138"
+  citation: "CRC Press, Chapter 8, 115-138"
   year: 2020
-  url: "https://doi.org/10.1201/9781315213125-8"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315213125-8/attack-detection-richard-brooks-i%CC%87lker-%C3%B6z%C3%A7elik"
   abstract: "This chapter classifies anomaly-based DDoS detection approaches, presenting comparative empirical benchmarks across statistical analysis and machine learning detection frameworks on operational network traffic."
 
 - id: Brooks_2020_DDoS_Legal
@@ -477,9 +477,9 @@
     - Özçelik İ
   title: "Legal Considerations"
   journal: "Distributed Denial of Service Attacks: Real-World Detection and Mitigation"
-  citation: "2020, CRC Press, Chapter 4, 67-73"
+  citation: "CRC Press, Chapter 4, 67-73"
   year: 2020
-  url: "https://doi.org/10.1201/9781315213125-4"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315213125-4/legal-considerations-richard-brooks-i%CC%87lker-%C3%B6z%C3%A7elik"
   abstract: "This chapter provides an overview of international legal frameworks, cyber insurance, hacktivism morality, and regulatory compliance (such as the Tallinn Manual 2.0) relevant to Distributed Denial of Service events."
 
 - id: Brooks_2020_What_Is_DDoS
@@ -491,9 +491,9 @@
     - Özçelik İ
   title: "What is DDoS?"
   journal: "Distributed Denial of Service Attacks: Real-World Detection and Mitigation"
-  citation: "2020, CRC Press, Chapter 2, 5-42"
+  citation: "CRC Press, Chapter 2, 5-42"
   year: 2020
-  url: "https://doi.org/10.1201/9781315213125-2"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315213125-2/what-ddos-richard-brooks-i%CC%87lker-%C3%B6z%C3%A7elik"
   abstract: "This chapter investigates DDoS attacks across five primary classes: Resource Saturation, Exploiting System/Network Vulnerabilities, Configuration Modification, Misuse, and Physical Destruction."
 
 - id: Brooks_2020_DDoS_Traffic
@@ -505,9 +505,9 @@
     - Özçelik İ
   title: "DDoS Research: Traffic"
   journal: "Distributed Denial of Service Attacks: Real-World Detection and Mitigation"
-  citation: "2020, CRC Press, Chapter 5, 75-91"
+  citation: "CRC Press, Chapter 5, 75-91"
   year: 2020
-  url: "https://doi.org/10.1201/9781315213125-5"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315213125-5/ddos-research-traffic-richard-brooks-i%CC%87lker-%C3%B6z%C3%A7elik"
   abstract: "This chapter classifies background traffic models and operational trace datasets for DDoS experimentation, detailing flow/packet traffic generators and statistical modeling methods."
 
 - id: Brooks_2020_DDoS_Lab
@@ -519,9 +519,9 @@
     - Özçelik İ
   title: "DDoS Lab"
   journal: "Distributed Denial of Service Attacks: Real-World Detection and Mitigation"
-  citation: "2020, CRC Press, Chapter 14, 279-317"
+  citation: "CRC Press, Chapter 14, 279-317"
   year: 2020
-  url: "https://doi.org/10.1201/9781315213125-14"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315213125-14/ddos-lab-richard-brooks-i%CC%87lker-%C3%B6z%C3%A7elik"
   abstract: "This chapter discusses performing controlled DDoS experiments in laboratory environments using SDN switches, Scapy custom packet injection, and Apache Traffic Server."
 
 - id: Brooks_2020_DDoS_Mitigation
@@ -533,9 +533,9 @@
     - Özçelik İ
   title: "Attack Mitigation"
   journal: "Distributed Denial of Service Attacks: Real-World Detection and Mitigation"
-  citation: "2020, CRC Press, Chapter 10, 151-222"
+  citation: "CRC Press, Chapter 10, 151-222"
   year: 2020
-  url: "https://doi.org/10.1201/9781315213125-10"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315213125-10/attack-mitigation-richard-brooks-i%CC%87lker-%C3%B6z%C3%A7elik"
   abstract: "This chapter examines attack reaction and mitigation systems, classifying mechanisms by deployment type, location, reaction speed, and packet filtering strategies."
 
 - id: Brooks_2020_Deceiving_DDoS
@@ -547,9 +547,9 @@
     - Özçelik İ
   title: "Deceiving DDoS Detection"
   journal: "Distributed Denial of Service Attacks: Real-World Detection and Mitigation"
-  citation: "2020, CRC Press, Chapter 9, 139-149"
+  citation: "CRC Press, Chapter 9, 139-149"
   year: 2020
-  url: "https://doi.org/10.1201/9781315213125-9"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315213125-9/deceiving-ddos-detection-richard-brooks-i%CC%87lker-%C3%B6z%C3%A7elik"
   abstract: "This chapter investigates evasion and deception attacks against statistical and machine learning-based DDoS detectors, demonstrating proof-of-concept spoofing attacks that deceive entropy-based monitoring."
 
 - id: Brooks_2020_DDoS_History_Motivation
@@ -561,9 +561,9 @@
     - Özçelik İ
   title: "History and Motivation"
   journal: "Distributed Denial of Service Attacks: Real-World Detection and Mitigation"
-  citation: "2020, CRC Press, Chapter 3, 43-66"
+  citation: "CRC Press, Chapter 3, 43-66"
   year: 2020
-  url: "https://doi.org/10.1201/9781315213125-3"
+  url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781315213125-3/history-motivation-richard-brooks-i%CC%87lker-%C3%B6z%C3%A7elik"
   abstract: "This chapter provides historical context for DDoS attacks, tracking early communications, telegraphy, operating system access control roots, and hacker culture evolution."
 
 - id: Ozcelik_2020_UTC_Accumulators
@@ -576,7 +576,7 @@
     - Medury S
   title: "Cryptographic Accumulators"
   journal: "University of Tennessee at Chattanooga Research Dialogues"
-  citation: "2020, MS #1359"
+  citation: "MS #1359"
   year: 2020
   url: "https://scholar.utc.edu/research-dialogues/2020/day2_presentations/54/"
   abstract: "This presentation explores cryptographic accumulators as space- and time-efficient data structures for set membership tests in databases, authentication, and distributed verification systems."
@@ -590,9 +590,9 @@
     - Brooks R R
   title: "Distributed Denial of Service Attacks: Real-World Detection and Mitigation"
   journal: "Chapman and Hall/CRC"
-  citation: "2020, ISBN 9781138706859"
+  citation: "ISBN 9781138706859"
   year: 2020
-  url: "https://doi.org/10.1201/9781315213125"
+  url: "https://www.routledge.com/Distributed-Denial-of-Service-Attacks-Real-world-Detection-and-Mitigation/Ozcelik-Brooks/p/book/9781138706859"
   abstract: "This comprehensive book provides analysis and reference material on Distributed Denial of Service (DDoS) attacks, integrating attack history, botnets, DNS/NTP reflection, SDN-based lab experiments, detection algorithms, and real-world mitigation architectures."
 
 - id: Kandah_2020_MARS
@@ -605,9 +605,9 @@
     - Huber B
   title: "MARS: Machine Learning Based Adaptable and Robust Network Management for Software-Defined Networks"
   journal: "2020 10th Annual Computing and Communication Workshop and Conference (CCWC)"
-  citation: "2020, 586-591"
+  citation: "586-591"
   year: 2020
-  url: "https://doi.org/10.1109/CCWC47524.2020.9031241"
+  url: "https://ieeexplore.ieee.org/document/9031241"
   abstract: "We propose MARS, an adaptable and robust network management framework utilizing machine learning to enhance network resource utilization, controller balancing, and scalability in Software-Defined Networks (SDN)."
 
 - id: Atasever_2019_SDU
@@ -620,9 +620,9 @@
     - Sağıroğlu Ş
   title: "Siber Terör ve DDoS"
   journal: "Süleyman Demirel Üniversitesi Fen Bilimleri Enstitüsü Dergisi"
-  citation: "2019, 23(1), 238-244"
+  citation: "23(1), 238-244"
   year: 2019
-  url: "https://doi.org/10.19113/sdufbed.45290"
+  url: "https://dergipark.org.tr/en/pub/sdufbed/article/702989"
   abstract: "Bu çalışmada DDoS saldırılarının gerçekleştirilme nedenleri tarihsel değişimi ile incelenmekte, DDoS saldırı yöntemleri kategorize edilerek siber terörizm ile DDoS saldırıları arasındaki ilişki ve savunma yöntemleri açıklanmaktadır."
 
 - id: Ozcelik_2018_TRCyberLab
@@ -635,7 +635,7 @@
     - Özçelik İ
   title: "TRCyberLab: An Infrastructure for Future Internet and Security Studies"
   journal: "2018 6th International Symposium on Digital Forensic and Security (ISDFS)"
-  citation: "2018, 1-5"
+  citation: "1-5"
   year: 2018
-  url: "https://doi.org/10.1109/ISDFS.2018.8355396"
+  url: "https://ieeexplore.ieee.org/document/8355396"
   abstract: "In this paper, we propose a national information and communication technologies and security testbed, TRCyberLab, providing a roadmap for testbed establishment and cyber experimentation for researchers in Turkey."

@@ -6,18 +6,18 @@ columns:
   - description: >
       **Quick Links**
     links:
-    - text: ISSLab Director
+      - text: ISSLab Director
         href: https://www.ozcelikilker.com/
         new_window: true
-    - text: ISSLab LinkedIn Group
+      - text: ISSLab LinkedIn Group
         href: https://www.linkedin.com/groups/9539313/
         new_window: true
-    - text: ISSLab Google Group
+      - text: ISSLab Google Group
         href: https://groups.google.com/g/iss-lab-community/
         new_window: true    
-    - text: Eskişehir Osmangazi University
-      href: https://www.ogu.edu.tr/
-      new_window: true
+      - text: Eskişehir Osmangazi University
+        href: https://www.ogu.edu.tr/
+        new_window: true
 
   - description: > # Contact Information
       **Office**: Office 313, Department of Software Engineering

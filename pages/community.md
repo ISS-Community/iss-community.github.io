@@ -1,7 +1,7 @@
 ---
 layout: base/default
 title: ISSLAB Community
-subtitle: Video Archive, Seminars, TÜBİTAK Projects & Open Collaboration
+subtitle: Projects & Collaboration, Seminars, Tutorials
 permalink: /community/
 ---
 

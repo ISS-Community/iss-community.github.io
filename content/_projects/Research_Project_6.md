@@ -38,5 +38,20 @@ categories:
   <p>
     The <strong>Agent Identity Manager (AIM)</strong> framework aims to address these fundamental challenges by developing a secure, decentralized, and highly efficient identity verification architecture for AI Agent authentication.
   </p>
+  
+  <hr class="my-4">
+
+  <h3>Project Seminars & Technical Webcasts</h3>
+
+    <div class="col-md-6 mb-3">
+      <div class="card h-100 p-3 shadow-sm border">
+        <h6 class="font-weight-bold mb-2">LLM Security in Enterprise Networks</h6>
+        <p class="small text-muted mb-3">Technical presentation analyzing security implications, privacy leak vectors, and defensive hardening for LLM deployments.</p>
+        <a href="https://www.youtube.com/watch?v=gYtPo_axz_E" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mt-auto">
+          <i class="fa fa-youtube-play mr-1"></i> Watch Video on YouTube
+        </a>
+      </div>
+    </div>
+
 
 </div>

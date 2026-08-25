@@ -309,35 +309,9 @@ permalink: /community/
       </div>
     </div>
 
-  <div class="project-output-grid">
-    <div class="output-badge"><i class="fa fa-shield"></i> Zero-Knowledge</div>
-    <div class="output-title">ISS Vault (Desktop)</div>
-    <div class="output-desc">
-      Open-source desktop application providing local XChaCha20-Poly1305 client-side encryption and Argon2id key derivation for automated, secure file synchronization with Google Drive.
-    </div>
-    <div class="output-meta">
-      <span><i class="fa fa-folder-o text-muted mr-1"></i> Cloud & File Security</span>
-      <span><i class="fa fa-code text-muted mr-1"></i> Go / Wails / JS</span>
-    </div>
-  </div>
-
-  <div class="project-output-grid">
-      <div class="output-card">
-        <div class="output-badge"><i class="fa fa-balance-scale"></i> Privacy & LegalTech</div>
-        <div class="output-title">H.E.Y.U.L.A.</div>
-        <div class="output-desc">
-          Automated Chrome extension for end-to-end EULA and Terms of Service analysis. Features a 5-stage document discovery pipeline and Gemini 2.5 Flash risk assessment to generate actionable 0–100 trust scores.
-        </div>
-        <div class="output-meta">
-          <span><i class="fa fa-folder-o text-muted mr-1"></i> Browser Security & NLP</span>
-          <span><i class="fa fa-code text-muted mr-1"></i> JavaScript / Manifest V3 / Gemini</span>
-        </div>
-      </div>
-    </div>
-
     <div class="project-output-grid">
       <div class="output-card">
-        <div class="output-badge"><i class="fa fa-shield"></i> ISSLab Supported</div>
+        <div class="output-badge"><i class="fa fa-shield"></i> ISSLab Supported </div>
         <div class="output-title">ISS Vault</div>
         <div class="output-desc">
           Open-source desktop application providing local XChaCha20-Poly1305 client-side encryption and Argon2id key derivation for automated, secure file synchronization with Google Drive.
@@ -348,17 +322,19 @@ permalink: /community/
         </div>
       </div>
 
+  <div class="project-output-grid">
       <div class="output-card">
-        <div class="output-badge"><i class="fa fa-sitemap"></i> ISSLab Supported</div>
-        <div class="output-title">High-Throughput SDN Traffic Monitoring & Anomaly Detection</div>
+        <div class="output-badge"><i class="fa fa-balance-scale"></i> ISSLab Supported </div>
+        <div class="output-title">H.E.Y.U.L.A.</div>
         <div class="output-desc">
-          Real-time DDoS mitigation and port scan anomaly classifier prototype operating on Software-Defined Networking (SDN) data planes with lightweight machine learning.
+          Automated Chrome extension for end-to-end EULA and Terms of Service analysis. Features a 5-stage document discovery pipeline and Gemini 2.5 Flash risk assessment to generate actionable 0–100 trust scores.
         </div>
         <div class="output-meta">
-          <span><i class="fa fa-folder-o text-muted mr-1"></i> SDN & Traffic Analysis</span>
-          <span><i class="fa fa-code text-muted mr-1"></i> Python / P4</span>
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Privacy </span>
+          <span><i class="fa fa-code text-muted mr-1"></i> JS / Manifest V3 </span>
         </div>
       </div>
+    </div>
 
     </div>
   </section>

@@ -304,15 +304,28 @@ permalink: /community/
   <section class="mb-5">
     <div class="d-flex align-items-center justify-content-between flex-wrap mb-3">
       <div>
-        <h3 class="mb-1"><i class="fa fa-graduation-cap text-primary mr-2"></i>TÜBİTAK 2209 Project Outputs & Student Research</h3>
+        <h3 class="mb-1"><i class="fa fa-graduation-cap text-primary mr-2"></i>Community Project Outputs & Student Research</h3>
         <p class="text-muted">Undergraduate research initiatives, prototypes, and technical poster outputs mentored within ISSLab</p>
       </div>
     </div>
 
+  <div class="output-card">
+    <div class="output-badge"><i class="fa fa-shield"></i> Zero-Knowledge</div>
+    <div class="output-title">ISS Vault (Desktop)</div>
+    <div class="output-desc">
+      Open-source desktop application providing local XChaCha20-Poly1305 client-side encryption and Argon2id key derivation for automated, secure file synchronization with Google Drive.
+    </div>
+    <div class="output-meta">
+      <span><i class="fa fa-folder-o text-muted mr-1"></i> Cloud & File Security</span>
+      <span><i class="fa fa-code text-muted mr-1"></i> Go / Wails / JS</span>
+    </div>
+  </div>
+
+
     <div class="project-output-grid">
       <div class="output-card">
-        <div class="output-badge"><i class="fa fa-microchip"></i> TÜBİTAK 2209-A Supported</div>
-        <div class="output-title">STM32-Based Hardware ECC Authentication Unit</div>
+        <div class="output-badge"><i class="fa fa-microchip"></i> ISSLab Supported</div>
+        <div class="output-title">ISS Vault</div>
         <div class="output-desc">
           Elliptic curve cryptography (ECC) hardware security module and lightweight mutual authentication architecture designed for resource-constrained IoT edge devices.
         </div>
@@ -323,7 +336,7 @@ permalink: /community/
       </div>
 
       <div class="output-card">
-        <div class="output-badge"><i class="fa fa-sitemap"></i> TÜBİTAK 2209-A Supported</div>
+        <div class="output-badge"><i class="fa fa-sitemap"></i> ISSLab Supported</div>
         <div class="output-title">High-Throughput SDN Traffic Monitoring & Anomaly Detection</div>
         <div class="output-desc">
           Real-time DDoS mitigation and port scan anomaly classifier prototype operating on Software-Defined Networking (SDN) data planes with lightweight machine learning.
@@ -334,17 +347,6 @@ permalink: /community/
         </div>
       </div>
 
-      <div class="output-card">
-        <div class="output-badge"><i class="fa fa-chain"></i> TÜBİTAK 2209-B Supported</div>
-        <div class="output-title">Blockchain-Backed Verifiable Telemetry Pipeline</div>
-        <div class="output-desc">
-          Cryptographic accumulator-driven audit trailing framework that provides tamper-evident integrity guarantees for distributed telemetry streams.
-        </div>
-        <div class="output-meta">
-          <span><i class="fa fa-folder-o text-muted mr-1"></i> Distributed Systems</span>
-          <span><i class="fa fa-code text-muted mr-1"></i> Smart Contracts</span>
-        </div>
-      </div>
     </div>
   </section>
 

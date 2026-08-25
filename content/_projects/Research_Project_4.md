@@ -18,6 +18,7 @@ categories:
   <div class="alert alert-info border-primary mb-4 p-3" style="border-left: 4px solid #2563eb; background: #f0f7ff;">
     <strong>Research Focus:</strong> AI Security<br>
     <strong>Funding / Collaboration:</strong> This defense-industry supported project is led by industry partner BTS Group in collaboration with the Intelligence Systems and Security Lab (ISSLab) at Eskişehir Osmangazi University, Recep Tayyip Erdogan University, and Milli Savunma University.<br>
+    <strong>Academic Supervision and Institutional Context:</strong> Intelligent Systems Security Lab (ISSLab), Eskisehir Osmangazi University (M.Sc. Thesis: Gizem Karyağdı; Co-Advisor: Dr. İlker Özçelik).<br>      
   </div>
 
 <p>

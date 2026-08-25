@@ -113,18 +113,18 @@ categories:
   <div class="row">
     <div class="col-md-4 mb-3">
       <div class="card h-100 p-3 shadow-sm border">
-        <h6 class="font-weight-bold mb-2">ECC Cryptographic Accumulator Library</h6>
-        <p class="small text-muted mb-3">Usage of the elliptic curve cryptography accumulator repository, proof generation, and verification.</p>
-        <a href="https://www.youtube.com/watch?v=xUDw_yeY8DY" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mt-auto">
+        <h6 class="font-weight-bold mb-2">From Theory to Practice: Cryptographic Accumulators</h6>
+        <p class="small text-muted mb-3">Step-by-step tutorial translating mathematical foundations of cryptographic accumulators into practical software implementations.</p>
+        <a href="https://www.youtube.com/watch?v=tAH7mT62Xrs" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mt-auto">
           <i class="fa fa-youtube-play mr-1"></i> Watch Video
         </a>
       </div>
     </div>
     <div class="col-md-4 mb-3">
       <div class="card h-100 p-3 shadow-sm border">
-        <h6 class="font-weight-bold mb-2">STM Project Creation & Programming</h6>
-        <p class="small text-muted mb-3">STM development kit setup, firmware compilation, and embedded security flashing.</p>
-        <a href="https://www.youtube.com/watch?v=a1_-ycF26PE" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mt-auto">
+        <h6 class="font-weight-bold mb-2">ISSLab Sawtooth v1.2 Simple Wallet Application</h6>
+        <p class="small text-muted mb-3">Developing a simple wallet and Transaction Processor on the Hyperledger Sawtooth enterprise blockchain platform.</p>
+        <a href="https://www.youtube.com/watch?v=WxlzCd_J0Jw" target="_blank" rel="noopener noreferrer" class="btn btn-danger btn-sm mt-auto">
           <i class="fa fa-youtube-play mr-1"></i> Watch Video
         </a>
       </div>

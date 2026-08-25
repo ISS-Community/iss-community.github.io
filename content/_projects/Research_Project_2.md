@@ -6,6 +6,8 @@ order: 2
 active: true
 card_image: null
 card_title: Data Center Security
+permalink: /projects/data-center-security/
+status: ongoing
 external_url: 
 categories:
     - Flowzen

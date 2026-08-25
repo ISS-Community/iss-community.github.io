@@ -93,3 +93,9 @@
   name: Buse Konyalı
   role: Community Member
   status: community
+
+- id: Alumni_Ahmet_Yilmaz
+  name: Ahmet Yılmaz
+  role: Alumni
+  status: alumni
+  linkedin: https://www.linkedin.com/in/example-ahmet/

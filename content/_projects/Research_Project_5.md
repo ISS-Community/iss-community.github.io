@@ -6,6 +6,8 @@ order: 6
 active: true
 card_image: null
 card_title: BC Audit Trails
+permalink: /projects/blockchain-audit-trail/
+status: completed
 external_url: 
 categories:
     - Blockchain

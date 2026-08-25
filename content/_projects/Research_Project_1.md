@@ -6,6 +6,8 @@ order: 4
 active: true
 card_image: null
 card_title: Edge Authentication
+permalink: /projects/scalable-edge-authentication/
+status: completed
 external_url: 
 categories:
     - Blockchain

@@ -6,6 +6,8 @@ order: 3
 active: true
 card_image: null
 card_title: AI Agent Authentication
+permalink: /projects/agent-identity-manager/
+status: completed
 external_url: 
 categories:
     - AI Agent Security

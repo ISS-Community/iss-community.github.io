@@ -6,6 +6,8 @@ order: 1
 active: true
 card_image: null
 card_title: "Adversarial Mitigation"
+permalink: /projects/adversarial-attack-detection-mitigation/
+status: ongoing
 external_url: 
 categories:
     - AI Security

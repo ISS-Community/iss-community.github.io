@@ -6,6 +6,7 @@ layout: base/base
 {% assign principal_people = all_people | where: "role", "Principal Investigator" %}
 {% assign current_members = all_people | where: "status", "current" | where_exp: "person", "person.role != 'Principal Investigator'" %}
 {% assign community_members = all_people | where: "status", "community" %}
+{% assign alumni_members = all_people | where: "status", "alumni" %}
 
 <div class="row">
   <div class="col-md-10 mx-auto {{ item_class }} people-page">
@@ -103,5 +104,42 @@ layout: base/base
         {% endfor %}
       </div>
     </section>
+
+    {% if alumni_members.size > 0 %}
+    <section class="people-section">
+      <div class="people-section-title">Alumni</div>
+      <div class="people-section-subtitle">Former lab members</div>
+
+      <div class="community-members-grid">
+        {% assign alumni_limit = 6 %}
+        {% for person in alumni_members limit: alumni_limit %}
+          <div class="community-member-card">
+            <div class="community-member-avatar">
+              <i class="fas fa-user-circle"></i>
+            </div>
+            <div class="community-member-info">
+              {% if person.linkedin %}
+                <a class="community-member-name" href="{{ person.linkedin }}" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:inherit;">
+                  {{ person.name }}
+                  <svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 24 24" fill="currentColor" style="margin-left:3px;opacity:0.55;vertical-align:middle;"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                </a>
+              {% else %}
+                <div class="community-member-name">{{ person.name }}</div>
+              {% endif %}
+              <div class="community-member-badge">Alumni</div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+      {% if alumni_members.size > alumni_limit %}
+        <div style="text-align:center;margin-top:1.2rem;">
+          <a href="{{ '/alumni/' | relative_url }}" style="font-size:0.9rem;font-weight:600;color:#2563eb;text-decoration:none;">
+            All Alumni ({{ alumni_members.size }}) →
+          </a>
+        </div>
+      {% endif %}
+    </section>
+    {% endif %}
   </div>
-</div>
+</div>

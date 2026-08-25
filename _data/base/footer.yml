@@ -6,6 +6,15 @@ columns:
   - description: >
       **Quick Links**
     links:
+    - text: ISSLab Director
+        href: https://www.ozcelikilker.com/
+        new_window: true
+    - text: ISSLab LinkedIn Group
+        href: https://www.linkedin.com/groups/9539313/
+        new_window: true
+    - text: ISSLab Google Group
+        href: https://groups.google.com/g/iss-lab-community/
+        new_window: true    
     - text: Eskişehir Osmangazi University
       href: https://www.ogu.edu.tr/
       new_window: true
@@ -15,11 +24,7 @@ columns:
       
       **Address**: College of Engineering and Architecture, Eskişehir Osmangazi University, Eskişehir, Turkey 26040
       
-      **Email**: ilkerozcelik@ogu.edu.tr
-    links:
-
-  - description: > # Research Focus
-      Intelligence Systems and Security Lab (ISSLab) conducts research in network security, high-throughput traffic monitoring, quantized AI defense, and blockchain-integrated architectures.
+      **Email**: contact@ozcelikilker.com
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown

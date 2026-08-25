@@ -17,21 +17,15 @@ permalink: /community/
       <span class="badge badge-primary px-3 py-2 mb-2" style="font-size: 0.82rem; letter-spacing: 0.04em; text-transform: uppercase;">
         <i class="fa fa-bullhorn mr-1"></i> Open Call & Student Invitation
       </span>
-      <h4 class="card-title text-dark mb-2" style="font-weight: 700;">Join ISS Lab Research & TÜBİTAK 2209 Projects</h4>
+      <h4 class="card-title text-dark mb-2" style="font-weight: 700;">Join ISS Lab Research Projects</h4>
       <p class="card-text text-muted mb-3" style="font-size: 0.95rem; line-height: 1.6;">
-        We invite motivated undergraduate and graduate students to participate in ongoing research on <strong>Network Security, Quantized AI Models, Blockchain Audit Trails, and Embedded STM32 Cryptography</strong>. Mentoring is provided for TÜBİTAK 2209-A/B applications, graduation projects, and M.Sc./Ph.D. theses.
+        We invite motivated undergraduate and graduate students to participate in ongoing research on <strong>Network Security, AI Security, Blockchain Security Applications, and IoT Security</strong>. Mentoring is provided for TÜBİTAK 2209-A/B applications, graduation projects, and M.Sc./Ph.D. theses.
       </p>
       <div class="d-flex flex-wrap gap-2">
         <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer" class="btn btn-sm mr-2 mb-2 shadow-sm" style="background-color: #dc2626 !important; color: #ffffff !important; border-color: #dc2626 !important; font-weight: 600; text-decoration: none;">
-          <i class="fa fa-youtube-play mr-1 text-white"></i> Watch Community Call Video
+          <i class="fa fa-youtube-play mr-1 text-white"></i> Watch Community Call 2026 Video
         </a>
-        <a href="https://www.linkedin.com/groups/9539313/" target="_blank" rel="noopener noreferrer" class="btn btn-sm mr-2 mb-2 shadow-sm" style="background-color: #0a66c2 !important; color: #ffffff !important; border-color: #0a66c2 !important; font-weight: 600; text-decoration: none;">
-          <i class="fa fa-linkedin mr-1 text-white"></i> Join LinkedIn Group
-        </a>
-        <a href="https://groups.google.com/g/iss-lab-community" target="_blank" rel="noopener noreferrer" class="btn btn-sm mr-2 mb-2 shadow-sm" style="background-color: #16a34a !important; color: #ffffff !important; border-color: #16a34a !important; font-weight: 600; text-decoration: none;">
-          <i class="fa fa-envelope mr-1 text-white"></i> Join Google Group
-        </a>
-        <a href="mailto:ilkerozcelik@ogu.edu.tr" class="btn btn-sm mb-2 shadow-sm" style="background-color: #ffffff !important; color: #1e293b !important; border: 1px solid #cbd5e1 !important; font-weight: 600; text-decoration: none;">
+        <a href="mailto:contact@ozcelikilker.com" class="btn btn-sm mb-2 shadow-sm" style="background-color: #ffffff !important; color: #1e293b !important; border: 1px solid #cbd5e1 !important; font-weight: 600; text-decoration: none;">
           <i class="fa fa-envelope-o mr-1"></i> Contact Dr. İlker Özçelik
         </a>
       </div>

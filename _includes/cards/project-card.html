@@ -6,8 +6,15 @@
 {% include base/optional-item-link-prep.html %}
 
 <a id="{{ project.id }}"></a>
-<div class="card project-card {{ include.hide }}"
+<div class="card project-card {{ include.hide }}" style="position:relative;"
      data-categories="{% for category in project.categories %}{{ category | strip }}|{% endfor %}">
+  {% if project.status %}
+    {% if project.status == "ongoing" %}
+      <span style="position:absolute;top:0.6rem;right:0.6rem;z-index:10;background:#16a34a;color:#fff;font-size:0.7rem;font-weight:600;padding:0.2rem 0.55rem;border-radius:999px;letter-spacing:0.03em;">Ongoing</span>
+    {% elsif project.status == "completed" %}
+      <span style="position:absolute;top:0.6rem;right:0.6rem;z-index:10;background:#1e293b;color:#fff;font-size:0.7rem;font-weight:600;padding:0.2rem 0.55rem;border-radius:999px;letter-spacing:0.03em;">Completed</span>
+    {% endif %}
+  {% endif %}
   {% unless layout.suppress_project_image %}
     <a href="{{ project.url | relative_url }}">
       {% if project.card_image %}
@@ -28,13 +35,6 @@
   {% endunless %}
 
   <div class="card-body position-relative">
-    {% if project.status %}
-      {% if project.status == "ongoing" %}
-        <span style="position:absolute;top:0.6rem;right:0.6rem;background:#16a34a;color:#fff;font-size:0.7rem;font-weight:600;padding:0.2rem 0.55rem;border-radius:999px;letter-spacing:0.03em;">Ongoing</span>
-      {% elsif project.status == "completed" %}
-        <span style="position:absolute;top:0.6rem;right:0.6rem;background:#1e293b;color:#fff;font-size:0.7rem;font-weight:600;padding:0.2rem 0.55rem;border-radius:999px;letter-spacing:0.03em;">Completed</span>
-      {% endif %}
-    {% endif %}
     <a href="{{ project.url | relative_url }}" style="text-decoration: none; color: inherit;">
       <h5 class="card-title project-card-title">{{ project.title }}</h5>
     </a>

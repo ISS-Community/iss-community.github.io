@@ -337,14 +337,14 @@ permalink: /community/
 
     <div class="project-output-grid">
       <div class="output-card">
-        <div class="output-badge"><i class="fa fa-microchip"></i> ISSLab Supported</div>
+        <div class="output-badge"><i class="fa fa-shield"></i> ISSLab Supported</div>
         <div class="output-title">ISS Vault</div>
         <div class="output-desc">
-          Elliptic curve cryptography (ECC) hardware security module and lightweight mutual authentication architecture designed for resource-constrained IoT edge devices.
+          Open-source desktop application providing local XChaCha20-Poly1305 client-side encryption and Argon2id key derivation for automated, secure file synchronization with Google Drive.
         </div>
         <div class="output-meta">
-          <span><i class="fa fa-folder-o text-muted mr-1"></i> Hardware Security</span>
-          <span><i class="fa fa-code text-muted mr-1"></i> STM32 / C</span>
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Cloud & File Security</span>
+          <span><i class="fa fa-code text-muted mr-1"></i> Go / JS</span>
         </div>
       </div>
 

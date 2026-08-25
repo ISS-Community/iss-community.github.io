@@ -20,11 +20,11 @@ columns:
         new_window: true
 
   - description: > # Contact Information
-      **Office**: Office 313, Department of Software Engineering
+      **Office**: Office 313, Department of Software Engineering<br>
       
-      **Address**: College of Engineering and Architecture, Eskişehir Osmangazi University, Eskişehir, Turkey 26040
+      **Address**: College of Engineering and Architecture, Eskişehir Osmangazi University, Eskişehir, Turkey 26040<br>
       
-      **Email**: contact@ozcelikilker.com
+      **Email**: contact@ozcelikilker.com<br>
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown

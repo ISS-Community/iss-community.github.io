@@ -4,7 +4,7 @@ title: Contact Information
 permalink: /contact/
 ---
 
-### Principal Investigator
+### Director
 
 **İlker Özçelik, Ph.D.**  
 Director, Intelligence Systems and Security Lab (ISSLab)  
@@ -12,15 +12,10 @@ Assistant Professor, Department of Software Engineering
 Eskişehir Osmangazi University  
 
 **Connect:**
-- [ORCID: 0000-0002-2032-1640](https://orcid.org/0000-0002-2032-1640)
-- [Google Scholar](https://scholar.google.com/citations?user=tSvqtb0AAAAJ&hl=en)
-- [Personal Website](https://ozcelikilker.com/)
-- [LinkedIn](https://www.linkedin.com/in/ozcelikilker/)
+- [ORCID: 0000-0002-2032-1640](https://orcid.org/0000-0002-2032-1640){:target="_blank"}
+- [Google Scholar](https://scholar.google.com/citations?user=tSvqtb0AAAAJ&hl=en){:target="_blank"}
+- [Personal Website](https://ozcelikilker.com/){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/ozcelikilker/){:target="_blank"}
 - [Email: contact@ozcelikilker.com](mailto:contact@ozcelikilker.com)
-
-### Lab Resources
-
-- [ISS Lab Research](https://esoguiss.wordpress.com/)
-- [ISSLab Blog](https://esoguisslab.wordpress.com/)
 
 The most direct contact is [contact@ozcelikilker.com](mailto:contact@ozcelikilker.com).

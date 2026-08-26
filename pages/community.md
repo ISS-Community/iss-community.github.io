@@ -289,8 +289,21 @@ permalink: /community/
         </div>
       </div>
 
-
-
+      <div class="project-output-grid">
+        <div class="output-card">
+          <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+          <div class="output-title">Keylogger Application for Parental Monitoring (2023)</div>
+          <div class="output-desc">
+            Python-based keylogger software designed to monitor children's internet activity by capturing keystrokes in the background and sending automated email reports of suspicious text to parents or legal guardians.
+          </div>
+          <div class="output-meta" style="margin-bottom: 10px;">
+            <span><i class="fa fa-users text-muted mr-1"></i> Eddy Ngabo Shami</span>
+          </div>
+          <div class="output-meta">
+            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
+            <span><i class="fa fa-code text-muted mr-1"></i> Python</span>
+          </div>
+        </div>
+      </div>
   </section>
-
 </div>

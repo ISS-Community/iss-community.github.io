@@ -200,7 +200,6 @@ permalink: /community/
           <span><i class="fa fa-code text-muted mr-1"></i> Python / PyTorch</span>
         </div>
       </div>
-    </div>
 
   <div class="project-output-grid">
       <div class="output-card">

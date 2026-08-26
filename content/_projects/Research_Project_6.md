@@ -7,7 +7,7 @@ active: true
 card_image: null
 card_title: AI Agent Authentication
 permalink: /projects/agent-identity-manager/
-status: completed
+status: ongoing
 external_url: 
 categories:
     - AI Agent Security

@@ -4,13 +4,10 @@ title: ISSLAB Community
 subtitle: Projects & Collaboration, Seminars, Tutorials
 permalink: /community/
 ---
-
 <div class="community-hub">
-
   <p class="lead text-center mb-4">
     The <strong>Intelligence Systems and Security Lab (ISSLab) Community</strong> brings undergraduate and graduate researchers, open-source developers, and cybersecurity enthusiasts together in an active, collaborative research environment.
   </p>
-
   <!-- Open Invitation / Call for Researchers Banner (Full Width & Clean) -->
   <div class="card mb-5 border-primary shadow-sm" style="background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%); border-left: 5px solid #2563eb;">
     <div class="card-body p-4">
@@ -31,7 +28,6 @@ permalink: /community/
       </div>
     </div>
   </div>
-
   <!-- Community Channels Section (3 Main Hubs: YouTube, LinkedIn, Google Group) -->
   <div class="channels-grid">
     <!-- YouTube Card -->
@@ -54,7 +50,6 @@ permalink: /community/
         Visit Channel <i class="fa fa-arrow-right"></i>
       </div>
     </a>
-
     <!-- LinkedIn Group Card -->
     <a href="https://www.linkedin.com/groups/9539313/" target="_blank" rel="noopener noreferrer" class="channel-card channel-card--linkedin">
       <div>
@@ -75,7 +70,6 @@ permalink: /community/
         Join LinkedIn Group <i class="fa fa-arrow-right"></i>
       </div>
     </a>
-
     <!-- Google Group Card -->
     <a href="https://groups.google.com/g/iss-lab-community" target="_blank" rel="noopener noreferrer" class="channel-card channel-card--google">
       <div>
@@ -97,9 +91,7 @@ permalink: /community/
       </div>
     </a>
   </div>
-
   <hr class="my-5">
-
   <!-- YouTube Video Archive (Direct Video Links with Real Thumbnails) -->
   <section class="mb-5">
     <div class="d-flex align-items-center justify-content-between flex-wrap mb-3">
@@ -111,7 +103,6 @@ permalink: /community/
         <i class="fa fa-youtube-play mr-1"></i> All Videos on @isslab_tr
       </a>
     </div>
-
     <div class="video-showcase-grid">
       <!-- Video 1: Community Call for Project -->
       <div class="video-card">
@@ -137,9 +128,7 @@ permalink: /community/
       </div>
     </div>
   </section>
-
   <hr class="my-5">
-
   <!-- Community Project Outputs Section -->
   <section class="mb-5">
     <div class="d-flex align-items-center justify-content-between flex-wrap mb-3">
@@ -148,7 +137,6 @@ permalink: /community/
         <p class="text-muted">Undergraduate research initiatives, prototypes, and technical poster outputs mentored within ISSLab</p>
       </div>
     </div>
-
     <div class="project-output-grid">
       <div class="output-card">
         <div class="output-badge"><i class="fa fa-shield"></i> ISSLab Supported </div>
@@ -161,7 +149,6 @@ permalink: /community/
           <span><i class="fa fa-code text-muted mr-1"></i> Go / JS</span>
         </div>
       </div>
-
   <div class="project-output-grid">
       <div class="output-card">
         <div class="output-badge"><i class="fa fa-balance-scale"></i> ISSLab Supported </div>
@@ -175,10 +162,8 @@ permalink: /community/
         </div>
       </div>
     </div>
-
     </div>
   </section>
-
     <!-- Engineering Research on Cyber Security Project Outputs Section -->
   <section class="mb-5">
     <div class="d-flex align-items-center justify-content-between flex-wrap mb-3">
@@ -187,7 +172,6 @@ permalink: /community/
         <p class="text-muted">These undergraduate graduation projects showcase our students' applied engineering research in cybersecurity.</p>
       </div>
     </div>
-
       <div class="project-output-grid">
         <div class="output-card">
           <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
@@ -204,7 +188,6 @@ permalink: /community/
           </div>
         </div>
       </div>       
-
       <div class="project-output-grid">
             <div class="output-card">
               <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
@@ -221,7 +204,6 @@ permalink: /community/
               </div>
             </div>
           </div>
-
       <div class="project-output-grid">
         <div class="output-card">
           <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
@@ -238,7 +220,6 @@ permalink: /community/
           </div>
         </div>
       </div>
-
       <div class="project-output-grid">
         <div class="output-card">
           <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
@@ -255,7 +236,6 @@ permalink: /community/
           </div>
         </div>
       </div>
-
       <div class="project-output-grid">
         <div class="output-card">
           <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
@@ -272,7 +252,6 @@ permalink: /community/
           </div>
         </div>
       </div>
-
       <div class="project-output-grid">
         <div class="output-card">
           <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
@@ -289,7 +268,6 @@ permalink: /community/
           </div>
         </div>
       </div>
-
       <div class="project-output-grid">
         <div class="output-card">
           <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
@@ -306,7 +284,6 @@ permalink: /community/
           </div>
         </div>
       </div>
-
       <div class="project-output-grid">
         <div class="output-card">
           <div class="output-badge"><i class="fa fa-graduation-cap"></i> Engineering Research</div>
@@ -323,7 +300,5 @@ permalink: /community/
           </div>
         </div>
       </div>
-
-      
   </section>
 </div>

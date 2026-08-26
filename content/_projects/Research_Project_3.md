@@ -7,7 +7,7 @@ active: true
 card_image: null
 card_title: Adversarial Attack
 permalink: /projects/black-box-adversarial-attack/
-status: ongoing
+status: completed
 external_url: 
 categories:
     - Adversarial Attack

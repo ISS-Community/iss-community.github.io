@@ -184,7 +184,7 @@ permalink: /community/
     <div class="d-flex align-items-center justify-content-between flex-wrap mb-3">
       <div>
         <h3 class="mb-1"><i class="fa fa-graduation-cap text-primary mr-2"></i>Engineering Research on Cybersecurity Projects</h3>
-        <p class="text-muted">Undergraduate research initiatives, prototypes, and technical poster outputs mentored within ISSLab</p>
+        <p class="text-muted">These undergraduate graduation projects showcase our students' applied engineering research in cybersecurity.</p>
       </div>
     </div>
 
@@ -203,6 +203,7 @@ permalink: /community/
             <span><i class="fa fa-code text-muted mr-1"></i> Python / PyTorch</span>
           </div>
         </div>
+      </div>       
 
       <div class="project-output-grid">
             <div class="output-card">

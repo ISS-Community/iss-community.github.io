@@ -283,8 +283,8 @@ permalink: /community/
             <span><i class="fa fa-users text-muted mr-1"></i> Metehan Yılmaz, Kerem Demircan, Oğuzhan Baklacıoğlu, Yunus Emre Karagöz</span>
           </div>
           <div class="output-meta">
-            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity & Distributed Systems</span>
-            <span><i class="fa fa-code text-muted mr-1"></i> IPFS / Redis / SQL Server</span>
+            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity / Dist. Systems</span>
+            <span><i class="fa fa-code text-muted mr-1"></i> IPFS / Redis </span>
           </div>
         </div>
       </div>
@@ -305,5 +305,24 @@ permalink: /community/
           </div>
         </div>
       </div>
+
+      <div class="project-output-grid">
+        <div class="output-card">
+          <div class="output-badge"><i class="fa fa-graduation-cap"></i> Engineering Research</div>
+          <div class="output-title">Comparison of Machine Learning Algorithms in Detecting Brute Force Attacks (2023)</div>
+          <div class="output-desc">
+            A study evaluating the effectiveness of different machine learning algorithms, such as Decision Tree, Random Forest, Naive Bayes, KNN, and Logistic Regression, in detecting MQTT brute force attacks on Internet of Things (IoT) devices.
+          </div>
+          <div class="output-meta" style="margin-bottom: 10px;">
+            <span><i class="fa fa-users text-muted mr-1"></i> İbrahim Yavuz, Ali Barış Çıkmaz</span>
+          </div>
+          <div class="output-meta">
+            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
+            <span><i class="fa fa-cogs text-muted mr-1"></i> Machine Learning</span>
+          </div>
+        </div>
+      </div>
+
+      
   </section>
 </div>

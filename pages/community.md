@@ -183,7 +183,7 @@ permalink: /community/
   <section class="mb-5">
     <div class="d-flex align-items-center justify-content-between flex-wrap mb-3">
       <div>
-        <h3 class="mb-1"><i class="fa fa-graduation-cap text-primary mr-2"></i>Engineering Research on Cyber Security Projects</h3>
+        <h3 class="mb-1"><i class="fa fa-graduation-cap text-primary mr-2"></i>Engineering Research on Cybersecurity Projects</h3>
         <p class="text-muted">Undergraduate research initiatives, prototypes, and technical poster outputs mentored within ISSLab</p>
       </div>
     </div>
@@ -199,7 +199,7 @@ permalink: /community/
               <span><i class="fa fa-users text-muted mr-1"></i> Alperen Gültekin, Yaren Amaç, Selin Uygunuçarlar</span>
           </div> 
           <div class="output-meta">
-            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cyber Security</span>
+            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
             <span><i class="fa fa-code text-muted mr-1"></i> Python / PyTorch</span>
           </div>
         </div>
@@ -234,6 +234,23 @@ permalink: /community/
           <div class="output-meta">
             <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
             <span><i class="fa fa-code text-muted mr-1"></i> Python / JavaScript</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="project-output-grid">
+        <div class="output-card">
+          <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+          <div class="output-title">ALTAY (2025)</div>
+          <div class="output-desc">
+            NLP-supported chatbot and backend API leveraging large language models (Llama 3.1) and Function Calling to retrieve and analyze dynamic cyber threat intelligence from the MITRE ATT&CK framework via natural language queries.
+          </div>
+          <div class="output-meta" style="margin-bottom: 10px;">
+            <span><i class="fa fa-users text-muted mr-1"></i> İsmet Kaan Çekiş, Keremcan Şeker, Mehmet Fatih Solak, Esma Koçak</span>
+          </div>
+          <div class="output-meta">
+            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
+            <span><i class="fa fa-code text-muted mr-1"></i> Python / TypeScript</span>
           </div>
         </div>
       </div>

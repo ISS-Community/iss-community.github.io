@@ -34,7 +34,15 @@
 
     {% if publication.abstract and publication.abstract != "" %}
       <div class="publication-abstract pt-2 border-top text-muted" style="font-size: 0.86rem; line-height: 1.6; text-align: justify;">
-        {{ publication.abstract }}
+        <details>
+          <summary style="cursor: pointer;">
+            {{ publication.abstract | truncatewords: 50 }}
+            <span class="text-primary" style="font-weight: 600; text-decoration: underline; margin-left: 4px;">[Read More]</span>
+          </summary>
+          <div class="pt-2 text-dark">
+            {{ publication.abstract }}
+          </div>
+        </details>
       </div>
     {% endif %}
   </div>

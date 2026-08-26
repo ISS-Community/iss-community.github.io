@@ -190,16 +190,17 @@ permalink: /community/
 
     <div class="project-output-grid">
       <div class="output-card">
-        <div class="output-badge"><i class="fa fa-shield"></i> ISSLab Supported </div>
-        <div class="output-title">ISS Vault</div>
+        <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+        <div class="output-title">Anomaly Detection and Decision Support System for DDoS Attacks (2026)</div>
         <div class="output-desc">
-          Open-source desktop application providing local XChaCha20-Poly1305 client-side encryption and Argon2id key derivation for automated, secure file synchronization with Google Drive.
+          Host-specific Autoencoder-based decision support system that automates flow-level anomaly detection and real-time behavioral firewall rule generation for DDoS mitigation.
         </div>
         <div class="output-meta">
-          <span><i class="fa fa-folder-o text-muted mr-1"></i> Cloud & File Security</span>
-          <span><i class="fa fa-code text-muted mr-1"></i> Go / JS</span>
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Network Security</span>
+          <span><i class="fa fa-code text-muted mr-1"></i> Python / PyTorch</span>
         </div>
       </div>
+    </div>
 
   <div class="project-output-grid">
       <div class="output-card">
@@ -214,7 +215,6 @@ permalink: /community/
         </div>
       </div>
     </div>
-
     </div>
   </section>
 

@@ -99,7 +99,7 @@
   role: Alumni
   status: alumni
   linkedin: https://www.linkedin.com/in/furkancetn/
-  
+
 - id: ismet_kaan_cekis
   name: İsmet Kaan Çekiş
   role: Alumni
@@ -111,7 +111,7 @@
   role: Alumni
   status: alumni
   linkedin: https://www.linkedin.com/in/volkanyigitt/
-  
+
 - id: bilal_alagha
   name: Bilal Alagha
   role: Alumni
@@ -124,7 +124,7 @@
   status: alumni
   linkedin: https://www.linkedin.com/in/alperen-g%C3%BCltekin-4aa514205/
 
- - id: m_fatih_solak
+- id: m_fatih_solak
   name: M. Fatih Solak
   role: Alumni
   status: alumni

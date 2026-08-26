@@ -94,8 +94,44 @@
   role: Community Member
   status: community
 
-- id: Alumni_Ahmet_Yilmaz
-  name: Ahmet Yılmaz
+- id: furkan_cetin
+  name: Furkan Çetin
   role: Alumni
   status: alumni
-  linkedin: https://www.linkedin.com/in/example-ahmet/
+  linkedin: https://www.linkedin.com/in/furkancetn/
+  
+- id: ismet_kaan_cekis
+  name: İsmet Kaan Çekiş
+  role: Alumni
+  status: alumni
+  linkedin: https://www.linkedin.com/in/ismet-kaan-cekis/
+
+- id: volkan_yigit
+  name: Volkan Yiğit
+  role: Alumni
+  status: alumni
+  linkedin: https://www.linkedin.com/in/volkanyigitt/
+  
+- id: bilal_alagha
+  name: Bilal Alagha
+  role: Alumni
+  status: alumni
+  linkedin: https://www.linkedin.com/in/mrbilalagha/
+
+ - id: m_fatih_solak
+  name: M. Fatih Solak
+  role: Alumni
+  status: alumni
+  linkedin: https://www.linkedin.com/in/mehmet-fatih-solak/
+
+- id: mustafa_ozgur
+  name: Mustafa Özgür
+  role: Alumni
+  status: alumni
+  linkedin: https://www.linkedin.com/in/mmustafaozgur/
+
+- id: h_erdem_ozkumus
+  name: H. Erdem Özkümüş
+  role: Alumni
+  status: alumni
+  linkedin: https://www.linkedin.com/in/hayati-erdem-ozkumus/

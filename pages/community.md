@@ -8,7 +8,7 @@ permalink: /community/
 <div class="community-hub">
 
   <p class="lead text-center mb-4">
-    The <strong>Intelligence Systems and Security Lab (ISSLab) Community</strong> brings together undergraduate and graduate researchers, open-source developers, and cybersecurity enthusiasts in an active, collaborative research environment.
+    The <strong>Intelligence Systems and Security Lab (ISSLab) Community</strong> brings undergraduate and graduate researchers, open-source developers, and cybersecurity enthusiasts together in an active, collaborative research environment.
   </p>
 
   <!-- Open Invitation / Call for Researchers Banner (Full Width & Clean) -->

@@ -61,6 +61,24 @@
   url: "https://ieeexplore.ieee.org/document/11268018"
   abstract: "Traditional authentication protocols, which rely on centralized identity providers, face significant challenges with latency and bandwidth consumption as modern information systems scale to a large number of users and real-time processing. Edge authentication offers a promising solution by shifting user verification to local devices, thereby reducing dependency on a central server. However, this approach requires a secure and efficient method for distributing authentication data to edge devices and ensuring a efficient verification process. This paper proposes a novel edge authentication protocol designed for efficiency and security, particularly for resource-constrained Internet of Things (IoT) devices. The protocol addresses the key challenges by leveraging a cryptographic accumulator. This data structure provides a compact and verifiable representation of the authentication database that can be securely distributed to edge devices. The core advantage is its ability to perform verification with an O(1) time complexity, which not only accelerates the process but also enables the system to operate effectively in low-bandwidth environments with a high number of users. The operational mechanism of this theoretical protocol is detailed, with future work planned for implementation and practical performance testing."
 
+- id: Furkan_2025_ISCTurkiye
+  date: 2025-10-22
+  pmid: null
+  pmcid: null
+  authors:
+    - Çetin F
+    - Gültekin A
+    - Çekiş İ K
+    - Özgür M
+    - Özçelik İ
+  title: "Flowzen: Modular and Scalable Network Monitoring Platform"
+  journal: "2025 18th International Conference on Information Security and Cryptology (ISCTürkiye)"
+  citation: "pp. 1-6"
+  year: 2025
+  url: "https://ieeexplore.ieee.org/abstract/document/11224821"
+  abstract: "The rapid acceleration of network digitalization and the growth of connected devices have amplified the need for scalable and efficient network traffic monitoring. Traditional monitoring solutions are often unfeasible in high-bandwidth environments due to high resource demands and latency. While flow-based approaches such as sFlow offer a scalable alternative, many existing open-source implementations have limitations, including incomplete protocol field support and poor performance under heavy traffic. The primary contribution of this work is the development of Flowzen, a novel network monitoring system that leverages real-time streaming architecture and a Horizontal Pod Autoscaling (HPA) mechanism to provide a scalable and resilient solution. By leveraging the HPA mechanism, the system demonstrates significant resilience, reducing packet loss from 52% to just 2.5% under high traffic loads and maintaining low latency where fixed-pod systems failed. While HPA proved effective in preventing bottlenecks, minor performance overhead was noted at low traffic levels. The paper details Flowzen's architecture, presents experimental findings, and concludes with a discussion of future work, including integration with NetFlow and IPFIX protocols and further optimization of dynamic scaling algorithms to enhance data consistency."
+
+
 - id: Apaydin_2025_ICFAR
   date: 2025-09-25
   pmid: null

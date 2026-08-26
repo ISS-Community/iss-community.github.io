@@ -140,11 +140,50 @@ permalink: /community/
 
   <hr class="my-5">
 
-  <!-- 2209 Project Outputs Section -->
+  <!-- Community Project Outputs Section -->
   <section class="mb-5">
     <div class="d-flex align-items-center justify-content-between flex-wrap mb-3">
       <div>
-        <h3 class="mb-1"><i class="fa fa-graduation-cap text-primary mr-2"></i>Community Project Outputs & Student Research</h3>
+        <h3 class="mb-1"><i class="fa fa-users text-primary mr-2"></i>ISSLab Community Projects</h3>
+        <p class="text-muted">Undergraduate research initiatives, prototypes, and technical poster outputs mentored within ISSLab</p>
+      </div>
+    </div>
+
+    <div class="project-output-grid">
+      <div class="output-card">
+        <div class="output-badge"><i class="fa fa-shield"></i> ISSLab Supported </div>
+        <div class="output-title">ISS Vault</div>
+        <div class="output-desc">
+          Open-source desktop application providing local XChaCha20-Poly1305 client-side encryption and Argon2id key derivation for automated, secure file synchronization with Google Drive.
+        </div>
+        <div class="output-meta">
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Cloud & File Security</span>
+          <span><i class="fa fa-code text-muted mr-1"></i> Go / JS</span>
+        </div>
+      </div>
+
+  <div class="project-output-grid">
+      <div class="output-card">
+        <div class="output-badge"><i class="fa fa-balance-scale"></i> ISSLab Supported </div>
+        <div class="output-title">H.E.Y.U.L.A.</div>
+        <div class="output-desc">
+          Automated Chrome extension for end-to-end EULA and Terms of Service analysis. Features a 5-stage document discovery pipeline and Gemini 2.5 Flash risk assessment to generate actionable 0–100 trust scores.
+        </div>
+        <div class="output-meta">
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Privacy </span>
+          <span><i class="fa fa-code text-muted mr-1"></i> JS / Manifest V3 </span>
+        </div>
+      </div>
+    </div>
+
+    </div>
+  </section>
+
+    <!-- Engineering Research on Cyber Security Project Outputs Section -->
+  <section class="mb-5">
+    <div class="d-flex align-items-center justify-content-between flex-wrap mb-3">
+      <div>
+        <h3 class="mb-1"><i class="fa fa-graduation-cap text-primary mr-2"></i>Engineering Research on Cyber Security Projects</h3>
         <p class="text-muted">Undergraduate research initiatives, prototypes, and technical poster outputs mentored within ISSLab</p>
       </div>
     </div>

@@ -255,6 +255,24 @@ permalink: /community/
         </div>
       </div>
 
+      <div class="project-output-grid">
+        <div class="output-card">
+          <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+          <div class="output-title">Blockchain-Based Identity Authentication System (2025)</div>
+          <div class="output-desc">
+            A distributed identity authentication protocol utilizing cryptographic accumulators and the Sawtooth blockchain framework to enhance security, reduce network latency, and eliminate central server dependency.
+          </div>
+          <div class="output-meta" style="margin-bottom: 10px;">
+            <span><i class="fa fa-users text-muted mr-1"></i> Armağan Toros, Volkan Yiğit, Emre Akan, Şafak Kurt</span>
+          </div>
+          <div class="output-meta">
+            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity / Blockchain</span>
+            <span><i class="fa fa-code text-muted mr-1"></i> Python / Flask</span>
+          </div>
+        </div>
+      </div>
+
+
 
   </section>
 

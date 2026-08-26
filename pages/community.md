@@ -221,6 +221,24 @@ permalink: /community/
             </div>
           </div>
 
+      <div class="project-output-grid">
+        <div class="output-card">
+          <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+          <div class="output-title">SynGuard-SDN (2026)</div>
+          <div class="output-desc">
+            Machine learning-based Intrusion Detection System (IDS) capable of detecting SYN flood attacks in real time by using active flow data collected from Software-Defined Networks (SDN) environments.
+          </div>
+          <div class="output-meta" style="margin-bottom: 10px;">
+            <span><i class="fa fa-users text-muted mr-1"></i> Umut Öztürk, Abdullah Taha Aydın, Eren Eroğlu, Atakan Berber</span>
+          </div>
+          <div class="output-meta">
+            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
+            <span><i class="fa fa-code text-muted mr-1"></i> Python / JavaScript</span>
+          </div>
+        </div>
+      </div>
+
+
   </section>
 
 </div>

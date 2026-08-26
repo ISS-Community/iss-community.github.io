@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Intelligence Systems and Security Lab (ISSLab)
-subtitle: Smart and Secure
+subtitle: Smart & Secure
 permalink: /
 ---
 The **Intelligent Systems Security Laboratory (ISSLab)** investigates the design of secure, resilient, and adaptive architectures for next-generation computing and communication systems. Modern infrastructures increasingly rely on distributed, intelligent subsystems that introduce complex attack surfaces; our research addresses these vulnerabilities through three interconnected domains:

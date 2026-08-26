@@ -188,19 +188,6 @@ permalink: /community/
       </div>
     </div>
 
-    <div class="project-output-grid">
-      <div class="output-card">
-        <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
-        <div class="output-title">Anomaly Detection and Decision Support System for DDoS Attacks (2026)</div>
-        <div class="output-desc">
-          Host-specific Autoencoder-based decision support system that automates flow-level anomaly detection and real-time behavioral firewall rule generation for DDoS mitigation.
-        </div>
-        <div class="output-meta">
-          <span><i class="fa fa-folder-o text-muted mr-1"></i> Network Security</span>
-          <span><i class="fa fa-code text-muted mr-1"></i> Python / PyTorch</span>
-        </div>
-      </div>
-
       <div class="project-output-grid">
         <div class="output-card">
           <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
@@ -217,21 +204,23 @@ permalink: /community/
         </div>
       </div>
 
+      <div class="project-output-grid">
+            <div class="output-card">
+              <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+              <div class="output-title">PHOENIX (2026)</div>
+              <div class="output-desc">
+                Deep learning-based Chrome browser extension and backend API designed for the real-time detection and evaluation of phishing websites using URL feature extraction.
+              </div>
+              <div class="output-meta" style="margin-bottom: 10px;">
+                <span><i class="fa fa-users text-muted mr-1"></i> Dide Şengül, Ata Can Özcihan</span>
+              </div>
+              <div class="output-meta">
+                <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
+                <span><i class="fa fa-code text-muted mr-1"></i> Python / JavaScript</span>
+              </div>
+            </div>
+          </div>
 
-  <div class="project-output-grid">
-      <div class="output-card">
-        <div class="output-badge"><i class="fa fa-balance-scale"></i> ISSLab Supported </div>
-        <div class="output-title">H.E.Y.U.L.A.</div>
-        <div class="output-desc">
-          Automated Chrome extension for end-to-end EULA and Terms of Service analysis. Features a 5-stage document discovery pipeline and Gemini 2.5 Flash risk assessment to generate actionable 0–100 trust scores.
-        </div>
-        <div class="output-meta">
-          <span><i class="fa fa-folder-o text-muted mr-1"></i> Privacy </span>
-          <span><i class="fa fa-code text-muted mr-1"></i> JS / Manifest V3 </span>
-        </div>
-      </div>
-    </div>
-    </div>
   </section>
 
 </div>

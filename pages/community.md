@@ -272,6 +272,23 @@ permalink: /community/
         </div>
       </div>
 
+      <div class="project-output-grid">
+        <div class="output-card">
+          <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+          <div class="output-title">Distributed and Encrypted File Sharing System (2024)</div>
+          <div class="output-desc">
+            A decentralized application utilizing IPFS and hybrid encryption for secure individual and group file transfers. It implements a nonce-based heartbeat mechanism with digital signatures and Redis to track real-time user presence and prevent IP spoofing.
+          </div>
+          <div class="output-meta" style="margin-bottom: 10px;">
+            <span><i class="fa fa-users text-muted mr-1"></i> Metehan Yılmaz, Kerem Demircan, Oğuzhan Baklacıoğlu, Yunus Emre Karagöz</span>
+          </div>
+          <div class="output-meta">
+            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity & Distributed Systems</span>
+            <span><i class="fa fa-code text-muted mr-1"></i> IPFS / Redis / SQL Server</span>
+          </div>
+        </div>
+      </div>
+
 
 
   </section>

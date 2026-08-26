@@ -194,15 +194,15 @@ permalink: /community/
           <div class="output-title">DDoS Anomaly Detection and Decision Support System (2026)</div>
           <div class="output-desc">
             A host-specific autoencoder-based decision support system that automates anomaly detection and response processes for DDoS attacks, building upon FastNetMon Advanced and Akvorado components.
-            <br><br>
-            <strong>Project Members:</strong> Alperen Gültekin, Yaren Amaç, Selin Uygunuçarlar
           </div>
+          <div class="output-meta" style="margin-bottom: 10px;">
+              <span><i class="fa fa-users text-muted mr-1"></i> Alperen Gültekin, Yaren Amaç, Selin Uygunuçarlar</span>
+          </div> 
           <div class="output-meta">
             <span><i class="fa fa-folder-o text-muted mr-1"></i> Cyber Security</span>
             <span><i class="fa fa-code text-muted mr-1"></i> Python / PyTorch</span>
           </div>
         </div>
-      </div>
 
       <div class="project-output-grid">
             <div class="output-card">

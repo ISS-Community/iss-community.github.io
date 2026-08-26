@@ -118,6 +118,12 @@
   status: alumni
   linkedin: https://www.linkedin.com/in/mrbilalagha/
 
+- id: alperen_gultekin
+  name: Alperen Gültekin
+  role: Alumni
+  status: alumni
+  linkedin: https://www.linkedin.com/in/alperen-g%C3%BCltekin-4aa514205/
+
  - id: m_fatih_solak
   name: M. Fatih Solak
   role: Alumni

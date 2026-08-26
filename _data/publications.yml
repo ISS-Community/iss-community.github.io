@@ -314,7 +314,7 @@
   citation: "pp. 138-142"
   year: 2021
   url: "https://ieeexplore.ieee.org/document/9654337"
-  abstract: "The MQTT protocol is widely used in IoT systems. In this study, the architecture and operation of MQTT are detailed, potential vulnerabilities and attack types are categorized, and modern security mechanisms are evaluated."
+  abstract: "It is possible to talk about the concept of IoT in every environment where there is the Internet and devices that can connect to the Internet in various ways. An IoT system may include various devices such as sensors, machines, applications, etc. to improve the quality of people’s lives or the value of business income. The MQTT protocol is the most widely used protocol for the communication of these devices in IoT systems. Since it is a part of our daily life, it has become essential to examine the weaknesses of this protocol and provide solutions to them. In this study, the structure and operation of the MQTT protocol are detailed, possible attack types are classified, and their properties are examined. Then, the security solutions for the MQTT protocol are examined under two categories and the studies done in recent years are included. With the proposed study, it is aimed to examine the security issues of the MQTT protocol and to guide future studies by creating a knowledge base in this field."
 
 - id: Ozcelik_2021_CAPEN
   date: 2021-06-28
@@ -327,7 +327,7 @@
   citation: "pp. 1-6"
   year: 2021
   url: "https://ieeexplore.ieee.org/document/9486313"
-  abstract: "CAPEN proposes a novel cryptographic accumulator-based privacy-preserving exposure notification protocol using asymmetric accumulators and greatest common divisor testing to achieve high privacy with minimal communication overhead."
+  abstract: "Contact tracing has a significant contribution in preventing the rapid spread of infectious diseases. During the COVID-19 pandemic, local authorities, researchers and the tech industry focused on developing digital contact tracing applications to automate tracing efforts and improve its efficiency. While digital contact tracing was proven to be an efficient method to mitigate transmission, the security and privacy of the user data remains a major concern. In this paper we focused on digital tracing application data privacy issues and proposed Cryptographic Accumulator based Privacy Preserving Exposure Notification module (CAPEN). In the CAPEN module we used an asymmetric cryptographic accumulator and greatest common divisor (gcd) function to provide privacy for the user data while providing accurate verification. Additionally, the CAPEN module has a significantly lower communication complexity while sharing larger datasets. The CAPEN module is architecture independent and can be easily incorporated with any digital contact tracing system in order to prevent enumeration and social graph attacks without compromising contact verification accuracy."
 
 - id: Atasever_2020_SIU
   date: 2020-10-05
@@ -342,7 +342,7 @@
   citation: "pp. 1-4"
   year: 2020
   url: "https://ieeexplore.ieee.org/document/9302121"
-  abstract: "This study surveys machine learning-based approaches for Distributed Denial of Service (DDoS) attack detection, comparing techniques based on detection efficiency, computational load, and scalability."
+  abstract: "Many detection approaches have been proposed to address growing threat of Distributed Denial of Service (DDoS) attacks on the Internet. The attack detection is the initial step in most of the mitigation systems. This study examined the methods used to detect DDoS attacks with the focus on learning based approaches. These approaches were compared based on their efficiency, operating load and scalability. Finally, it is discussed in details."
 
 - id: Ozcelik_2020_Book_DDoS
   date: 2020-03-01
@@ -371,7 +371,7 @@
   citation: "23(1), 238-244"
   year: 2019
   url: "https://dergipark.org.tr/tr/pub/sdufenbed/article/507948"
-  abstract: "This study examines the historical evolution of DDoS attacks and their role in cyber terrorism, categorizing attack mechanisms and presenting defense strategies against cyber terror threats."
+  abstract: "DDoS is now used as an effective tool in cyber terrorism, however in the 1980s, script kiddies performed DDoS as a way to show off their abilities. It wasn’t until the 1990s, that cyber criminals realized they could use these attacks to damage e-commerce companies. During this time, DDoS attacks were used as an extortion tool. In the new millenium, people began using these attacks as a tool for cyber protest. This study investigates the evolution of DDoS attack motivations, classifies the attack approaches, and explains them with examples. Also presents the connection between cyber terrorism and DDoS attacks."
 
 - id: Ozcelik_2018_TRCyberLab
   date: 2018-05-07
@@ -386,4 +386,4 @@
   citation: "pp. 1-5"
   year: 2018
   url: "https://ieeexplore.ieee.org/document/8355396"
-  abstract: "In this paper, we propose a national information and communication technologies and security testbed, TRCyberLab, providing a roadmap for testbed establishment and cyber experimentation for researchers in Turkey."
+  abstract: "The digital world is continuously changing, and new technologies affecting every aspect of our life. In order to keep up with these changes and have some impact and/or control over it; we must conduct advanced research on information technologies, future networks and security. In addition, we must educate the necessary human resource for the field. Today, developed countries are establishing large-scale research and education testbeds to support their researchers. Using these testbeds, they seek to increase their impact in the technology and security fields. In this paper, we propose a national information and communication technologies and security testbed, TRCyberLab. We also propose a road-map for the establishment and sustainment of this testbed. We believe, this testbed will help researchers in Turkey to conduct advanced research and develop new technologies also have an impact in the field."

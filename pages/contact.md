@@ -7,7 +7,7 @@ permalink: /contact/
 ### Director
 
 **İlker Özçelik, Ph.D.**  
-Director, Intelligence Systems and Security Lab (ISSLab)  
+Director, Intelligent Systems Security Lab (ISSLab)  
 Assistant Professor, Department of Software Engineering  
 Eskişehir Osmangazi University  
 

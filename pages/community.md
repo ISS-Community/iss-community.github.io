@@ -200,100 +200,88 @@ permalink: /community/
             <span><i class="fa fa-code text-muted mr-1"></i> Python / JavaScript</span>
           </div>
         </div>
-      <div class="project-output-grid">
-        <div class="output-card">
-          <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
-          <div class="output-title">SynGuard-SDN (2026)</div>
-          <div class="output-desc">
-            Machine learning-based Intrusion Detection System (IDS) capable of detecting SYN flood attacks in real time by using active flow data collected from Software-Defined Networks (SDN) environments.
-          </div>
-          <div class="output-meta" style="margin-bottom: 10px;">
-            <span><i class="fa fa-users text-muted mr-1"></i> Umut Öztürk, Abdullah Taha Aydın, Eren Eroğlu, Atakan Berber</span>
-          </div>
-          <div class="output-meta">
-            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
-            <span><i class="fa fa-code text-muted mr-1"></i> Python / JavaScript</span>
-          </div>
+      <div class="output-card">
+        <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+        <div class="output-title">SynGuard-SDN (2026)</div>
+        <div class="output-desc">
+          Machine learning-based Intrusion Detection System (IDS) capable of detecting SYN flood attacks in real time by using active flow data collected from Software-Defined Networks (SDN) environments.
+        </div>
+        <div class="output-meta" style="margin-bottom: 10px;">
+          <span><i class="fa fa-users text-muted mr-1"></i> Umut Öztürk, Abdullah Taha Aydın, Eren Eroğlu, Atakan Berber</span>
+        </div>
+        <div class="output-meta">
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
+          <span><i class="fa fa-code text-muted mr-1"></i> Python / JavaScript</span>
         </div>
       </div>
-      <div class="project-output-grid">
-        <div class="output-card">
-          <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
-          <div class="output-title">ALTAY (2025)</div>
-          <div class="output-desc">
-            NLP-supported chatbot and backend API leveraging large language models (Llama 3.1) and Function Calling to retrieve and analyze dynamic cyber threat intelligence from the MITRE ATT&CK framework via natural language queries.
-          </div>
-          <div class="output-meta" style="margin-bottom: 10px;">
-            <span><i class="fa fa-users text-muted mr-1"></i> İsmet Kaan Çekiş, Keremcan Şeker, Mehmet Fatih Solak, Esma Koçak</span>
-          </div>
-          <div class="output-meta">
-            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
-            <span><i class="fa fa-code text-muted mr-1"></i> Python / TypeScript</span>
-          </div>
+      <div class="output-card">
+        <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+        <div class="output-title">ALTAY (2025)</div>
+        <div class="output-desc">
+          NLP-supported chatbot and backend API leveraging large language models (Llama 3.1) and Function Calling to retrieve and analyze dynamic cyber threat intelligence from the MITRE ATT&CK framework via natural language queries.
+        </div>
+        <div class="output-meta" style="margin-bottom: 10px;">
+          <span><i class="fa fa-users text-muted mr-1"></i> İsmet Kaan Çekiş, Keremcan Şeker, Mehmet Fatih Solak, Esma Koçak</span>
+        </div>
+        <div class="output-meta">
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
+          <span><i class="fa fa-code text-muted mr-1"></i> Python / TypeScript</span>
         </div>
       </div>
-      <div class="project-output-grid">
-        <div class="output-card">
-          <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
-          <div class="output-title">Blockchain-Based Identity Authentication System (2025)</div>
-          <div class="output-desc">
-            A distributed identity authentication protocol utilizing cryptographic accumulators and the Sawtooth blockchain framework to enhance security, reduce network latency, and eliminate central server dependency.
-          </div>
-          <div class="output-meta" style="margin-bottom: 10px;">
-            <span><i class="fa fa-users text-muted mr-1"></i> Armağan Toros, Volkan Yiğit, Emre Akan, Şafak Kurt</span>
-          </div>
-          <div class="output-meta">
-            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity / Blockchain</span>
-            <span><i class="fa fa-code text-muted mr-1"></i> Python / Flask</span>
-          </div>
+      <div class="output-card">
+        <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+        <div class="output-title">Blockchain-Based Identity Authentication System (2025)</div>
+        <div class="output-desc">
+          A distributed identity authentication protocol utilizing cryptographic accumulators and the Sawtooth blockchain framework to enhance security, reduce network latency, and eliminate central server dependency.
+        </div>
+        <div class="output-meta" style="margin-bottom: 10px;">
+          <span><i class="fa fa-users text-muted mr-1"></i> Armağan Toros, Volkan Yiğit, Emre Akan, Şafak Kurt</span>
+        </div>
+        <div class="output-meta">
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity / Blockchain</span>
+          <span><i class="fa fa-code text-muted mr-1"></i> Python / Flask</span>
         </div>
       </div>
-      <div class="project-output-grid">
-        <div class="output-card">
-          <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
-          <div class="output-title">Distributed and Encrypted File Sharing System (2024)</div>
-          <div class="output-desc">
-            A decentralized application utilizing IPFS and hybrid encryption for secure individual and group file transfers. It implements a nonce-based heartbeat mechanism with digital signatures and Redis to track real-time user presence and prevent IP spoofing.
-          </div>
-          <div class="output-meta" style="margin-bottom: 10px;">
-            <span><i class="fa fa-users text-muted mr-1"></i> Metehan Yılmaz, Kerem Demircan, Oğuzhan Baklacıoğlu, Yunus Emre Karagöz</span>
-          </div>
-          <div class="output-meta">
-            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity / Dist. Systems</span>
-            <span><i class="fa fa-code text-muted mr-1"></i> IPFS / Redis </span>
-          </div>
+      <div class="output-card">
+        <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+        <div class="output-title">Distributed and Encrypted File Sharing System (2024)</div>
+        <div class="output-desc">
+          A decentralized application utilizing IPFS and hybrid encryption for secure individual and group file transfers. It implements a nonce-based heartbeat mechanism with digital signatures and Redis to track real-time user presence and prevent IP spoofing.
+        </div>
+        <div class="output-meta" style="margin-bottom: 10px;">
+          <span><i class="fa fa-users text-muted mr-1"></i> Metehan Yılmaz, Kerem Demircan, Oğuzhan Baklacıoğlu, Yunus Emre Karagöz</span>
+        </div>
+        <div class="output-meta">
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity / Dist. Systems</span>
+          <span><i class="fa fa-code text-muted mr-1"></i> IPFS / Redis </span>
         </div>
       </div>
-      <div class="project-output-grid">
-        <div class="output-card">
-          <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
-          <div class="output-title">Keylogger Application for Parental Monitoring (2023)</div>
-          <div class="output-desc">
-            Python-based keylogger software designed to monitor children's internet activity by capturing keystrokes in the background and sending automated email reports of suspicious text to parents or legal guardians.
-          </div>
-          <div class="output-meta" style="margin-bottom: 10px;">
-            <span><i class="fa fa-users text-muted mr-1"></i> Eddy Ngabo Shami</span>
-          </div>
-          <div class="output-meta">
-            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
-            <span><i class="fa fa-code text-muted mr-1"></i> Python</span>
-          </div>
+      <div class="output-card">
+        <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+        <div class="output-title">Keylogger Application for Parental Monitoring (2023)</div>
+        <div class="output-desc">
+          Python-based keylogger software designed to monitor children's internet activity by capturing keystrokes in the background and sending automated email reports of suspicious text to parents or legal guardians.
+        </div>
+        <div class="output-meta" style="margin-bottom: 10px;">
+          <span><i class="fa fa-users text-muted mr-1"></i> Eddy Ngabo Shami</span>
+        </div>
+        <div class="output-meta">
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
+          <span><i class="fa fa-code text-muted mr-1"></i> Python</span>
         </div>
       </div>
-      <div class="project-output-grid">
-        <div class="output-card">
-          <div class="output-badge"><i class="fa fa-graduation-cap"></i> Engineering Research</div>
-          <div class="output-title">Comparison of Machine Learning Algorithms in Detecting Brute Force Attacks (2023)</div>
-          <div class="output-desc">
-            A study evaluating the effectiveness of different machine learning algorithms, such as Decision Tree, Random Forest, Naive Bayes, KNN, and Logistic Regression, in detecting MQTT brute force attacks on Internet of Things (IoT) devices.
-          </div>
-          <div class="output-meta" style="margin-bottom: 10px;">
-            <span><i class="fa fa-users text-muted mr-1"></i> İbrahim Yavuz, Ali Barış Çıkmaz </span>
-          </div>
-          <div class="output-meta">
-            <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
-            <span><i class="fa fa-cogs text-muted mr-1"></i> Machine Learning</span>
-          </div>
+      <div class="output-card">
+        <div class="output-badge"><i class="fa fa-graduation-cap"></i> Engineering Research</div>
+        <div class="output-title">Comparison of Machine Learning Algorithms in Detecting Brute Force Attacks (2023)</div>
+        <div class="output-desc">
+          A study evaluating the effectiveness of different machine learning algorithms, such as Decision Tree, Random Forest, Naive Bayes, KNN, and Logistic Regression, in detecting MQTT brute force attacks on Internet of Things (IoT) devices.
+        </div>
+        <div class="output-meta" style="margin-bottom: 10px;">
+          <span><i class="fa fa-users text-muted mr-1"></i> İbrahim Yavuz, Ali Barış Çıkmaz </span>
+        </div>
+        <div class="output-meta">
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
+          <span><i class="fa fa-cogs text-muted mr-1"></i> Machine Learning</span>
         </div>
       </div>
   </section>

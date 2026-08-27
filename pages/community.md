@@ -284,5 +284,4 @@ permalink: /community/
           <span><i class="fa fa-cogs text-muted mr-1"></i> Machine Learning</span>
         </div>
       </div>
-  </section>
 </div>

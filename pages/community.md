@@ -164,7 +164,8 @@ permalink: /community/
     </div>
     </div>
   </section>
-    <!-- Engineering Research on Cyber Security Project Outputs Section -->
+  <hr class="my-5">
+  <!-- Engineering Research on Cyber Security Project Outputs Section -->
   <section class="mb-5">
     <div class="d-flex align-items-center justify-content-between flex-wrap mb-3">
       <div>

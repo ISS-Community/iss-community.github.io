@@ -171,38 +171,35 @@ permalink: /community/
         <p class="text-muted">These undergraduate graduation projects showcase our students' applied engineering research in cybersecurity.</p>
       </div>
     </div>
-      <div class="project-output-grid">
-        <div class="output-card">
+    <div class="project-output-grid">
+      <div class="output-card">
+        <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
+        <div class="output-title">DDoS Anomaly Detection and Decision Support System (2026)</div>
+        <div class="output-desc">
+          A host-specific autoencoder-based decision support system that automates anomaly detection and response processes for DDoS attacks, building upon FastNetMon Advanced and Akvorado components.
+        </div>
+        <div class="output-meta" style="margin-bottom: 10px;">
+            <span><i class="fa fa-users text-muted mr-1"></i> Alperen Gültekin, Yaren Amaç, Selin Uygunuçarlar</span>
+        </div> 
+        <div class="output-meta">
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
+          <span><i class="fa fa-code text-muted mr-1"></i> Python / PyTorch</span>
+        </div>
+      </div>
+      <div class="output-card">
           <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
-          <div class="output-title">DDoS Anomaly Detection and Decision Support System (2026)</div>
+          <div class="output-title">PHOENIX (2026)</div>
           <div class="output-desc">
-            A host-specific autoencoder-based decision support system that automates anomaly detection and response processes for DDoS attacks, building upon FastNetMon Advanced and Akvorado components.
+            Deep learning-based Chrome browser extension and backend API designed for the real-time detection and evaluation of phishing websites using URL feature extraction.
           </div>
           <div class="output-meta" style="margin-bottom: 10px;">
-              <span><i class="fa fa-users text-muted mr-1"></i> Alperen Gültekin, Yaren Amaç, Selin Uygunuçarlar</span>
-          </div> 
+            <span><i class="fa fa-users text-muted mr-1"></i> Dide Şengül, Ata Can Özcihan</span>
+          </div>
           <div class="output-meta">
             <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
-            <span><i class="fa fa-code text-muted mr-1"></i> Python / PyTorch</span>
+            <span><i class="fa fa-code text-muted mr-1"></i> Python / JavaScript</span>
           </div>
         </div>
-      </div>       
-      <div class="project-output-grid">
-            <div class="output-card">
-              <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
-              <div class="output-title">PHOENIX (2026)</div>
-              <div class="output-desc">
-                Deep learning-based Chrome browser extension and backend API designed for the real-time detection and evaluation of phishing websites using URL feature extraction.
-              </div>
-              <div class="output-meta" style="margin-bottom: 10px;">
-                <span><i class="fa fa-users text-muted mr-1"></i> Dide Şengül, Ata Can Özcihan</span>
-              </div>
-              <div class="output-meta">
-                <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
-                <span><i class="fa fa-code text-muted mr-1"></i> Python / JavaScript</span>
-              </div>
-            </div>
-          </div>
       <div class="project-output-grid">
         <div class="output-card">
           <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>

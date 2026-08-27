@@ -284,6 +284,9 @@ permalink: /community/
         <div class="output-meta" style="margin-bottom: 10px;">
           <span><i class="fa fa-users text-muted mr-1"></i> İbrahim Yavuz, Ali Barış Çıkmaz </span>
         </div>
+        <div class="output-meta">
+          <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
+          <span><i class="fa fa-cogs text-muted mr-1"></i> Machine Learning</span>
         </div>
       </div>
     </div>

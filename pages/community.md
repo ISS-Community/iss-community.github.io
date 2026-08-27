@@ -6,7 +6,7 @@ permalink: /community/
 ---
 <div class="community-hub">
   <p class="lead text-center mb-4">
-    The <strong>Intelligence Systems and Security Lab (ISSLab) Community</strong> brings undergraduate and graduate researchers, open-source developers, and cybersecurity enthusiasts together in an active, collaborative research environment.
+    The <strong>Intelligent Systems Security Lab (ISSLab) Community</strong> brings undergraduate and graduate researchers, open-source developers, and cybersecurity enthusiasts together in an active, collaborative research environment.
   </p>
   <!-- Open Invitation / Call for Researchers Banner (Full Width & Clean) -->
   <div class="card mb-5 border-primary shadow-sm" style="background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%); border-left: 5px solid #2563eb;">
@@ -149,7 +149,6 @@ permalink: /community/
           <span><i class="fa fa-code text-muted mr-1"></i> Go / JS</span>
         </div>
       </div>
-  <div class="project-output-grid">
       <div class="output-card">
         <div class="output-badge"><i class="fa fa-balance-scale"></i> ISSLab Supported </div>
         <div class="output-title">H.E.Y.U.L.A.</div>
@@ -161,7 +160,6 @@ permalink: /community/
           <span><i class="fa fa-code text-muted mr-1"></i> JS / Manifest V3 </span>
         </div>
       </div>
-    </div>
     </div>
   </section>
   <hr class="my-5">

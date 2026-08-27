@@ -292,7 +292,7 @@ permalink: /community/
             A study evaluating the effectiveness of different machine learning algorithms, such as Decision Tree, Random Forest, Naive Bayes, KNN, and Logistic Regression, in detecting MQTT brute force attacks on Internet of Things (IoT) devices.
           </div>
           <div class="output-meta" style="margin-bottom: 10px;">
-            <span><i class="fa fa-users text-muted mr-1"></i> İbrahim Yavuz, Ali Barış Çıkmaz</span>
+            <span><i class="fa fa-users text-muted mr-1"></i> İbrahim Yavuz, Ali Barış Çıkmaz </span>
           </div>
           <div class="output-meta">
             <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>

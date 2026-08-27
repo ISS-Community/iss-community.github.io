@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Intelligence Systems and Security Lab (ISSLab)
+title: Intelligent Systems Security Lab (ISSLab)
 subtitle: Smart & Secure
 permalink: /
 ---

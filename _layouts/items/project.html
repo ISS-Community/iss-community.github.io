@@ -12,6 +12,12 @@ suppress_narrow_ticker: true
   <div class="col-md-10 mx-auto {{ item_class }}"> <!-- col-lg-8 -->
     {{ content }}
     {% include lists/events.html %}
+
+    <div style="text-align:center;margin-top:2rem;margin-bottom:1rem;">
+      <a href="{{ '/projects/' | relative_url }}" style="font-size:0.9rem;font-weight:600;color:#2563eb;text-decoration:none;">
+        &larr; Back to Projects
+      </a>
+    </div>
   </div>
 
   {% include lists/news-ticker.html %}

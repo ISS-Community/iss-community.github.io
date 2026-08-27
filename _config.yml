@@ -3,7 +3,7 @@
 #-------------------------------------------------------------------------------------
 version: 64 # increment version to force a site rebuild and update Recent News even if content is unchanged
 title: ISSLab # in top navigation bar (navbar) and <head>
-description: Intelligence Systems and Security Lab (ISSLab) - Eskişehir Osmangazi University # description in <head>
+description: Intelligent Systems Security Laboratory (ISSLab) - Eskişehir Osmangazi University # description in <head>
 author: ISSLAB                    # for copyright statement in footer
 url: "https://isslab.co" # no slash at the end
 # baseurl: "/sitename"              # only required if your site is on a subdomain e.g. https://username.github.io/sitename

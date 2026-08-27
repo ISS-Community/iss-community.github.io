@@ -21,8 +21,8 @@ categories:
 
   <div class="alert alert-info border-primary mb-4 p-3" style="border-left: 4px solid #2563eb; background: #f0f7ff;">
     <strong>Research Focus:</strong> Developing a decentralized, low-latency, and scalable identity verification framework for autonomous AI agents and multi-agent systems.<br>
-    <strong>Funding / Support:</strong> Intelligent Systems Security Research Group (ISSLab)<br>
-    <strong>Academic Supervision and Institutional Context:</strong> Intelligent Systems Security Lab (ISSLab), Eskisehir Osmangazi University (M.Sc. Thesis: Furkan Taşkın; Advisor: Dr. İlker Özçelik).<br>
+    <strong>Funding / Support:</strong> Intelligent Systems Security Laboratory (ISSLab)<br>
+    <strong>Academic Supervision and Institutional Context:</strong> Intelligent Systems Security Laboratory (ISSLab), Eskisehir Osmangazi University (M.Sc. Thesis: Furkan Taşkın; Advisor: Dr. İlker Özçelik).<br>
   </div>
 
   <h3>Research Motivation</h3>

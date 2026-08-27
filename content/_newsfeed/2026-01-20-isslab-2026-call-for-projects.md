@@ -10,7 +10,7 @@ youtube_url: "https://www.youtube.com/watch?v=w57ojUBgFFE"
 linkedin_url: "https://www.linkedin.com/groups/9539313/"
 ---
 
-On **January 20, 2026**, the **Intelligent Systems Security Research Laboratory (ISSLab)** at Eskişehir Osmangazi University published its official call for student researchers and TÜBİTAK 2209 projects.
+On **January 20, 2026**, the **Intelligent Systems Security Laboratory (ISSLab)** at Eskişehir Osmangazi University published its official call for student researchers and TÜBİTAK 2209 projects.
 
 <div class="my-4 text-center">
   <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer">

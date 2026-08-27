@@ -1,0 +1,25 @@
+﻿---
+layout: base/base
+---
+
+{%- assign all_projects = site.projects | sort: "order" -%}
+
+<div class="row">
+  <div class="col-md-10 mx-auto">
+    {{ content }}
+
+    <div class="row cards mt-4">
+      {% for project in all_projects %}
+        <div class="col-md-6 col-lg-4">
+          {% include cards/project-card.html %}
+        </div>
+      {% endfor %}
+    </div>
+
+    <div style="text-align:center;margin-top:1.5rem;">
+      <a href="{{ '/projects/' | relative_url }}" style="font-size:0.9rem;font-weight:600;color:#2563eb;text-decoration:none;">
+        &larr; Back to Projects
+      </a>
+    </div>
+  </div>
+</div>

@@ -6,7 +6,7 @@ permalink: /community/
 ---
 <div class="community-hub">
   <p class="lead text-center mb-4">
-    The <strong>Intelligent Systems Security Lab (ISSLab) Community</strong> brings undergraduate and graduate researchers, open-source developers, and cybersecurity enthusiasts together in an active, collaborative research environment.
+    The <strong>Intelligent Systems Security Laboratory (ISSLab) Community</strong> brings undergraduate and graduate researchers, open-source developers, and cybersecurity enthusiasts together in an active, collaborative research environment.
   </p>
   <!-- Open Invitation / Call for Researchers Banner (Full Width & Clean) -->
   <div class="card mb-5 border-primary shadow-sm" style="background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%); border-left: 5px solid #2563eb;">
@@ -161,6 +161,11 @@ permalink: /community/
         </div>
       </div>
     </div>
+    <div style="text-align:center;margin-top:1.2rem;">
+      <a href="/all-community-projects/" style="font-size:0.9rem;font-weight:600;color:#2563eb;text-decoration:none;">
+        All Community Projects →
+      </a>
+    </div>
   </section>
   <hr class="my-5">
   <!-- Engineering Research on Cyber Security Project Outputs Section -->
@@ -228,7 +233,7 @@ permalink: /community/
           <span><i class="fa fa-code text-muted mr-1"></i> Python / TypeScript</span>
         </div>
       </div>
-      <div class="output-card">
+      <div class="output-card" style="display:none;">
         <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
         <div class="output-title">Blockchain-Based Identity Authentication System (2025)</div>
         <div class="output-desc">
@@ -242,7 +247,7 @@ permalink: /community/
           <span><i class="fa fa-code text-muted mr-1"></i> Python / Flask</span>
         </div>
       </div>
-      <div class="output-card">
+      <div class="output-card" style="display:none;">
         <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
         <div class="output-title">Distributed and Encrypted File Sharing System (2024)</div>
         <div class="output-desc">
@@ -256,7 +261,7 @@ permalink: /community/
           <span><i class="fa fa-code text-muted mr-1"></i> IPFS / Redis </span>
         </div>
       </div>
-      <div class="output-card">
+      <div class="output-card" style="display:none;">
         <div class="output-badge"><i class="fa fa-microchip"></i> Engineering Research</div>
         <div class="output-title">Keylogger Application for Parental Monitoring (2023)</div>
         <div class="output-desc">
@@ -270,7 +275,7 @@ permalink: /community/
           <span><i class="fa fa-code text-muted mr-1"></i> Python</span>
         </div>
       </div>
-      <div class="output-card">
+      <div class="output-card" style="display:none;">
         <div class="output-badge"><i class="fa fa-graduation-cap"></i> Engineering Research</div>
         <div class="output-title">Comparison of Machine Learning Algorithms in Detecting Brute Force Attacks (2023)</div>
         <div class="output-desc">
@@ -279,9 +284,13 @@ permalink: /community/
         <div class="output-meta" style="margin-bottom: 10px;">
           <span><i class="fa fa-users text-muted mr-1"></i> İbrahim Yavuz, Ali Barış Çıkmaz </span>
         </div>
-        <div class="output-meta">
-          <span><i class="fa fa-folder-o text-muted mr-1"></i> Cybersecurity</span>
-          <span><i class="fa fa-cogs text-muted mr-1"></i> Machine Learning</span>
         </div>
       </div>
+    </div>
+    <div style="text-align:center;margin-top:1.2rem;">
+      <a href="/all-engineering-projects/" style="font-size:0.9rem;font-weight:600;color:#2563eb;text-decoration:none;">
+        All Engineering Projects (8) &rarr;
+      </a>
+    </div>
+  </section>
 </div>

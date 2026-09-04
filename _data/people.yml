@@ -112,6 +112,12 @@
   status: alumni
   linkedin: https://www.linkedin.com/in/volkanyigitt/
 
+- id: alperen_gultekin
+  name: Alperen Gültekin
+  role: Alumni
+  status: alumni
+  linkedin: https://www.linkedin.com/in/alperen-g%C3%BCltekin-4aa514205/
+
 - id: bilal_alagha
   name: Bilal Alagha
   role: Alumni
@@ -124,11 +130,11 @@
   status: alumni
   linkedin: https://www.linkedin.com/in/aybukekilic/
 
-- id: alperen_gultekin
-  name: Alperen Gültekin
+- id: metehan_yilmaz
+  name: Metehan Yılmaz
   role: Alumni
   status: alumni
-  linkedin: https://www.linkedin.com/in/alperen-g%C3%BCltekin-4aa514205/
+  linkedin: https://www.linkedin.com/in/metehan-yilmaz-dev/
 
 - id: m_fatih_solak
   name: M. Fatih Solak

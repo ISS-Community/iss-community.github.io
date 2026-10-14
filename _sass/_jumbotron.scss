@@ -234,6 +234,100 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.project-card-title {
+  min-height: 2.9rem;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+.project-top-title {
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  text-wrap: balance;
+}
+
+.open-call-popup {
+  position: relative;
+  margin: 0 0 1.5rem;
+  padding: 1.25rem 3.5rem 1.25rem 1.5rem;
+  color: #0f172a;
+  background: linear-gradient(135deg, #eff6ff 0%, #ffffff 72%);
+  border: 1px solid #93c5fd;
+  border-left: 5px solid #2563eb;
+  border-radius: 8px;
+  box-shadow: 0 8px 20px -12px rgba(37, 99, 235, 0.45);
+}
+
+.open-call-popup[hidden] {
+  display: none;
+}
+
+.open-call-popup-label {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: #1d4ed8;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.open-call-popup h2 {
+  margin: 0 0 0.45rem;
+  color: #0f172a;
+  font-size: 1.35rem;
+}
+
+.open-call-popup p {
+  max-width: 58rem;
+  margin: 0 0 0.9rem;
+  color: #334155;
+  line-height: 1.55;
+}
+
+.open-call-popup-list {
+  max-width: 58rem;
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+  color: #334155;
+  line-height: 1.5;
+}
+
+.open-call-popup-link {
+  margin-left: 0.75rem;
+  color: #1d4ed8;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.open-call-popup-close {
+  position: absolute;
+  top: 0.65rem;
+  right: 0.7rem;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  color: #475569;
+  background: transparent;
+  border: 0;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+@media (max-width: 575.98px) {
+  .open-call-popup {
+    padding-right: 2.75rem;
+  }
+
+  .open-call-popup-link {
+    display: inline-block;
+    margin-top: 0.7rem;
+    margin-left: 0;
+  }
+}
+
 // People Page Modern Layout
 .people-page {
   padding-top: 0.5rem;

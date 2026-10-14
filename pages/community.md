@@ -16,14 +16,23 @@ permalink: /community/
       </span>
       <h4 class="card-title text-dark mb-2" style="font-weight: 700;">Join ISS Lab Research Projects</h4>
       <p class="card-text text-muted mb-3" style="font-size: 0.95rem; line-height: 1.6;">
-        We invite motivated undergraduate and graduate students to participate in ongoing research on <strong>Network Security, AI Security, Blockchain Security Applications, and IoT Security</strong>. Mentoring is provided for TÜBİTAK 2209-A/B applications, graduation projects, and M.Sc./Ph.D. theses.
+        The Intelligent Systems Security Laboratory is expanding. We are looking for highly motivated and ambitious <strong>undergraduate and graduate students</strong> who want to move beyond theory and work on real-world security challenges, actual hardware, and hands-on research.
       </p>
+      <ul class="mb-3 pl-4" style="color: #475569; line-height: 1.7;">
+        <li><strong>Hands-on infrastructure:</strong> Manage, program, and deploy solutions in our in-house data center using real hardware and containerized environments.</li>
+        <li><strong>Industry-sponsored R&amp;D:</strong> Contribute to massive-scale solutions in network defense and anomaly detection.</li>
+        <li><strong>Defense-industry AI security:</strong> Develop adversarial attack mitigation strategies for mission-critical models.</li>
+        <li><strong>Career opportunities:</strong> Receive TÜBİTAK mentorship, co-author academic papers, and compete for an internship at an operational data center in Istanbul.</li>
+      </ul>
       <div class="d-flex flex-wrap gap-2">
         <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer" class="btn btn-sm mr-2 mb-2 shadow-sm" style="background-color: #dc2626 !important; color: #ffffff !important; border-color: #dc2626 !important; font-weight: 600; text-decoration: none;">
           <i class="fa fa-youtube-play mr-1 text-white"></i> Watch Community Call 2026 Video
         </a>
         <a href="mailto:contact@ozcelikilker.com" class="btn btn-sm mb-2 shadow-sm" style="background-color: #ffffff !important; color: #1e293b !important; border: 1px solid #cbd5e1 !important; font-weight: 600; text-decoration: none;">
           <i class="fa fa-envelope-o mr-1"></i> Contact Dr. İlker Özçelik
+        </a>
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7516107911438282752/" target="_blank" rel="noopener noreferrer" class="btn btn-sm mb-2 shadow-sm" style="background-color: #0a66c2 !important; color: #ffffff !important; border-color: #0a66c2 !important; font-weight: 600; text-decoration: none;">
+          <i class="fa fa-linkedin mr-1 text-white"></i> Original LinkedIn Announcement
         </a>
       </div>
     </div>

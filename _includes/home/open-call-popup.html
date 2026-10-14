@@ -1,0 +1,28 @@
+<div class="open-call-popup" role="dialog" aria-labelledby="open-call-popup-title" aria-describedby="open-call-popup-description">
+  <button class="open-call-popup-close" type="button" aria-label="Close announcement">&times;</button>
+  <span class="open-call-popup-label"><i class="fa fa-bullhorn mr-1"></i> ISSLab Community</span>
+  <h2 id="open-call-popup-title">Are You Ready for Real Cybersecurity Research?</h2>
+  <p id="open-call-popup-description">
+    Move beyond theory. ISSLab is looking for highly motivated undergraduate and graduate students to work on real-world security challenges, actual hardware, and hands-on research.
+  </p>
+  <ul class="open-call-popup-list">
+    <li>Manage and deploy solutions in our in-house data center.</li>
+    <li>Contribute to industry-sponsored network defense and anomaly detection R&amp;D.</li>
+    <li>Receive TÜBİTAK mentorship, publish research, and compete for an Istanbul data center internship.</li>
+  </ul>
+  <a class="btn btn-primary btn-sm" href="{{ '/community/' | relative_url }}">See the opportunity</a>
+  <a class="open-call-popup-link" href="https://www.linkedin.com/feed/update/urn:li:activity:7516107911438282752/" target="_blank" rel="noopener noreferrer">View LinkedIn post</a>
+</div>
+
+<script>
+  (function () {
+    var popup = document.querySelector('.open-call-popup');
+    var closeButton = popup && popup.querySelector('.open-call-popup-close');
+
+    if (popup && closeButton) {
+      closeButton.addEventListener('click', function () {
+        popup.hidden = true;
+      });
+    }
+  }());
+</script>

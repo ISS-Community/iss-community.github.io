@@ -25,6 +25,9 @@ permalink: /community/
         <li><strong>Career opportunities:</strong> Receive TÜBİTAK mentorship, co-author academic papers, gain technical experience, and compete for an internship at an operational data center in Istanbul.</li>
       </ul>
       <div class="d-flex flex-wrap gap-2">
+        <a href="{{ '/news/isslab-community-open-call/' | relative_url }}" class="btn btn-sm mb-2 shadow-sm" style="background-color: #2563eb !important; color: #ffffff !important; border-color: #2563eb !important; font-weight: 600; text-decoration: none;">
+          <i class="fa fa-newspaper-o mr-1 text-white"></i> Read News
+        </a>
         <a href="mailto:contact@ozcelikilker.com" class="btn btn-sm mb-2 shadow-sm" style="background-color: #ffffff !important; color: #1e293b !important; border: 1px solid #cbd5e1 !important; font-weight: 600; text-decoration: none;">
           <i class="fa fa-envelope-o mr-1"></i> Contact Dr. İlker Özçelik
         </a>

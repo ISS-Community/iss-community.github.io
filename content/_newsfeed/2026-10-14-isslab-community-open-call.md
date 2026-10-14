@@ -1,5 +1,6 @@
 ---
 date: 2026-10-14
+permalink: /news/isslab-community-open-call/
 title: "Are You Ready for Real Cybersecurity Research?"
 subtitle: Move beyond theory and join the expanding ISSLab team
 description: "ISSLab is looking for highly motivated undergraduate and graduate students to work on real-world cybersecurity research."

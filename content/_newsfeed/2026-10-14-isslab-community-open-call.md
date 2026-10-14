@@ -32,4 +32,4 @@ Take the first step towards building a highly technical and competitive academic
 - Website: [www.isslab.co](https://isslab.co)
 - Contact: [contact@ozcelikilker.com](mailto:contact@ozcelikilker.com)
 - YouTube: [@isslab_tr](https://www.youtube.com/@isslab_tr)
-- [Original LinkedIn announcement](https://www.linkedin.com/feed/update/urn:li:activity:7516107911438282752/)
+- [LinkedIn Announcement](https://www.linkedin.com/feed/update/urn:li:activity:7516107911438282752/)

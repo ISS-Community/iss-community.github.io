@@ -25,14 +25,11 @@ permalink: /community/
         <li><strong>Career opportunities:</strong> Receive TÜBİTAK mentorship, co-author academic papers, and compete for an internship at an operational data center in Istanbul.</li>
       </ul>
       <div class="d-flex flex-wrap gap-2">
-        <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer" class="btn btn-sm mr-2 mb-2 shadow-sm" style="background-color: #dc2626 !important; color: #ffffff !important; border-color: #dc2626 !important; font-weight: 600; text-decoration: none;">
-          <i class="fa fa-youtube-play mr-1 text-white"></i> Watch Community Call 2026 Video
-        </a>
         <a href="mailto:contact@ozcelikilker.com" class="btn btn-sm mb-2 shadow-sm" style="background-color: #ffffff !important; color: #1e293b !important; border: 1px solid #cbd5e1 !important; font-weight: 600; text-decoration: none;">
           <i class="fa fa-envelope-o mr-1"></i> Contact Dr. İlker Özçelik
         </a>
         <a href="https://www.linkedin.com/feed/update/urn:li:activity:7516107911438282752/" target="_blank" rel="noopener noreferrer" class="btn btn-sm mb-2 shadow-sm" style="background-color: #0a66c2 !important; color: #ffffff !important; border-color: #0a66c2 !important; font-weight: 600; text-decoration: none;">
-          <i class="fa fa-linkedin mr-1 text-white"></i> Original LinkedIn Announcement
+          <i class="fa fa-linkedin mr-1 text-white"></i> LinkedIn Announcement
         </a>
       </div>
     </div>

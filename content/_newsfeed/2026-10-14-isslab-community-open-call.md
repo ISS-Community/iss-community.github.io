@@ -5,7 +5,6 @@ subtitle: Move beyond theory and join the expanding ISSLab team
 description: "ISSLab is looking for highly motivated undergraduate and graduate students to work on real-world cybersecurity research."
 event_type: news
 linkedin_url: "https://www.linkedin.com/feed/update/urn:li:activity:7516107911438282752/"
-pdf_url: "/1791979666351.pdf"
 ---
 
 🚀 Are you [**#READY**](https://www.linkedin.com/search/results/all/?keywords=%23ready&origin=HASH_TAG_FROM_FEED) for [**#REAL**](https://www.linkedin.com/search/results/all/?keywords=%23real&origin=HASH_TAG_FROM_FEED) [**#cybersecurity**](https://www.linkedin.com/search/results/all/?keywords=%23cybersecurity&origin=HASH_TAG_FROM_FEED) [**#research**](https://www.linkedin.com/search/results/all/?keywords=%23research&origin=HASH_TAG_FROM_FEED)? Move beyond theory!
@@ -30,9 +29,8 @@ Take the first step towards building a highly technical and competitive academic
 
 ### Call for Dedicated Student Researchers
 
-<div class="student-researcher-pdf mb-4">
-	<iframe src="{{ '/1791979666351.pdf' | relative_url }}" title="ISSLab Call for Dedicated Student Researchers flyer"></iframe>
-	<a href="{{ '/1791979666351.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Open or download the full flyer (PDF)</a>
+<div class="student-researcher-png mb-4">
+	<img src="{{ '/assets/images/news/isslab-student-researcher-call-1.png' | relative_url }}" alt="ISSLab Call for Dedicated Student Researchers flyer" loading="lazy">
 </div>
 
 ### Apply & Discover More

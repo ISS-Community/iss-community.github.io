@@ -9,7 +9,7 @@ banner_image_source: "/assets/images/news/llm-security-seminar.jpg"
 youtube_url: "https://www.youtube.com/watch?v=gYtPo_axz_E"
 ---
 
-On **January 9, 2026**, ISS Lab released a technical webcast and seminar titled **"LLM Security in Enterprise Networks"** (*Kurumsal Ağlarda LLM Güvenliği*).
+On **January 9, 2026**, ISSLab released a technical webcast and seminar titled **"LLM Security in Enterprise Networks"** (*Kurumsal Ağlarda LLM Güvenliği*).
 
 <div class="my-4 text-center">
   <a href="https://www.youtube.com/watch?v=gYtPo_axz_E" target="_blank" rel="noopener noreferrer">
@@ -31,5 +31,5 @@ This webcast covers:
 #### Links & Resources
 
 - ▶️ **Watch on YouTube:** [Kurumsal Ağlarda LLM Güvenliği](https://www.youtube.com/watch?v=gYtPo_axz_E)
-- **ISS Lab Research Hub:** [esoguiss.wordpress.com](https://esoguiss.wordpress.com/)
+- **ISSLab Research Hub:** [esoguiss.wordpress.com](https://esoguiss.wordpress.com/)
 - **Community Hub & Video Archive:** [ISSLAB Community](/community/)

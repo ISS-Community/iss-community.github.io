@@ -53,7 +53,7 @@ categories:
 
   <h3>Embedded Hardware Prototyping & Benchmarks</h3>
   <p>
-    To validate feasibility on real-world IoT hardware, the ISS Lab team evaluated cryptographic primitive execution and memory footprints on embedded microcontrollers:
+    To validate feasibility on real-world IoT hardware, the ISSLab team evaluated cryptographic primitive execution and memory footprints on embedded microcontrollers:
   </p>
   <ul>
     <li><strong>Hardware Testbeds:</strong> STM32F4 series microcontrollers and STM STEVAL-IDB008V2 Bluetooth Low Energy (BLE) evaluation boards.</li>

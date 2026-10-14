@@ -14,15 +14,15 @@ permalink: /community/
       <span class="badge badge-primary px-3 py-2 mb-2" style="font-size: 0.82rem; letter-spacing: 0.04em; text-transform: uppercase;">
         <i class="fa fa-bullhorn mr-1"></i> Open Call & Student Invitation
       </span>
-      <h4 class="card-title text-dark mb-2" style="font-weight: 700;">Join ISS Lab Research Projects</h4>
+      <h4 class="card-title text-dark mb-2" style="font-weight: 700;">Join ISSLab Research Projects</h4>
       <p class="card-text text-muted mb-3" style="font-size: 0.95rem; line-height: 1.6;">
         The Intelligent Systems Security Laboratory is expanding. We are looking for highly motivated and ambitious <strong>undergraduate and graduate students</strong> who want to move beyond theory and work on real-world security challenges, actual hardware, and hands-on research.
       </p>
       <ul class="mb-3 pl-4" style="color: #475569; line-height: 1.7;">
-        <li><strong>Hands-on infrastructure:</strong> Manage, program, and deploy solutions in our in-house data center using real hardware and containerized environments.</li>
-        <li><strong>Industry-sponsored R&amp;D:</strong> Contribute to massive-scale solutions in network defense and anomaly detection.</li>
-        <li><strong>Defense-industry AI security:</strong> Develop adversarial attack mitigation strategies for mission-critical models.</li>
-        <li><strong>Career opportunities:</strong> Receive TÜBİTAK mentorship, co-author academic papers, and compete for an internship at an operational data center in Istanbul.</li>
+        <li><strong>Hands-on infrastructure:</strong> Manage, program, and deploy solutions in our in-house data center using real hardware, servers, and containerized environments.</li>
+        <li><strong>Industry-sponsored R&amp;D:</strong> Contribute to massive-scale, real-world solutions in network defense and anomaly detection, backed by industry partners.</li>
+        <li><strong>Defense-industry AI security:</strong> Develop adversarial attack mitigation strategies for mission-critical models and digital twin systems.</li>
+        <li><strong>Career opportunities:</strong> Receive TÜBİTAK mentorship, co-author academic papers, gain technical experience, and compete for an internship at an operational data center in Istanbul.</li>
       </ul>
       <div class="d-flex flex-wrap gap-2">
         <a href="mailto:contact@ozcelikilker.com" class="btn btn-sm mb-2 shadow-sm" style="background-color: #ffffff !important; color: #1e293b !important; border: 1px solid #cbd5e1 !important; font-weight: 600; text-decoration: none;">
@@ -128,7 +128,7 @@ permalink: /community/
             <a href="https://www.youtube.com/watch?v=w57ojUBgFFE" target="_blank" rel="noopener noreferrer" class="video-link">
               <i class="fa fa-youtube-play text-danger mr-1"></i> Watch Video <i class="fa fa-external-link ml-1"></i>
             </a>
-            <small class="text-muted mt-1">Invitation: <a href="mailto:ilkerozcelik@ogu.edu.tr">Apply via Email</a> · <a href="https://groups.google.com/g/iss-lab-community" target="_blank" rel="noopener noreferrer">Google Group</a></small>
+            <small class="text-muted mt-1">Invitation: <a href="mailto:contact@ozcelikilker.com">Apply via Email</a> · <a href="https://groups.google.com/g/iss-lab-community" target="_blank" rel="noopener noreferrer">Google Group</a></small>
           </div>
         </div>
       </div>

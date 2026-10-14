@@ -22,7 +22,7 @@ categories:
   <div class="alert alert-info border-primary mb-4 p-3" style="border-left: 4px solid #2563eb; background: #f0f7ff;">
     <strong>Research Focus:</strong> Developing a hybrid optimization framework integrating Generative Adversarial Networks, Genetic Algorithms, and Multi-Objective Evolutionary Algorithms for effective and stealthy adversarial perturbation generation.<br>
     <strong>Funding / Collaboration:</strong> Intelligent Systems Security Laboratory (ISSLab)<br>
-    <strong>Academic Supervision and Institutional Context:</strong> Intelligent Systems Security Laboratory (ISSLab), Eskisehir Osmangazi University (M.Sc. Thesis: Aybüke Kılıç; Advisor: Dr. İlker Özçelik).<br>
+    <strong>Academic Supervision and Institutional Context:</strong> Intelligent Systems Security Laboratory (ISSLab), Eskişehir Osmangazi University (M.Sc. Thesis: Aybüke Kılıç; Advisor: Dr. İlker Özçelik).<br>
   </div>
 
   <h3>Research Motivation</h3>
@@ -91,7 +91,7 @@ categories:
     <h5 class="mb-1 font-weight-bold">Advanced Adversarial Attack Architecture for Machine Learning Models</h5>
     <p class="text-muted mb-2"><em>Aybüke Kılıç (Author), Dr. İlker Özçelik (Supervisor)</em></p>
     <p class="mb-2" style="font-size: 0.92rem;">
-      Master of Science Thesis, Department of Computer Engineering, Eskisehir Osmangazi University Graduate School of Natural and Applied Sciences, August 2025.
+      Master of Science Thesis, Department of Computer Engineering, Eskişehir Osmangazi University Graduate School of Natural and Applied Sciences, August 2025.
     </p>
   </div>
 

@@ -7,7 +7,7 @@ event_type: news
 banner_image_source: "assets/images/vintage-newspaper-print-downsize.jpg"
 ---
 
-On **August 29, 2025**, the research article *"IP Spoofing Detection Using Deep Learning"* by ISS Lab researchers **İsmet Kaan Çekiş**, **Buğra Ayrancı**, **Fatma Nur Salman**, and **Dr. İlker Özçelik** was published in **Applied Sciences (MDPI)**.
+On **August 29, 2025**, the research article *"IP Spoofing Detection Using Deep Learning"* by ISSLab researchers **İsmet Kaan Çekiş**, **Buğra Ayrancı**, **Fatma Nur Salman**, and **Dr. İlker Özçelik** was published in **Applied Sciences (MDPI)**.
 
 IP spoofing remains a core mechanism employed in Distributed Denial of Service (DDoS) reflection attacks, allowing adversaries to mask their origin and redirect traffic toward victim infrastructure. This study conducts a comprehensive comparative evaluation of deep learning models for detecting spoofed packets, analyzing classification accuracy, precision, recall, F1-score, and per-packet inference latency under realistic network traffic distributions.
 

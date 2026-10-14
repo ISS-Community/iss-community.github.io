@@ -2,7 +2,7 @@
 date: 2026-01-20
 title: "ISSLab 2026 Community Call for Projects (TÜBİTAK 2209 & Student Research)"
 subtitle: Join cutting-edge research in Network Security, Quantized AI, and Blockchain
-description: "Open invitation for undergraduate, M.Sc., and Ph.D. students seeking to participate in TÜBİTAK 2209-A/B, TÜBİTAK 3501, and DorukNet industrial R&D projects mentored within ISS Lab."
+description: "Open invitation for undergraduate, M.Sc., and Ph.D. students seeking to participate in TÜBİTAK 2209-A/B, TÜBİTAK 3501, and DorukNet industrial R&D projects mentored within ISSLab."
 event_type: news
 image: "/assets/images/news/call-for-projects.jpg"
 banner_image_source: "/assets/images/news/call-for-projects.jpg"

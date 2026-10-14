@@ -21,7 +21,7 @@ categories:
   <div class="alert alert-info border-primary mb-4 p-3" style="border-left: 4px solid #2563eb; background: #f0f7ff;">
     <strong>Research Focus:</strong> Designing a scalable, tamper-proof, and constant-time verification framework for enterprise and financial audit trails by integrating decentralized storage with dynamic cryptographic accumulators.<br>
     <strong>Funding / Collaboration:</strong> Intelligent Systems Security Laboratory (ISSLab)<br>
-    <strong>Academic Supervision and Institutional Context:</strong> Intelligent Systems Security Laboratory (ISSLab), Eskisehir Osmangazi University (M.Sc. Thesis: Bilal S. T. Alagha; Advisor: Dr. İlker Özçelik).<br>
+    <strong>Academic Supervision and Institutional Context:</strong> Intelligent Systems Security Laboratory (ISSLab), Eskişehir Osmangazi University (M.Sc. Thesis: Bilal S. T. Alagha; Advisor: Dr. İlker Özçelik).<br>
   </div>
 
   <h3>Research Motivation</h3>
@@ -79,7 +79,7 @@ categories:
     <h5 class="mb-1 font-weight-bold">A Blockchain-Based Efficient Audit Trail Framework</h5>
     <p class="text-muted mb-2"><em>Bilal S. T. Alagha (Author), Dr. İlker Özçelik (Supervisor)</em></p>
     <p class="mb-2" style="font-size: 0.92rem;">
-      Master of Science Thesis, Department of Computer Engineering, Eskisehir Osmangazi University Graduate School of Natural and Applied Sciences, December 2024.
+      Master of Science Thesis, Department of Computer Engineering, Eskişehir Osmangazi University Graduate School of Natural and Applied Sciences, December 2024.
     </p>
   </div>
 

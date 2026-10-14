@@ -9,7 +9,7 @@ banner_image_source: "/assets/images/news/gnn-seminar.jpg"
 youtube_url: "https://www.youtube.com/watch?v=tXkzQgZWeT8"
 ---
 
-On **February 11, 2026**, the ISS Lab hosted a research seminar titled **"Adversarial Attacks on Graph Neural Networks"** (*Graf Sinir Ağlarına Karşı Çekişmeli Saldırılar*), presented as part of our ongoing research on AI robustness and graph learning for cybersecurity.
+On **February 11, 2026**, ISSLab hosted a research seminar titled **"Adversarial Attacks on Graph Neural Networks"** (*Graf Sinir Ağlarına Karşı Çekişmeli Saldırılar*), presented as part of our ongoing research on AI robustness and graph learning for cybersecurity.
 
 <div class="my-4 text-center">
   <a href="https://www.youtube.com/watch?v=tXkzQgZWeT8" target="_blank" rel="noopener noreferrer">

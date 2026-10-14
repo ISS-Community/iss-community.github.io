@@ -35,39 +35,6 @@ Take the first step towards building a highly technical and competitive academic
 	<a href="{{ '/1791979666351.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Open or download the full flyer (PDF)</a>
 </div>
 
-<div class="student-researcher-flyer mb-4">
-	<div class="student-researcher-flyer-heading">
-		<strong>Are you ready for real cybersecurity research?</strong>
-		<span>Join the Intelligent Systems Security Lab (ISSLab)</span>
-	</div>
-	<div class="student-researcher-flyer-intro">
-		<h4>Call for Dedicated Student Researchers</h4>
-		<p>ISSLab is expanding. We are looking for highly motivated undergraduate and graduate students who want to move beyond theory and get hands-on experience in network defense, AI security, and decentralized systems. If you are passionate about solving real-world security challenges, building on actual hardware, and kickstarting your academic career, we want you on our team.</p>
-	</div>
-	<div class="row no-gutters">
-		<div class="col-md-6 p-3">
-			<h4>What you will do</h4>
-			<ul>
-				<li><strong>Hands-on infrastructure:</strong> Manage, program, and deploy solutions using real hardware, servers, and containerized environments.</li>
-				<li><strong>Industry-sponsored R&amp;D:</strong> Work on high-throughput network monitoring and anomaly detection frameworks.</li>
-				<li><strong>Defense-industry AI security:</strong> Develop adversarial attack mitigation strategies for mission-critical models and digital twin systems.</li>
-			</ul>
-		</div>
-		<div class="col-md-6 p-3">
-			<h4>What we provide your career</h4>
-			<ul>
-				<li><strong>TÜBİTAK project mentorship</strong> and guidance for funded student projects.</li>
-				<li><strong>Academic publishing</strong> with opportunities to co-author papers for journals and conferences.</li>
-				<li><strong>Technical experience</strong> for academic and cybersecurity careers.</li>
-				<li><strong>Istanbul data center internship</strong> opportunities for top-performing students.</li>
-			</ul>
-		</div>
-	</div>
-	<div class="student-researcher-flyer-contact">
-		<strong>Connect &amp; Apply:</strong> <a href="https://isslab.co">isslab.co</a> · <a href="mailto:contact@ozcelikilker.com">contact@ozcelikilker.com</a> · YouTube: @isslab_tr
-	</div>
-</div>
-
 ### Apply & Discover More
 
 - Website: [www.isslab.co](https://isslab.co)

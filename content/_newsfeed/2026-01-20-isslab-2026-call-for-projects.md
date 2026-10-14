@@ -40,4 +40,4 @@ We invite motivated undergraduate and graduate students to participate in our on
    👉 [Google Group: iss-lab-community](https://groups.google.com/g/iss-lab-community)
 
 4. ✉️ **Application & Contact:** Send your CV and research interests to:  
-   👉 [Dr. İlker Özçelik — ilkerozcelik@ogu.edu.tr](mailto:ilkerozcelik@ogu.edu.tr)
+   👉 [Dr. İlker Özçelik — contact@ozcelikilker.com](mailto:contact@ozcelikilker.com)

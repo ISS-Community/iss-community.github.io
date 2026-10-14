@@ -5,6 +5,7 @@ subtitle: Move beyond theory and join the expanding ISSLab team
 description: "ISSLab is looking for highly motivated undergraduate and graduate students to work on real-world cybersecurity research."
 event_type: news
 linkedin_url: "https://www.linkedin.com/feed/update/urn:li:activity:7516107911438282752/"
+pdf_url: "/1791979666351.pdf"
 ---
 
 🚀 Are you [**#READY**](https://www.linkedin.com/search/results/all/?keywords=%23ready&origin=HASH_TAG_FROM_FEED) for [**#REAL**](https://www.linkedin.com/search/results/all/?keywords=%23real&origin=HASH_TAG_FROM_FEED) [**#cybersecurity**](https://www.linkedin.com/search/results/all/?keywords=%23cybersecurity&origin=HASH_TAG_FROM_FEED) [**#research**](https://www.linkedin.com/search/results/all/?keywords=%23research&origin=HASH_TAG_FROM_FEED)? Move beyond theory!
@@ -29,10 +30,19 @@ Take the first step towards building a highly technical and competitive academic
 
 ### Call for Dedicated Student Researchers
 
+<div class="student-researcher-pdf mb-4">
+	<iframe src="{{ '/1791979666351.pdf' | relative_url }}" title="ISSLab Call for Dedicated Student Researchers flyer"></iframe>
+	<a href="{{ '/1791979666351.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Open or download the full flyer (PDF)</a>
+</div>
+
 <div class="student-researcher-flyer mb-4">
 	<div class="student-researcher-flyer-heading">
 		<strong>Are you ready for real cybersecurity research?</strong>
 		<span>Join the Intelligent Systems Security Lab (ISSLab)</span>
+	</div>
+	<div class="student-researcher-flyer-intro">
+		<h4>Call for Dedicated Student Researchers</h4>
+		<p>ISSLab is expanding. We are looking for highly motivated undergraduate and graduate students who want to move beyond theory and get hands-on experience in network defense, AI security, and decentralized systems. If you are passionate about solving real-world security challenges, building on actual hardware, and kickstarting your academic career, we want you on our team.</p>
 	</div>
 	<div class="row no-gutters">
 		<div class="col-md-6 p-3">

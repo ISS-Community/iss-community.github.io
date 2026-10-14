@@ -164,20 +164,30 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-top {
-  min-height: 140px;
-  padding: 2rem 1.5rem;
+  height: 180px;
+  min-height: 180px;
+  box-sizing: border-box;
+  padding: 1.25rem 1rem;
   overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
 
   h3 {
+    display: -webkit-box;
+    width: 100%;
+    max-height: 4.5rem;
+    overflow: hidden;
     color: #0f172a !important;
     font-weight: 650;
-    letter-spacing: -0.02em;
-    font-size: clamp(1.4rem, 2.4vw, 1.85rem);
-    line-height: 1.25;
+    letter-spacing: 0;
+    font-size: clamp(1.15rem, 2vw, 1.55rem);
+    line-height: 1.35;
     margin: 0;
+    text-align: center;
+    text-wrap: balance;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
   }
 }
 
@@ -235,7 +245,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-card-title {
-  min-height: 2.9rem;
+  min-height: 3.5rem;
+  margin-bottom: 0.6rem;
+  line-height: 1.35;
   overflow-wrap: anywhere;
   word-break: normal;
 }
@@ -331,6 +343,65 @@ h1, h2, h3, h4, h5, h6 {
   color: #1d4ed8;
   font-size: 0.9rem;
   font-weight: 600;
+}
+
+.student-researcher-flyer {
+  overflow: hidden;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 8px 20px -16px rgba(15, 23, 42, 0.65);
+}
+
+.student-researcher-flyer-heading {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 1.25rem 1.5rem;
+  color: #ffffff;
+  background: #111827;
+  border-left: 5px solid #2563eb;
+}
+
+.student-researcher-flyer-heading strong {
+  color: #bfdbfe;
+  font-size: 1.35rem;
+  line-height: 1.25;
+  text-transform: uppercase;
+}
+
+.student-researcher-flyer-heading span {
+  color: #fbbf24;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.student-researcher-flyer h4 {
+  margin: 0 0 0.75rem;
+  color: #0f172a;
+  font-size: 1.05rem;
+}
+
+.student-researcher-flyer ul {
+  margin: 0;
+  padding-left: 1.2rem;
+  color: #475569;
+  line-height: 1.55;
+}
+
+.student-researcher-flyer li + li {
+  margin-top: 0.65rem;
+}
+
+.student-researcher-flyer-contact {
+  padding: 0.85rem 1.5rem;
+  color: #e2e8f0;
+  background: #111827;
+  font-size: 0.9rem;
+}
+
+.student-researcher-flyer-contact a {
+  color: #93c5fd;
 }
 
 .open-call-popup-close {

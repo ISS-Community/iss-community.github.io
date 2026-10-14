@@ -4,8 +4,6 @@ title: "Are You Ready for Real Cybersecurity Research?"
 subtitle: Move beyond theory and join the expanding ISSLab team
 description: "ISSLab is looking for highly motivated undergraduate and graduate students to work on real-world cybersecurity research."
 event_type: news
-image: "/assets/images/news/isslab-student-researcher-call-1.png"
-banner_image_source: "/assets/images/news/isslab-student-researcher-call-1.png"
 linkedin_url: "https://www.linkedin.com/feed/update/urn:li:activity:7516107911438282752/"
 ---
 
